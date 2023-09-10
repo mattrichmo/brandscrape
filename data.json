@@ -1,0 +1,77 @@
+{
+    "BrandData": [
+        {
+            "BrandName": "Apple",
+            "BrandLogo": [
+                {
+                    "Logo": "./Data/apple/apple-ar21.svg",
+                    "LogoType": "svg"
+                },
+                {
+                    "Logo": "./Data/apple/apple-icon.svg",
+                    "LogoType": "svg"
+                },
+                {
+                    "Logo": "./Data/apple/apple-tile.svg",
+                    "LogoType": "svg"
+                }
+            ]
+        },
+        {
+            "BrandName": "3M",
+            "BrandLogo": [
+                {
+                    "Logo": "./Data/3m/3m-ar21.svg",
+                    "LogoType": "svg"
+                },
+                {
+                    "Logo": "./Data/3m/3m-icon.svg",
+                    "LogoType": "svg"
+                }
+            ]
+        },
+        {
+            "BrandName": "Airbnb",
+            "BrandLogo": [
+                {
+                    "Logo": "./Data/airbnb/airbnb-ar21.svg",
+                    "LogoType": "svg"
+                },
+                {
+                    "Logo": "./Data/airbnb/airbnb-icon.svg",
+                    "LogoType": "svg"
+                },
+                {
+                    "Logo": "./Data/airbnb/airbnb-tile.svg",
+                    "LogoType": "svg"
+                }
+            ]
+        },
+        {
+            "BrandName": "2ndQuadrant",
+            "BrandLogo": [
+                {
+                    "Logo": "./Data/2ndquadrant/2ndquadrant-ar21.svg",
+                    "LogoType": "svg"
+                },
+                {
+                    "Logo": "./Data/2ndquadrant/2ndquadrant-icon.svg",
+                    "LogoType": "svg"
+                }
+            ]
+        },
+        {
+            "BrandName": "1Password",
+            "BrandLogo": [
+                {
+                    "Logo": "./Data/1password/1password-ar21.svg",
+                    "LogoType": "svg"
+                },
+                {
+                    "Logo": "./Data/1password/1password-icon.svg",
+                    "LogoType": "svg"
+                }
+            ]
+        }
+    ]
+}
