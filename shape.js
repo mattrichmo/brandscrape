@@ -30,7 +30,8 @@ const shape = {
                 "secondary": true, // whether the color is a secondary brand color
                 "tertiary": false, // whether the color is a tertiary brand color
                 "quaternary": false, // whether the color is a quaternary brand color
-                "priority": 0 // priority of the color, with 0 being the highest
+                "priority": 0, // priority of the color, with 0 being the highest
+                "setting": "" // setting for the color, e.g. "light" or "dark", print, press, etc
             },
             "colorName": "", // name of the color
             "colorHex": "", // hexadecimal value of the color
