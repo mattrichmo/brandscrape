@@ -1,0 +1,42 @@
+[
+    {
+        "fileName": "fiverr-ar21.svg",
+        "svgPath": "../Data/logo-cleaned/fiverr/fiverr-ar21.svg",
+        "svgData": {
+            "meta": {
+                "height": "60",
+                "width": "120",
+                "viewBox": "0 0 19.2 9.6",
+                "version": "1.1",
+                "id": "svg14",
+                "{http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd}docname": "fiverr-ar21.svg",
+                "{http://www.inkscape.org/namespaces/inkscape}version": "0.92.4 (5da689c313, 2019-01-14)"
+            },
+            "svgRaw": "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"no\"?>\n<svg\n   xmlns:dc=\"http://purl.org/dc/elements/1.1/\"\n   xmlns:cc=\"http://creativecommons.org/ns#\"\n   xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"\n   xmlns:svg=\"http://www.w3.org/2000/svg\"\n   xmlns=\"http://www.w3.org/2000/svg\"\n   xmlns:sodipodi=\"http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd\"\n   xmlns:inkscape=\"http://www.inkscape.org/namespaces/inkscape\"\n   height=\"60\"\n   width=\"120\"\n   viewBox=\"0 0 19.2 9.6\"\n   version=\"1.1\"\n   id=\"svg14\"\n   sodipodi:docname=\"fiverr-ar21.svg\"\n   inkscape:version=\"0.92.4 (5da689c313, 2019-01-14)\">\n  <metadata\n     id=\"metadata20\">\n    <rdf:RDF>\n      <cc:Work\n         rdf:about=\"\">\n        <dc:format>image/svg+xml</dc:format>\n        <dc:type\n           rdf:resource=\"http://purl.org/dc/dcmitype/StillImage\" />\n        <dc:title></dc:title>\n      </cc:Work>\n    </rdf:RDF>\n  </metadata>\n  <defs\n     id=\"defs18\" />\n  <sodipodi:namedview\n     pagecolor=\"#ffffff\"\n     bordercolor=\"#666666\"\n     borderopacity=\"1\"\n     objecttolerance=\"10\"\n     gridtolerance=\"10\"\n     guidetolerance=\"10\"\n     inkscape:pageopacity=\"0\"\n     inkscape:pageshadow=\"2\"\n     inkscape:window-width=\"1920\"\n     inkscape:window-height=\"1001\"\n     id=\"namedview16\"\n     showgrid=\"false\"\n     inkscape:zoom=\"4.2720563\"\n     inkscape:cx=\"108.83451\"\n     inkscape:cy=\"46.015973\"\n     inkscape:window-x=\"-9\"\n     inkscape:window-y=\"-9\"\n     inkscape:window-maximized=\"1\"\n     inkscape:current-layer=\"svg14\" />\n  <g\n     id=\"g831\"\n     transform=\"matrix(0.01873953,0,0,0.01873953,5.852094,1.052094)\">\n    <circle\n       id=\"circle2\"\n       r=\"200\"\n       cy=\"200\"\n       cx=\"200\"\n       style=\"fill:#00b22d\" />\n    <g\n       id=\"g12\"\n       style=\"fill:#ffffff\">\n      <circle\n         id=\"circle8\"\n         r=\"9\"\n         cy=\"163\"\n         cx=\"104.6\" />\n      <path\n         id=\"path10\"\n         d=\"M 114,177.9 H 72.8 v -2.7 c 0,-5.3 5.3,-5.4 8,-5.4 3.1,0 4.5,0.3 4.5,0.3 v -14.6 c 0,0 -2.8,-0.4 -6.6,-0.4 -8.6,0 -24.5,2.4 -24.5,20.6 v 2.3 h -7.5 v 13.5 h 7.5 V 220 h -7 v 13.5 H 81 V 220 H 72.8 V 191.5 H 95.3 V 220 h -7 v 13.5 H 121 V 220 h -7 z m 70,0 h -29.5 v 13.5 h 5 l -6.4,20 c -1.2,3.3 -1.5,7.3 -1.5,7.3 h -0.4 c 0,0 -0.3,-4 -1.5,-7.3 l -6.4,-20 h 5 v -13.5 h -29.5 v 13.5 h 6.2 l 15.4,42 h 22 l 15.4,-42 h 6.2 z m 54.6,25.5 c 0,-15.4 -9.3,-26.8 -25.8,-26.8 -17.9,0 -28.9,12.7 -28.9,29 0,14.8 10.7,29.1 30.5,29.1 15,0 23.9,-7.8 23.9,-7.8 L 231.5,214 c 0,0 -7.4,5.3 -15.6,5.3 -5.9,0 -11.5,-3.1 -12.9,-10.2 h 35.2 c -0.1,-0.1 0.4,-3.9 0.4,-5.7 z m -35.2,-4.6 c 1,-4.3 3.6,-8.2 8.9,-8.2 4.1,0 7,3.8 7,8.2 z m 114.1,-8.1 h -0.2 c 0,0 0.2,-1.1 0.2,-2.8 V 185 c 0,-5.1 -2.8,-7.1 -7.9,-7.1 h -17.5 v 13.5 h 5.2 c 1.5,0 2.4,0.9 2.4,2.4 V 220 h -7.5 v 13.5 h 33.7 V 220 h -7.5 v -8.1 c 0,-10.1 5,-16.7 15.3,-16.7 2.3,0 3.8,0.3 3.8,0.3 v -18.3 c 0,0 -1.1,-0.2 -2.2,-0.2 -8.4,-0.1 -15.4,6.1 -17.8,13.7 z m -49.3,0 H 268 c 0,0 0.2,-1.1 0.2,-2.8 V 185 c 0,-5.1 -2.8,-7.1 -7.9,-7.1 h -17.5 v 13.5 h 5.2 c 1.5,0 2.4,0.9 2.4,2.4 V 220 h -7.5 v 13.5 h 33.7 V 220 h -7.5 v -8.1 c 0,-10.1 5,-16.7 15.3,-16.7 2.3,0 3.8,0.3 3.8,0.3 v -18.3 c 0,0 -1.1,-0.2 -2.2,-0.2 -8.5,-0.1 -15.5,6.1 -17.8,13.7 z\"\n         inkscape:connector-curvature=\"0\" />\n    </g>\n  </g>\n</svg>\n"
+        },
+        "width": "120",
+        "height": "60",
+        "viewbox": "0 0 19.2 9.6",
+        "fill": ""
+    },
+    {
+        "fileName": "fiverr-icon.svg",
+        "svgPath": "../Data/logo-cleaned/fiverr/fiverr-icon.svg",
+        "svgData": {
+            "meta": {
+                "height": "64",
+                "width": "64",
+                "viewBox": "0 0 10.24 10.24",
+                "version": "1.1",
+                "id": "svg14",
+                "{http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd}docname": "fiverr-icon.svg",
+                "{http://www.inkscape.org/namespaces/inkscape}version": "0.92.4 (5da689c313, 2019-01-14)"
+            },
+            "svgRaw": "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"no\"?>\n<svg\n   xmlns:dc=\"http://purl.org/dc/elements/1.1/\"\n   xmlns:cc=\"http://creativecommons.org/ns#\"\n   xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"\n   xmlns:svg=\"http://www.w3.org/2000/svg\"\n   xmlns=\"http://www.w3.org/2000/svg\"\n   xmlns:sodipodi=\"http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd\"\n   xmlns:inkscape=\"http://www.inkscape.org/namespaces/inkscape\"\n   height=\"64\"\n   width=\"64\"\n   viewBox=\"0 0 10.24 10.24\"\n   version=\"1.1\"\n   id=\"svg14\"\n   sodipodi:docname=\"fiverr-icon.svg\"\n   inkscape:version=\"0.92.4 (5da689c313, 2019-01-14)\">\n  <metadata\n     id=\"metadata20\">\n    <rdf:RDF>\n      <cc:Work\n         rdf:about=\"\">\n        <dc:format>image/svg+xml</dc:format>\n        <dc:type\n           rdf:resource=\"http://purl.org/dc/dcmitype/StillImage\" />\n        <dc:title></dc:title>\n      </cc:Work>\n    </rdf:RDF>\n  </metadata>\n  <defs\n     id=\"defs18\" />\n  <sodipodi:namedview\n     pagecolor=\"#ffffff\"\n     bordercolor=\"#666666\"\n     borderopacity=\"1\"\n     objecttolerance=\"10\"\n     gridtolerance=\"10\"\n     guidetolerance=\"10\"\n     inkscape:pageopacity=\"0\"\n     inkscape:pageshadow=\"2\"\n     inkscape:window-width=\"1920\"\n     inkscape:window-height=\"1001\"\n     id=\"namedview16\"\n     showgrid=\"false\"\n     inkscape:zoom=\"4.2720563\"\n     inkscape:cx=\"108.83451\"\n     inkscape:cy=\"46.015973\"\n     inkscape:window-x=\"-9\"\n     inkscape:window-y=\"-9\"\n     inkscape:window-maximized=\"1\"\n     inkscape:current-layer=\"svg14\" />\n  <g\n     id=\"g831\"\n     transform=\"scale(0.0256)\">\n    <circle\n       id=\"circle2\"\n       r=\"200\"\n       cy=\"200\"\n       cx=\"200\"\n       style=\"fill:#00b22d\" />\n    <g\n       id=\"g12\"\n       style=\"fill:#ffffff\">\n      <circle\n         id=\"circle8\"\n         r=\"9\"\n         cy=\"163\"\n         cx=\"104.6\" />\n      <path\n         id=\"path10\"\n         d=\"M 114,177.9 H 72.8 v -2.7 c 0,-5.3 5.3,-5.4 8,-5.4 3.1,0 4.5,0.3 4.5,0.3 v -14.6 c 0,0 -2.8,-0.4 -6.6,-0.4 -8.6,0 -24.5,2.4 -24.5,20.6 v 2.3 h -7.5 v 13.5 h 7.5 V 220 h -7 v 13.5 H 81 V 220 H 72.8 V 191.5 H 95.3 V 220 h -7 v 13.5 H 121 V 220 h -7 z m 70,0 h -29.5 v 13.5 h 5 l -6.4,20 c -1.2,3.3 -1.5,7.3 -1.5,7.3 h -0.4 c 0,0 -0.3,-4 -1.5,-7.3 l -6.4,-20 h 5 v -13.5 h -29.5 v 13.5 h 6.2 l 15.4,42 h 22 l 15.4,-42 h 6.2 z m 54.6,25.5 c 0,-15.4 -9.3,-26.8 -25.8,-26.8 -17.9,0 -28.9,12.7 -28.9,29 0,14.8 10.7,29.1 30.5,29.1 15,0 23.9,-7.8 23.9,-7.8 L 231.5,214 c 0,0 -7.4,5.3 -15.6,5.3 -5.9,0 -11.5,-3.1 -12.9,-10.2 h 35.2 c -0.1,-0.1 0.4,-3.9 0.4,-5.7 z m -35.2,-4.6 c 1,-4.3 3.6,-8.2 8.9,-8.2 4.1,0 7,3.8 7,8.2 z m 114.1,-8.1 h -0.2 c 0,0 0.2,-1.1 0.2,-2.8 V 185 c 0,-5.1 -2.8,-7.1 -7.9,-7.1 h -17.5 v 13.5 h 5.2 c 1.5,0 2.4,0.9 2.4,2.4 V 220 h -7.5 v 13.5 h 33.7 V 220 h -7.5 v -8.1 c 0,-10.1 5,-16.7 15.3,-16.7 2.3,0 3.8,0.3 3.8,0.3 v -18.3 c 0,0 -1.1,-0.2 -2.2,-0.2 -8.4,-0.1 -15.4,6.1 -17.8,13.7 z m -49.3,0 H 268 c 0,0 0.2,-1.1 0.2,-2.8 V 185 c 0,-5.1 -2.8,-7.1 -7.9,-7.1 h -17.5 v 13.5 h 5.2 c 1.5,0 2.4,0.9 2.4,2.4 V 220 h -7.5 v 13.5 h 33.7 V 220 h -7.5 v -8.1 c 0,-10.1 5,-16.7 15.3,-16.7 2.3,0 3.8,0.3 3.8,0.3 v -18.3 c 0,0 -1.1,-0.2 -2.2,-0.2 -8.5,-0.1 -15.5,6.1 -17.8,13.7 z\"\n         inkscape:connector-curvature=\"0\" />\n    </g>\n  </g>\n</svg>\n"
+        },
+        "width": "64",
+        "height": "64",
+        "viewbox": "0 0 10.24 10.24",
+        "fill": ""
+    }
+]

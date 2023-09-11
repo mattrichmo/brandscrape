@@ -1,0 +1,56 @@
+[
+    {
+        "fileName": "pinboard-ar21.svg",
+        "svgPath": "../Data/logo-cleaned/pinboard/pinboard-ar21.svg",
+        "svgData": {
+            "meta": {
+                "height": "60",
+                "width": "120",
+                "fill-rule": "evenodd",
+                "image-rendering": "optimizeQuality",
+                "shape-rendering": "geometricPrecision",
+                "text-rendering": "geometricPrecision"
+            },
+            "svgRaw": "<svg xmlns=\"http://www.w3.org/2000/svg\" height=\"60\" width=\"120\" fill-rule=\"evenodd\" image-rendering=\"optimizeQuality\" shape-rendering=\"geometricPrecision\" text-rendering=\"geometricPrecision\"><path d=\"M74.675 34.327V5.29h-29.35v29.35h29.35zM48.536 15.77l7.1-7.263.535.217v2.63l6.536 6.02 4.062-.997.3.516-4.196 4.46 8.6 9.645-.44.44-9.753-8.623-4.017 4.11-.53-.27.65-3.666-5.558-6.855-3.053.165-.24-.528z\" fill=\"#172ff1\"/><text y=\"54.732\" x=\"16.449\" xml:space=\"preserve\" font-size=\"19.511\" font-family=\"sans-serif\" letter-spacing=\"0\" word-spacing=\"0\"><tspan y=\"54.416\" x=\"16.449\">PinBoard</tspan></text></svg>"
+        },
+        "width": "120",
+        "height": "60",
+        "viewbox": "",
+        "fill": ""
+    },
+    {
+        "fileName": "pinboard-icon.svg",
+        "svgPath": "../Data/logo-cleaned/pinboard/pinboard-icon.svg",
+        "svgData": {
+            "meta": {
+                "height": "64",
+                "viewBox": "0 0 32 32",
+                "width": "64",
+                "fill-rule": "evenodd",
+                "image-rendering": "optimizeQuality",
+                "shape-rendering": "geometricPrecision",
+                "text-rendering": "geometricPrecision"
+            },
+            "svgRaw": "<svg xmlns=\"http://www.w3.org/2000/svg\" height=\"64\" viewBox=\"0 0 32 32\" width=\"64\" fill-rule=\"evenodd\" image-rendering=\"optimizeQuality\" shape-rendering=\"geometricPrecision\" text-rendering=\"geometricPrecision\"><path d=\"M32 31.66V0H0v32h32zM3.5 11.427l7.74-7.92.584.237v2.87l7.126 6.562 4.43-1.087.328.562-4.575 4.863L28.5 28.03l-.48.48-10.633-9.402-4.38 4.482-.578-.295.7-3.997-6.06-7.474-3.328.18-.26-.576z\" fill=\"#172ff1\"/></svg>"
+        },
+        "width": "64",
+        "height": "64",
+        "viewbox": "0 0 32 32",
+        "fill": ""
+    },
+    {
+        "fileName": "pinboard-tile.svg",
+        "svgPath": "../Data/logo-cleaned/pinboard/pinboard-tile.svg",
+        "svgData": {
+            "meta": {
+                "height": "512",
+                "width": "512"
+            },
+            "svgRaw": "<svg xmlns=\"http://www.w3.org/2000/svg\" height=\"512\" width=\"512\"><rect height=\"512\" rx=\"15%\" width=\"512\" fill=\"#182ef5\"/><path fill=\"#fff\" d=\"M182.324 56L56 185.227l57.13-3.07 102.258 126.146-12.023 67.7 75.17-76.912L456 456 299.613 280.604l78.16-83.048L302.6 216 182.324 105.236\"/></svg>"
+        },
+        "width": "512",
+        "height": "512",
+        "viewbox": "",
+        "fill": ""
+    }
+]

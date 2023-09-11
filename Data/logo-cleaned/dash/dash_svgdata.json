@@ -1,0 +1,48 @@
+[
+    {
+        "fileName": "dash-ar21.svg",
+        "svgPath": "../Data/logo-cleaned/dash/dash-ar21.svg",
+        "svgData": {
+            "meta": {
+                "version": "1.1",
+                "id": "dash",
+                "x": "0px",
+                "y": "0px",
+                "viewBox": "0 0 120 60",
+                "{http://www.w3.org/XML/1998/namespace}space": "preserve",
+                "{http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd}docname": "dash-ar21.svg",
+                "width": "120",
+                "height": "60",
+                "{http://www.inkscape.org/namespaces/inkscape}version": "0.92.4 (5da689c313, 2019-01-14)"
+            },
+            "svgRaw": "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"no\"?>\n<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->\n\n<svg\n   xmlns:dc=\"http://purl.org/dc/elements/1.1/\"\n   xmlns:cc=\"http://creativecommons.org/ns#\"\n   xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"\n   xmlns:svg=\"http://www.w3.org/2000/svg\"\n   xmlns=\"http://www.w3.org/2000/svg\"\n   xmlns:sodipodi=\"http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd\"\n   xmlns:inkscape=\"http://www.inkscape.org/namespaces/inkscape\"\n   version=\"1.1\"\n   id=\"dash\"\n   x=\"0px\"\n   y=\"0px\"\n   viewBox=\"0 0 120 60\"\n   xml:space=\"preserve\"\n   sodipodi:docname=\"dash-ar21.svg\"\n   width=\"120\"\n   height=\"60\"\n   inkscape:version=\"0.92.4 (5da689c313, 2019-01-14)\"><metadata\n   id=\"metadata14\"><rdf:RDF><cc:Work\n       rdf:about=\"\"><dc:format>image/svg+xml</dc:format><dc:type\n         rdf:resource=\"http://purl.org/dc/dcmitype/StillImage\" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs\n   id=\"defs12\" /><sodipodi:namedview\n   pagecolor=\"#ffffff\"\n   bordercolor=\"#666666\"\n   borderopacity=\"1\"\n   objecttolerance=\"10\"\n   gridtolerance=\"10\"\n   guidetolerance=\"10\"\n   inkscape:pageopacity=\"0\"\n   inkscape:pageshadow=\"2\"\n   inkscape:window-width=\"1920\"\n   inkscape:window-height=\"1001\"\n   id=\"namedview10\"\n   showgrid=\"false\"\n   inkscape:zoom=\"0.75641026\"\n   inkscape:cx=\"200\"\n   inkscape:cy=\"156\"\n   inkscape:window-x=\"-9\"\n   inkscape:window-y=\"-9\"\n   inkscape:window-maximized=\"1\"\n   inkscape:current-layer=\"dash\" />\n<style\n   type=\"text/css\"\n   id=\"style2\">\n\t.st0{fill:#1E75BB;}\n</style>\n\n\n\n\n<g\n   id=\"g21\"\n   transform=\"matrix(0.25445293,0,0,0.25445293,8.9821875,52.290077)\"><path\n     style=\"fill:#1e75bb\"\n     inkscape:connector-curvature=\"0\"\n     d=\"m 375.2,-118 -7.7,23.4 h -41.1 l 7.7,-23.4 h -21.9 l -19.9,60.7 h 21.8 l 7.7,-23.4 h 41.1 l -7.7,23.4 h 21.9 L 397,-118 Z\"\n     class=\"st0\"\n     id=\"H\" /><path\n     style=\"fill:#1e75bb\"\n     inkscape:connector-curvature=\"0\"\n     d=\"m 288.4,-90 c -1,-1.5 -2.3,-2.6 -3.8,-3.4 -1.7,-0.8 -3.5,-1.2 -5.4,-1.2 h -48 l 2.7,-8.4 h 63 l 5,-15 H 232 c -2.1,0 -4.2,0.4 -6.2,1.2 -2.2,0.8 -4.3,2 -6.1,3.5 -1.6,1.5 -3.5,3.1 -4.7,5 -1.4,1.9 -2.6,3.9 -3.4,6.1 l -1.9,5.7 c -0.5,2 -0.7,4.1 -0.8,6.2 0.3,1.9 0.8,3.8 1.6,5 1,1.5 2.3,2.6 3.8,3.5 1.6,0.9 3.5,1.4 5.4,1.5 h 48 l -2.7,8.1 h -63 l -4.9,15 h 69.8 c 2.1,0 4.2,-0.4 6.2,-1.2 2.2,-0.8 4.3,-2 6.1,-3.4 1.6,-1.5 3.5,-3.1 4.7,-5 1.5,-1.9 2.6,-3.9 3.4,-6.1 l 1.9,-5.7 c 0.6,-2 0.9,-4.1 0.8,-6.2 -0.5,-2.1 -0.9,-3.9 -1.6,-5.2 z\"\n     class=\"st0\"\n     id=\"S\" /><path\n     style=\"fill:#1e75bb\"\n     inkscape:connector-curvature=\"0\"\n     d=\"m 202.4,-108.7 c -0.3,-1.9 -0.8,-3.4 -1.9,-4.7 -0.8,-1.5 -2,-2.7 -3.5,-3.4 -1.7,-0.8 -3.5,-1.2 -5.4,-1.2 h -54.9 c -2.1,0 -4.2,0.4 -6.2,1.2 -2.2,0.8 -4.3,2 -6.1,3.5 -1.6,1.5 -3.4,3.1 -4.7,5 -1.5,1.9 -2.6,3.9 -3.4,6.1 l -14.6,44.9 h 21.9 l 15,-45.6 H 180 l -4.5,13.4 h -29.2 l -4.6,14.2 H 171 l -5.8,18.1 h 21.6 l 14.9,-45.4 c 0.6,-2 0.8,-4.1 0.7,-6.1 z\"\n     class=\"st0\"\n     id=\"A\" /><path\n     style=\"fill:#1e75bb\"\n     inkscape:connector-curvature=\"0\"\n     d=\"m 106.9,-108.3 c -0.1,-1.7 -0.6,-3.5 -1.5,-5 -0.8,-1.6 -2.2,-2.8 -3.8,-3.4 -1.7,-0.8 -3.5,-1.2 -5.4,-1.2 H 26.3 l -5,15 h 63.3 l -10,30.7 H 11.3 l -5,15 h 70.2 c 2.1,-0.1 4.2,-0.5 6.1,-1.2 2,-1.1 4.2,-2.2 6.1,-3.8 1.9,-1.5 3.5,-3.1 5,-5 1.2,-1.9 2.2,-3.8 3.1,-5.8 l 9.3,-29.1 c 0.8,-2 1.1,-4.2 0.8,-6.2 z\"\n     class=\"st0\"\n     id=\"D\" /><path\n     style=\"fill:#1e75bb\"\n     inkscape:connector-curvature=\"0\"\n     d=\"M 46.2,-94.6 H 9 l -5,13.9 h 37.6 z\"\n     class=\"st0\"\n     id=\"_-\" /></g>\n</svg>"
+        },
+        "width": "120",
+        "height": "60",
+        "viewbox": "0 0 120 60",
+        "fill": ""
+    },
+    {
+        "fileName": "dash-icon.svg",
+        "svgPath": "../Data/logo-cleaned/dash/dash-icon.svg",
+        "svgData": {
+            "meta": {
+                "version": "1.1",
+                "id": "dash",
+                "x": "0px",
+                "y": "0px",
+                "viewBox": "0 0 64 64",
+                "{http://www.w3.org/XML/1998/namespace}space": "preserve",
+                "{http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd}docname": "dash-icon.svg",
+                "width": "64",
+                "height": "64",
+                "{http://www.inkscape.org/namespaces/inkscape}version": "0.92.4 (5da689c313, 2019-01-14)"
+            },
+            "svgRaw": "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"no\"?>\n<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->\n\n<svg\n   xmlns:dc=\"http://purl.org/dc/elements/1.1/\"\n   xmlns:cc=\"http://creativecommons.org/ns#\"\n   xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"\n   xmlns:svg=\"http://www.w3.org/2000/svg\"\n   xmlns=\"http://www.w3.org/2000/svg\"\n   xmlns:sodipodi=\"http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd\"\n   xmlns:inkscape=\"http://www.inkscape.org/namespaces/inkscape\"\n   version=\"1.1\"\n   id=\"dash\"\n   x=\"0px\"\n   y=\"0px\"\n   viewBox=\"0 0 64 64\"\n   xml:space=\"preserve\"\n   sodipodi:docname=\"dash-icon.svg\"\n   width=\"64\"\n   height=\"64\"\n   inkscape:version=\"0.92.4 (5da689c313, 2019-01-14)\"><metadata\n   id=\"metadata14\"><rdf:RDF><cc:Work\n       rdf:about=\"\"><dc:format>image/svg+xml</dc:format><dc:type\n         rdf:resource=\"http://purl.org/dc/dcmitype/StillImage\" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs\n   id=\"defs12\" /><sodipodi:namedview\n   pagecolor=\"#ffffff\"\n   bordercolor=\"#666666\"\n   borderopacity=\"1\"\n   objecttolerance=\"10\"\n   gridtolerance=\"10\"\n   guidetolerance=\"10\"\n   inkscape:pageopacity=\"0\"\n   inkscape:pageshadow=\"2\"\n   inkscape:window-width=\"1920\"\n   inkscape:window-height=\"1001\"\n   id=\"namedview10\"\n   showgrid=\"false\"\n   inkscape:zoom=\"0.75641026\"\n   inkscape:cx=\"200\"\n   inkscape:cy=\"156\"\n   inkscape:window-x=\"-9\"\n   inkscape:window-y=\"-9\"\n   inkscape:window-maximized=\"1\"\n   inkscape:current-layer=\"dash\" />\n<style\n   type=\"text/css\"\n   id=\"style2\">\n\t.st0{fill:#1E75BB;}\n</style>\n\n\n\n\n<g\n   id=\"g30\"\n   transform=\"translate(-9.9999991,13.120298)\"><path\n     style=\"fill:#1e75bb;stroke-width:0.62127411\"\n     inkscape:connector-curvature=\"0\"\n     d=\"M 73.929103,5.988265 C 73.866974,4.932099 73.556338,3.8138039 72.997191,2.8818937 72.500172,1.8878544 71.630389,1.1423268 70.63635,0.76956172 69.580184,0.27254329 68.461891,0.02403407 67.281469,0.02403407 H 23.854412 L 20.748041,9.3431455 H 60.07469 L 53.86195,28.416258 H 14.535301 l -3.106371,9.319111 h 43.613441 c 1.304676,-0.06213 2.609351,-0.310636 3.789773,-0.745528 1.242546,-0.683401 2.60935,-1.366804 3.789769,-2.360841 1.180422,-0.931912 2.174461,-1.925949 3.106372,-3.106371 0.74553,-1.18042 1.366802,-2.360841 1.925949,-3.60339 L 73.432082,9.8401639 C 73.929103,8.5976154 74.115486,7.2308135 73.929103,5.988265 Z\"\n     class=\"st0\"\n     id=\"D\" /><path\n     style=\"fill:#1e75bb;stroke-width:0.62127411\"\n     inkscape:connector-curvature=\"0\"\n     d=\"M 36.217766,14.49972 H 13.10637 L 9.9999992,23.13543 H 33.359904 Z\"\n     class=\"st0\"\n     id=\"_-\" /></g>\n</svg>"
+        },
+        "width": "64",
+        "height": "64",
+        "viewbox": "0 0 64 64",
+        "fill": ""
+    }
+]

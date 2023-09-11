@@ -1,0 +1,32 @@
+[
+    {
+        "fileName": "hexoio-icon.svg",
+        "svgPath": "../Data/logo-cleaned/hexoio/hexoio-icon.svg",
+        "svgData": {
+            "meta": {
+                "width": "64",
+                "height": "64"
+            },
+            "svgRaw": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"64\" height=\"64\"><path d=\"M32.056 0L4.254 16.056l-.056 32L31.944 64l27.802-16.056.056-32zm12.872 45.706l-2.558 1.487-2.586-1.53V34.64h-15.57v11.065l-2.558 1.487-2.586-1.53V18.28l2.572-1.474 2.572 1.5v11.05h15.57V18.294l2.572-1.474 2.572 1.5z\" fill=\"#0e83cd\"/></svg>"
+        },
+        "width": "64",
+        "height": "64",
+        "viewbox": "",
+        "fill": ""
+    },
+    {
+        "fileName": "hexoio-ar21.svg",
+        "svgPath": "../Data/logo-cleaned/hexoio/hexoio-ar21.svg",
+        "svgData": {
+            "meta": {
+                "width": "120",
+                "height": "60"
+            },
+            "svgRaw": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"120\" height=\"60\"><path d=\"M60.045 4.102l-22.5 12.994-.045 25.898 22.455 12.904 22.5-12.994.045-25.898zm10.417 37l-2.07 1.204L66.3 41.06v-8.92H53.7v8.955l-2.07 1.204-2.092-1.238V18.896l2.08-1.193 2.08 1.215v8.944h12.6v-8.955l2.08-1.193 2.08 1.215z\" fill=\"#0e83cd\"/></svg>"
+        },
+        "width": "120",
+        "height": "60",
+        "viewbox": "",
+        "fill": ""
+    }
+]

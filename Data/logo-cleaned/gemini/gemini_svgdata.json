@@ -1,0 +1,48 @@
+[
+    {
+        "fileName": "gemini-ar21.svg",
+        "svgPath": "../Data/logo-cleaned/gemini/gemini-ar21.svg",
+        "svgData": {
+            "meta": {
+                "version": "1.1",
+                "id": "Layer_1",
+                "x": "0px",
+                "y": "0px",
+                "viewBox": "0 0 120 60",
+                "{http://www.w3.org/XML/1998/namespace}space": "preserve",
+                "{http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd}docname": "gemini-ar21.svg",
+                "width": "120",
+                "height": "60",
+                "{http://www.inkscape.org/namespaces/inkscape}version": "0.92.4 (5da689c313, 2019-01-14)"
+            },
+            "svgRaw": "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"no\"?>\n<!-- Generator: Adobe Illustrator 20.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->\n\n<svg\n   xmlns:dc=\"http://purl.org/dc/elements/1.1/\"\n   xmlns:cc=\"http://creativecommons.org/ns#\"\n   xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"\n   xmlns:svg=\"http://www.w3.org/2000/svg\"\n   xmlns=\"http://www.w3.org/2000/svg\"\n   xmlns:sodipodi=\"http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd\"\n   xmlns:inkscape=\"http://www.inkscape.org/namespaces/inkscape\"\n   version=\"1.1\"\n   id=\"Layer_1\"\n   x=\"0px\"\n   y=\"0px\"\n   viewBox=\"0 0 120 60\"\n   xml:space=\"preserve\"\n   sodipodi:docname=\"gemini-ar21.svg\"\n   width=\"120\"\n   height=\"60\"\n   inkscape:version=\"0.92.4 (5da689c313, 2019-01-14)\"><metadata\n   id=\"metadata23\"><rdf:RDF><cc:Work\n       rdf:about=\"\"><dc:format>image/svg+xml</dc:format><dc:type\n         rdf:resource=\"http://purl.org/dc/dcmitype/StillImage\" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs\n   id=\"defs21\" /><sodipodi:namedview\n   pagecolor=\"#ffffff\"\n   bordercolor=\"#666666\"\n   borderopacity=\"1\"\n   objecttolerance=\"10\"\n   gridtolerance=\"10\"\n   guidetolerance=\"10\"\n   inkscape:pageopacity=\"0\"\n   inkscape:pageshadow=\"2\"\n   inkscape:window-width=\"1920\"\n   inkscape:window-height=\"1001\"\n   id=\"namedview19\"\n   showgrid=\"false\"\n   inkscape:zoom=\"2.4145978\"\n   inkscape:cx=\"82.347791\"\n   inkscape:cy=\"85\"\n   inkscape:window-x=\"-9\"\n   inkscape:window-y=\"-9\"\n   inkscape:window-maximized=\"1\"\n   inkscape:current-layer=\"Layer_1\" />\n\n<g\n   id=\"g856\"\n   transform=\"matrix(0.95546645,0,0,0.95546645,4.708299,1.3360065)\"><g\n     transform=\"matrix(0.12591287,0,0,0.12591287,13.666872,19.429615)\"\n     id=\"g14\">\n\t<path\n   inkscape:connector-curvature=\"0\"\n   id=\"path2\"\n   d=\"m 273.8,93.2 h 32.6 v 21.6 c -7,4.2 -16.5,6.8 -25.7,6.8 -23.2,0 -38.8,-15 -38.8,-37.4 0,-22.6 15.4,-37.8 38.2,-37.8 12.3,0 22.2,3.7 31.2,11.5 l 1.3,1.2 9.4,-15 -1,-0.8 c -11.9,-10 -25.4,-14.9 -41.1,-14.9 -15.9,0 -30.3,5.2 -40.6,14.7 -11,10.1 -16.8,24.3 -16.8,41 0,32.6 23.6,55.4 57.4,55.4 15.5,0 34.5,-6 45.1,-14.2 l 0.6,-0.5 V 76.1 h -51.7 v 17.1 z\" />\n\t<polygon\n   id=\"polygon4\"\n   points=\"348.3,138 432.9,138 432.9,120.8 366.7,120.8 366.7,90.8 421.6,90.8 421.6,73.6 366.7,73.6 366.7,47.1 432.9,47.1 432.9,29.9 348.3,29.9 \" />\n\t<polygon\n   id=\"polygon6\"\n   points=\"555.1,29.9 513,80.5 471,29.9 454.1,29.9 454.1,138 473.2,138 473.2,61.1 510.7,106.3 515.2,106.3 552.7,61.1 552.7,138 571.8,138 571.8,29.9 \" />\n\t<rect\n   id=\"rect8\"\n   height=\"108.1\"\n   width=\"19.1\"\n   y=\"29.9\"\n   x=\"599.90002\" />\n\t<polygon\n   id=\"polygon10\"\n   points=\"728,107 663.9,30.4 663.4,29.9 647,29.9 647,138 666.1,138 666.1,61.2 730.3,137.5 730.8,138 747.1,138 747.1,29.9 728,29.9 \" />\n\t<rect\n   id=\"rect12\"\n   height=\"108.1\"\n   width=\"19.1\"\n   y=\"29.9\"\n   x=\"775.09998\" />\n</g><path\n     inkscape:connector-curvature=\"0\"\n     id=\"path16\"\n     d=\"m 25.803334,11.842749 c -6.38708,0 -11.812894,4.913138 -12.496461,11.236133 -6.3229965,0.683567 -11.2361347,6.109381 -11.2361347,12.496462 0,6.942478 5.6394292,12.581907 12.5819067,12.581907 6.387081,0 11.834256,-4.913139 12.496462,-11.236135 6.322996,-0.683566 11.236135,-6.109381 11.236135,-12.496461 0,-6.942478 -5.63943,-12.581907 -12.581908,-12.581906 z m 9.634024,13.991764 c -0.619482,4.20821 -3.994595,7.583323 -8.202805,8.202804 V 25.834513 Z M 5.0186215,34.165486 c 0.6194827,-4.229571 3.994595,-7.604683 8.2028055,-8.224166 v 8.202805 H 5.0186215 Z m 19.2680475,2.841076 c -0.704928,4.763608 -4.78497,8.309613 -9.634024,8.309613 -4.8490535,0 -8.9290949,-3.546005 -9.6340235,-8.309613 z m 0.106813,-11.172049 v 8.309612 H 16.062503 V 25.834513 Z M 35.437358,22.993438 H 16.169309 c 0.70493,-4.763609 4.784971,-8.309614 9.634025,-8.309614 4.849054,0 8.929096,3.546005 9.634024,8.309614 z\"\n     style=\"fill:#00dcfa;stroke-width:0.21361473\" /></g>\n</svg>"
+        },
+        "width": "120",
+        "height": "60",
+        "viewbox": "0 0 120 60",
+        "fill": ""
+    },
+    {
+        "fileName": "gemini-icon.svg",
+        "svgPath": "../Data/logo-cleaned/gemini/gemini-icon.svg",
+        "svgData": {
+            "meta": {
+                "version": "1.1",
+                "id": "Layer_1",
+                "x": "0px",
+                "y": "0px",
+                "viewBox": "0 0 64 64",
+                "{http://www.w3.org/XML/1998/namespace}space": "preserve",
+                "{http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd}docname": "gemini-icon.svg",
+                "width": "64",
+                "height": "64",
+                "{http://www.inkscape.org/namespaces/inkscape}version": "0.92.4 (5da689c313, 2019-01-14)"
+            },
+            "svgRaw": "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"no\"?>\n<!-- Generator: Adobe Illustrator 20.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->\n\n<svg\n   xmlns:dc=\"http://purl.org/dc/elements/1.1/\"\n   xmlns:cc=\"http://creativecommons.org/ns#\"\n   xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"\n   xmlns:svg=\"http://www.w3.org/2000/svg\"\n   xmlns=\"http://www.w3.org/2000/svg\"\n   xmlns:sodipodi=\"http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd\"\n   xmlns:inkscape=\"http://www.inkscape.org/namespaces/inkscape\"\n   version=\"1.1\"\n   id=\"Layer_1\"\n   x=\"0px\"\n   y=\"0px\"\n   viewBox=\"0 0 64 64\"\n   xml:space=\"preserve\"\n   sodipodi:docname=\"gemini-icon.svg\"\n   width=\"64\"\n   height=\"64\"\n   inkscape:version=\"0.92.4 (5da689c313, 2019-01-14)\"><metadata\n   id=\"metadata23\"><rdf:RDF><cc:Work\n       rdf:about=\"\"><dc:format>image/svg+xml</dc:format><dc:type\n         rdf:resource=\"http://purl.org/dc/dcmitype/StillImage\" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs\n   id=\"defs21\" /><sodipodi:namedview\n   pagecolor=\"#ffffff\"\n   bordercolor=\"#666666\"\n   borderopacity=\"1\"\n   objecttolerance=\"10\"\n   gridtolerance=\"10\"\n   guidetolerance=\"10\"\n   inkscape:pageopacity=\"0\"\n   inkscape:pageshadow=\"2\"\n   inkscape:window-width=\"1920\"\n   inkscape:window-height=\"1001\"\n   id=\"namedview19\"\n   showgrid=\"false\"\n   inkscape:zoom=\"2.4145978\"\n   inkscape:cx=\"82.347791\"\n   inkscape:cy=\"85\"\n   inkscape:window-x=\"-9\"\n   inkscape:window-y=\"-9\"\n   inkscape:window-maximized=\"1\"\n   inkscape:current-layer=\"Layer_1\" />\n\n<path\n   style=\"fill:#00dcfa;stroke-width:0.3764706\"\n   d=\"M 41.825881,2.0000002e-6 C 30.569411,2.0000002e-6 21.007058,8.6588229 19.802353,19.802351 8.658823,21.007057 0,30.569411 0,41.825881 c 0,12.235294 9.938823,22.174117 22.174117,22.174117 11.25647,0 20.856469,-8.658823 22.02353,-19.802353 C 55.341175,42.992941 64,33.430587 64,22.174117 64,9.9388233 54.061175,0 41.825881,2.0000002e-6 Z M 58.804705,24.658824 c -1.091765,7.416469 -7.04,13.364707 -14.45647,14.456468 V 24.658824 Z M 5.195294,39.341174 C 6.287058,31.887058 12.235293,25.938824 19.651765,24.847058 V 39.303527 H 5.195294 Z m 33.957645,5.007059 c -1.242352,8.395294 -8.432941,14.644706 -16.978822,14.644706 -8.545881,0 -15.73647,-6.249412 -16.978823,-14.644706 z M 39.341185,24.658824 V 39.303527 H 24.658824 V 24.658824 Z m 19.46352,-5.007058 H 24.847056 C 26.089411,11.25647 33.28,5.007059 41.825881,5.007059 c 8.545881,0 15.736472,6.249411 16.978824,14.644707 z\"\n   id=\"path16\"\n   inkscape:connector-curvature=\"0\" />\n</svg>"
+        },
+        "width": "64",
+        "height": "64",
+        "viewbox": "0 0 64 64",
+        "fill": ""
+    }
+]

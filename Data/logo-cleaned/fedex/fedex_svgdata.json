@@ -1,0 +1,42 @@
+[
+    {
+        "fileName": "fedex-ar21.svg",
+        "svgPath": "../Data/logo-cleaned/fedex/fedex-ar21.svg",
+        "svgData": {
+            "meta": {
+                "width": "120",
+                "height": "60",
+                "viewBox": "0 0 9.252288 4.626144",
+                "version": "1.1",
+                "id": "svg14",
+                "{http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd}docname": "fedex-ar21.svg",
+                "{http://www.inkscape.org/namespaces/inkscape}version": "0.92.4 (5da689c313, 2019-01-14)"
+            },
+            "svgRaw": "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"no\"?>\n<svg\n   xmlns:dc=\"http://purl.org/dc/elements/1.1/\"\n   xmlns:cc=\"http://creativecommons.org/ns#\"\n   xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"\n   xmlns:svg=\"http://www.w3.org/2000/svg\"\n   xmlns=\"http://www.w3.org/2000/svg\"\n   xmlns:sodipodi=\"http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd\"\n   xmlns:inkscape=\"http://www.inkscape.org/namespaces/inkscape\"\n   width=\"120\"\n   height=\"60\"\n   viewBox=\"0 0 9.252288 4.626144\"\n   version=\"1.1\"\n   id=\"svg14\"\n   sodipodi:docname=\"fedex-ar21.svg\"\n   inkscape:version=\"0.92.4 (5da689c313, 2019-01-14)\">\n  <metadata\n     id=\"metadata20\">\n    <rdf:RDF>\n      <cc:Work\n         rdf:about=\"\">\n        <dc:format>image/svg+xml</dc:format>\n        <dc:type\n           rdf:resource=\"http://purl.org/dc/dcmitype/StillImage\" />\n        <dc:title></dc:title>\n      </cc:Work>\n    </rdf:RDF>\n  </metadata>\n  <defs\n     id=\"defs18\" />\n  <sodipodi:namedview\n     pagecolor=\"#ffffff\"\n     bordercolor=\"#666666\"\n     borderopacity=\"1\"\n     objecttolerance=\"10\"\n     gridtolerance=\"10\"\n     guidetolerance=\"10\"\n     inkscape:pageopacity=\"0\"\n     inkscape:pageshadow=\"2\"\n     inkscape:window-width=\"1920\"\n     inkscape:window-height=\"1001\"\n     id=\"namedview16\"\n     showgrid=\"false\"\n     inkscape:zoom=\"4.2720563\"\n     inkscape:cx=\"84.051395\"\n     inkscape:cy=\"68.925818\"\n     inkscape:window-x=\"-9\"\n     inkscape:window-y=\"-9\"\n     inkscape:window-maximized=\"1\"\n     inkscape:current-layer=\"svg14\" />\n  <g\n     id=\"g834\"\n     transform=\"matrix(0.0477938,0,0,0.0477938,0.21205201,7.2849347)\">\n    <path\n       d=\"m 156.719,-81.752856 -6.408,-7.186 -6.348,7.186 h -13.356 l 13.053,-14.672 -13.053,-14.672004 h 13.774 l 6.469,7.127 6.228,-7.127 h 13.293 l -12.994,14.611004 13.176,14.733 z m -51.776,0 v -46.228004 h 25.664 v 10.305 h -14.795 v 6.579 h 14.795 v 9.912 h -14.795 v 9.100004 h 14.795 v 10.332 z\"\n       id=\"path6\"\n       inkscape:connector-curvature=\"0\"\n       style=\"clip-rule:evenodd;fill:#d5652c;fill-rule:evenodd\" />\n    <path\n       d=\"m 94.122,-127.98086 v 18.919 h -0.123 c -2.396,-2.755 -5.389,-3.712 -8.862,-3.712 -7.175,0 -12.507,4.942 -14.344,11.418 -2.113,-7.141 -7.635,-11.551 -15.903,-11.551 -6.713,0 -11.942,3.077 -14.673,8.017 v -6.208 H 26.443 v -6.579 h 15.033 v -10.304 H 14.161 v 46.228004 h 12.282 v -19.432004 h 12.31 c -0.371,1.438004 -0.63,2.941004 -0.63,4.570004 0,9.643 7.364,16.411 16.767,16.411 7.908,0 13.118,-3.713 15.875,-10.48 H 60.241 c -1.423,2.037 -2.505,2.637 -5.352,2.637 -3.299,0 -6.144,-2.877 -6.144,-6.292 h 21.488 c 0.935,7.653 6.839,14.265 15.023,14.265 3.533,0 6.768,-1.734 8.743,-4.67 h 0.123 v 2.992 h 10.822 v -46.229004 z m -45.034,26.934 c 0.681,-2.937 2.958,-4.854 5.801,-4.854 3.132,0 5.293,1.861 5.861,4.854 z m 38.462,12.257004 c -3.99,0 -6.469,-3.72 -6.469,-7.599 0,-4.150004 2.155,-8.140004 6.469,-8.140004 4.474,0 6.253,3.99 6.253,8.140004 0,3.934 -1.888,7.599 -6.253,7.599 z\"\n       id=\"path8\"\n       inkscape:connector-curvature=\"0\"\n       style=\"clip-rule:evenodd;fill:#43338e;fill-rule:evenodd\" />\n  </g>\n</svg>\n"
+        },
+        "width": "120",
+        "height": "60",
+        "viewbox": "0 0 9.252288 4.626144",
+        "fill": ""
+    },
+    {
+        "fileName": "fedex-icon.svg",
+        "svgPath": "../Data/logo-cleaned/fedex/fedex-icon.svg",
+        "svgData": {
+            "meta": {
+                "width": "64",
+                "height": "64",
+                "viewBox": "0 0 4.9345536 4.9345536",
+                "version": "1.1",
+                "id": "svg14",
+                "{http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd}docname": "fedex-icon.svg",
+                "{http://www.inkscape.org/namespaces/inkscape}version": "0.92.4 (5da689c313, 2019-01-14)"
+            },
+            "svgRaw": "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"no\"?>\n<svg\n   xmlns:dc=\"http://purl.org/dc/elements/1.1/\"\n   xmlns:cc=\"http://creativecommons.org/ns#\"\n   xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"\n   xmlns:svg=\"http://www.w3.org/2000/svg\"\n   xmlns=\"http://www.w3.org/2000/svg\"\n   xmlns:sodipodi=\"http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd\"\n   xmlns:inkscape=\"http://www.inkscape.org/namespaces/inkscape\"\n   width=\"64\"\n   height=\"64\"\n   viewBox=\"0 0 4.9345536 4.9345536\"\n   version=\"1.1\"\n   id=\"svg14\"\n   sodipodi:docname=\"fedex-icon.svg\"\n   inkscape:version=\"0.92.4 (5da689c313, 2019-01-14)\">\n  <metadata\n     id=\"metadata20\">\n    <rdf:RDF>\n      <cc:Work\n         rdf:about=\"\">\n        <dc:format>image/svg+xml</dc:format>\n        <dc:type\n           rdf:resource=\"http://purl.org/dc/dcmitype/StillImage\" />\n        <dc:title></dc:title>\n      </cc:Work>\n    </rdf:RDF>\n  </metadata>\n  <defs\n     id=\"defs18\" />\n  <sodipodi:namedview\n     pagecolor=\"#ffffff\"\n     bordercolor=\"#666666\"\n     borderopacity=\"1\"\n     objecttolerance=\"10\"\n     gridtolerance=\"10\"\n     guidetolerance=\"10\"\n     inkscape:pageopacity=\"0\"\n     inkscape:pageshadow=\"2\"\n     inkscape:window-width=\"1920\"\n     inkscape:window-height=\"1001\"\n     id=\"namedview16\"\n     showgrid=\"false\"\n     inkscape:zoom=\"4.2720563\"\n     inkscape:cx=\"84.051395\"\n     inkscape:cy=\"68.925818\"\n     inkscape:window-x=\"-9\"\n     inkscape:window-y=\"-9\"\n     inkscape:window-maximized=\"1\"\n     inkscape:current-layer=\"svg14\" />\n  <path\n     style=\"clip-rule:evenodd;fill:#d5652c;fill-rule:evenodd;stroke-width:0.07521039\"\n     inkscape:connector-curvature=\"0\"\n     id=\"path6\"\n     d=\"M 3.8940933,4.2056899 3.4121451,3.665228 2.9347095,4.2056899 h -1.00451 L 2.9119207,3.102203 1.9301995,1.9987159 H 2.9661474 L 3.4526834,2.5347403 3.9210937,1.9987159 H 4.9208654 L 3.9435817,3.0976152 4.9345534,4.2056899 Z m -3.8940931,0 V 0.7288637 h 1.9301993 v 0.775043 H 0.8174619 V 1.9987159 H 1.9301995 V 2.7442012 H 0.8174619 v 0.6844149 h 1.1127376 v 0.7770738 z\" />\n</svg>\n"
+        },
+        "width": "64",
+        "height": "64",
+        "viewbox": "0 0 4.9345536 4.9345536",
+        "fill": ""
+    }
+]

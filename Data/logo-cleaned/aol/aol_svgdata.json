@@ -1,0 +1,41 @@
+[
+    {
+        "fileName": "aol-ar21.svg",
+        "svgPath": "../Data/logo-cleaned/aol/aol-ar21.svg",
+        "svgData": {
+            "meta": {
+                "width": "120",
+                "height": "60",
+                "version": "1.1",
+                "id": "svg14",
+                "{http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd}docname": "aol-ar21.svg",
+                "{http://www.inkscape.org/namespaces/inkscape}version": "0.92.2 5c3e80d, 2017-08-06"
+            },
+            "svgRaw": "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"no\"?>\n<svg\n   xmlns:dc=\"http://purl.org/dc/elements/1.1/\"\n   xmlns:cc=\"http://creativecommons.org/ns#\"\n   xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"\n   xmlns:svg=\"http://www.w3.org/2000/svg\"\n   xmlns=\"http://www.w3.org/2000/svg\"\n   xmlns:sodipodi=\"http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd\"\n   xmlns:inkscape=\"http://www.inkscape.org/namespaces/inkscape\"\n   width=\"120\"\n   height=\"60\"\n   version=\"1.1\"\n   id=\"svg14\"\n   sodipodi:docname=\"aol-ar21.svg\"\n   inkscape:version=\"0.92.2 5c3e80d, 2017-08-06\">\n  <metadata\n     id=\"metadata20\">\n    <rdf:RDF>\n      <cc:Work\n         rdf:about=\"\">\n        <dc:format>image/svg+xml</dc:format>\n        <dc:type\n           rdf:resource=\"http://purl.org/dc/dcmitype/StillImage\" />\n        <dc:title></dc:title>\n      </cc:Work>\n    </rdf:RDF>\n  </metadata>\n  <defs\n     id=\"defs18\" />\n  <sodipodi:namedview\n     pagecolor=\"#ffffff\"\n     bordercolor=\"#666666\"\n     borderopacity=\"1\"\n     objecttolerance=\"10\"\n     gridtolerance=\"10\"\n     guidetolerance=\"10\"\n     inkscape:pageopacity=\"0\"\n     inkscape:pageshadow=\"2\"\n     inkscape:window-width=\"1440\"\n     inkscape:window-height=\"799\"\n     id=\"namedview16\"\n     showgrid=\"false\"\n     inkscape:zoom=\"3.24\"\n     inkscape:cx=\"50\"\n     inkscape:cy=\"7.654321\"\n     inkscape:window-x=\"0\"\n     inkscape:window-y=\"1\"\n     inkscape:window-maximized=\"1\"\n     inkscape:current-layer=\"svg14\" />\n  <g\n     transform=\"matrix(0.80044871,0,0,0.80044871,-146.88606,-502.08766)\"\n     id=\"g12\">\n    <g\n       transform=\"matrix(0.2576927,0,0,0.2576927,155.23992,508.16265)\"\n       id=\"g10\">\n      <path\n         d=\"m 420,564.1 c -34.5,0 -60.6,26.8 -60.6,60 0,35 27.2,60 60.6,60 33.4,0 60.5,-25 60.5,-60 0,-33.2 -26,-60 -60.5,-60 z m 0,31.7 c 14.9,-0.1 27.1,12.6 27.1,28.3 0,15.6 -12.2,28.3 -27.1,28.3 -14.9,0 -27.1,-12.7 -27.1,-28.3 0,-15.7 12.2,-28.3 27.1,-28.3 z\"\n         style=\"stroke:none;stroke-width:0.43820944\"\n         id=\"path2\"\n         inkscape:connector-curvature=\"0\" />\n      <path\n         d=\"m 507,397.4 c 0,11.6 -9.4,21 -21,21 -11.6,0 -21,-9.4 -21,-21 0,-11.6 9.4,-21 21,-21 11.6,0 21,9.4 21,21 z\"\n         style=\"stroke:none;stroke-width:0.1\"\n         transform=\"translate(85.630073,265.696)\"\n         id=\"path4\"\n         inkscape:connector-curvature=\"0\" />\n      <path\n         style=\"stroke:none;stroke-width:1px\"\n         d=\"m 531.5,680.1 h -33 v -149 h 33 z\"\n         id=\"path6\"\n         inkscape:connector-curvature=\"0\" />\n      <path\n         d=\"m 208.5,680.1 60,-149 h 31 l 59,149 h -42 l -7,-21 h -52 l -7,21 z m 91,-52 h -31 l 15.5,-50 z\"\n         style=\"fill-rule:evenodd;stroke:none;stroke-width:0.2\"\n         id=\"path8\"\n         inkscape:connector-curvature=\"0\" />\n    </g>\n  </g>\n</svg>\n"
+        },
+        "width": "120",
+        "height": "60",
+        "viewbox": "",
+        "fill": ""
+    },
+    {
+        "fileName": "aol-icon.svg",
+        "svgPath": "../Data/logo-cleaned/aol/aol-icon.svg",
+        "svgData": {
+            "meta": {
+                "width": "64",
+                "height": "64",
+                "viewBox": "0 0 4.9345536 4.9345536",
+                "version": "1.1",
+                "id": "svg12",
+                "{http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd}docname": "aol-icon.svg",
+                "{http://www.inkscape.org/namespaces/inkscape}version": "0.92.2 5c3e80d, 2017-08-06"
+            },
+            "svgRaw": "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"no\"?>\n<svg\n   xmlns:dc=\"http://purl.org/dc/elements/1.1/\"\n   xmlns:cc=\"http://creativecommons.org/ns#\"\n   xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"\n   xmlns:svg=\"http://www.w3.org/2000/svg\"\n   xmlns=\"http://www.w3.org/2000/svg\"\n   xmlns:sodipodi=\"http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd\"\n   xmlns:inkscape=\"http://www.inkscape.org/namespaces/inkscape\"\n   width=\"64\"\n   height=\"64\"\n   viewBox=\"0 0 4.9345536 4.9345536\"\n   version=\"1.1\"\n   id=\"svg12\"\n   sodipodi:docname=\"aol-icon.svg\"\n   inkscape:version=\"0.92.2 5c3e80d, 2017-08-06\">\n  <metadata\n     id=\"metadata18\">\n    <rdf:RDF>\n      <cc:Work\n         rdf:about=\"\">\n        <dc:format>image/svg+xml</dc:format>\n        <dc:type\n           rdf:resource=\"http://purl.org/dc/dcmitype/StillImage\" />\n        <dc:title></dc:title>\n      </cc:Work>\n    </rdf:RDF>\n  </metadata>\n  <defs\n     id=\"defs16\" />\n  <sodipodi:namedview\n     pagecolor=\"#ffffff\"\n     bordercolor=\"#666666\"\n     borderopacity=\"1\"\n     objecttolerance=\"10\"\n     gridtolerance=\"10\"\n     guidetolerance=\"10\"\n     inkscape:pageopacity=\"0\"\n     inkscape:pageshadow=\"2\"\n     inkscape:window-width=\"1440\"\n     inkscape:window-height=\"799\"\n     id=\"namedview14\"\n     showgrid=\"false\"\n     inkscape:zoom=\"6.9148\"\n     inkscape:cx=\"55.454431\"\n     inkscape:cy=\"30.072541\"\n     inkscape:window-x=\"0\"\n     inkscape:window-y=\"1\"\n     inkscape:window-maximized=\"1\"\n     inkscape:current-layer=\"svg12\" />\n  <path\n     style=\"clip-rule:evenodd;fill:#000000;fill-rule:evenodd;stroke-width:0.20418561\"\n     inkscape:connector-curvature=\"0\"\n     id=\"path4\"\n     d=\"m 3.1967318,1.5981918 c -0.262379,-0.19684 -0.737723,-0.14763 -1.016436,0.0163 -0.524553,0.29505 -0.86881,0.85248 -0.918019,1.4099 0.147627,-0.39346 0.508218,-0.8196 0.934354,-0.95089 0.344257,-0.11475 0.704848,-0.0163 0.918222,0.24584 0.491884,0.5903 0.03267,1.45891 0.03267,1.45891 0.374438,-0.34312 0.57338,-0.83732 0.541092,-1.34416 l 1.245941,2.16417 h -2.098416 c 0.557223,-0.27872 0.885145,-0.86902 0.934353,-1.44278 -0.196834,0.49209 -0.688513,1.01664 -1.262275,1.01664 -0.295048,0 -0.573762,-0.16396 -0.721388,-0.42634 -0.21317,-0.39326 -0.114752,-0.91802 0.06554,-1.27861 -0.393466,0.3608 -0.573762,0.90189 -0.508218,1.47524 0.06554,0.24605 0.180296,0.52476 0.4098,0.65605 H -2.2e-6 l 2.475546,-4.26237 z\"\n     sodipodi:nodetypes=\"ccccccccccsccccccc\" />\n</svg>\n"
+        },
+        "width": "64",
+        "height": "64",
+        "viewbox": "0 0 4.9345536 4.9345536",
+        "fill": ""
+    }
+]
