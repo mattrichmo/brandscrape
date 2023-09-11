@@ -3,14 +3,14 @@ import json
 import re
 
 # Define the folder to search for subfolders with md files
-folder_path = "/Users/cyberton/Documents/svgscrape/Data/logo-cleaned"
+folder_path = "/Users/cyberton/Documents/logoset/logo-cleaned"
 
 # Loop through each subfolder in the folder
 for subfolder in os.listdir(folder_path):
     subfolder_path = os.path.join(folder_path, subfolder)
     
-    # Check if the subfolder contains md files
-    if any(file.endswith(".md") for file in os.listdir(subfolder_path)):
+    # Check if the subfolder is a directory and contains md files
+    if os.path.isdir(subfolder_path) and any(file.endswith(".md") for file in os.listdir(subfolder_path)):
         print(f"Processing folder: {subfolder}")
         # Loop through each md file in the subfolder
         for file in os.listdir(subfolder_path):
