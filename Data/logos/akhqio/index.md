@@ -1,7 +1,0 @@
----
-github: tchiotludo/akhq
-logohandle: akhqio
-sort: akhq
-title: AKHQ
-website: 'https://akhq.io/'
----

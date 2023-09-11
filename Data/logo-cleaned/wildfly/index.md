@@ -1,9 +1,0 @@
----
-github: wildfly/wildfly
-googleplus: https://plus.google.com/communities/103877841516607784660
-logohandle: wildfly
-sort: wildfly
-title: WildFly
-twitter: WildFlyAS
-website: http://www.wildfly.org/
----

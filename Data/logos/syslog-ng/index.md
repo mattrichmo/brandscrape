@@ -1,9 +1,0 @@
----
-github: balabit/syslog-ng
-logohandle: syslog-ng
-sort: syslog-ng
-title: syslog-ng
-twitter: syslog_ng
-website: 'https://www.syslog-ng.com/'
-youtube: 'https://youtube.com/channel/UCIQGGybx1khI8x9HkUJFN0Q'
----
