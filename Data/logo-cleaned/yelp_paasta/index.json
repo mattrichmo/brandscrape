@@ -1,0 +1,12 @@
+{
+    "title": "PaaSTA",
+    "website": "'https://github.com/Yelp/paasta'",
+    "links": {
+        "github": "Yelp/paasta"
+    },
+    "logos": [],
+    "other": {
+        "logohandle": "yelp_paasta",
+        "sort": "paasta"
+    }
+}

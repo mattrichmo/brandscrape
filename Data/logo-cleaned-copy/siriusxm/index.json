@@ -1,0 +1,15 @@
+{
+    "title": "siriusxm",
+    "website": "https://www.siriusxm.com/",
+    "links": {
+        "facebook": "https://www.facebook.com/siriusxm/",
+        "twitter": "siriusxm",
+        "wikipedia": "https://en.wikipedia.org/wiki/Sirius_XM_Holdings"
+    },
+    "logos": [],
+    "other": {
+        "blog": "https://blog.siriusxm.com/",
+        "logohandle": "siriusxm",
+        "sort": "siriusxm"
+    }
+}

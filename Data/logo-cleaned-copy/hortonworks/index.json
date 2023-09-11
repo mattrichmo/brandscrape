@@ -1,0 +1,16 @@
+{
+    "title": "'Hortonworks'",
+    "website": "'https://hortonworks.com/'",
+    "links": {
+        "facebook": "'https://facebook.com/hortonworks'",
+        "linkedin": "http://www.linkedin.com/company/hortonworks",
+        "twitter": "hortonworks",
+        "wikipedia": "https://en.wikipedia.org/wiki/Hortonworks"
+    },
+    "logos": [],
+    "other": {
+        "logohandle": "hortonworks",
+        "sort": "hortonworks",
+        "youtube": "'http://youtube.com/hortonworks'"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "title": "PayPal",
+    "website": "https://www.paypal.com/",
+    "links": {
+        "facebook": "https://www.facebook.com/PayPalUSA",
+        "github": "paypal",
+        "linkedin": "https://www.linkedin.com/company/paypal",
+        "twitter": "paypal",
+        "wikipedia": "https://en.wikipedia.org/wiki/PayPal"
+    },
+    "logos": [
+        "- paypal-ar21.svg"
+    ],
+    "other": {
+        "blog": "https://www.paypal.com/stories/us",
+        "colors": "",
+        "font": "",
+        "myfonts": "https://www.myfonts.com/fonts/itc/avant-garde-gothic/",
+        "name": "Avant Garde Gothic Bold Oblique",
+        "guide": "https://issuu.com/lukaszkulakowski/docs/pp_masterbrandguidelines_v21_mm",
+        "instagram": "https://www.instagram.com/paypalde/",
+        "logohandle": "paypal",
+        "sort": "paypal",
+        "tags": "",
+        "youtube": "http://www.youtube.com/user/PayPal"
+    }
+}

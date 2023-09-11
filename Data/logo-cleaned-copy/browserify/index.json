@@ -1,0 +1,13 @@
+{
+    "title": "Browserify",
+    "website": "'http://browserify.org/'",
+    "links": {
+        "github": "browserify/browserify",
+        "twitter": "browserify"
+    },
+    "logos": [],
+    "other": {
+        "logohandle": "browserify",
+        "sort": "browserify"
+    }
+}

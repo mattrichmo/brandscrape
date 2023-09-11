@@ -1,0 +1,14 @@
+{
+    "title": "Drone",
+    "website": "'https://drone.io/'",
+    "links": {
+        "github": "drone",
+        "twitter": "droneio"
+    },
+    "logos": [],
+    "other": {
+        "guide": "'https://github.com/drone/brand/tree/master/logos'",
+        "logohandle": "droneio",
+        "sort": "drone"
+    }
+}

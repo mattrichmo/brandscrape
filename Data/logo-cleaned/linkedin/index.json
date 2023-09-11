@@ -1,0 +1,24 @@
+{
+    "title": "LinkedIn",
+    "website": "https://www.linkedin.com/",
+    "links": {
+        "facebook": "https://www.facebook.com/LinkedIn/",
+        "github": "linkedin",
+        "twitter": "linkedin",
+        "wikipedia": "https://en.wikipedia.org/wiki/LinkedIn"
+    },
+    "logos": [
+        "- linkedin-icon.svg"
+    ],
+    "other": {
+        "blog": "https://blog.linkedin.com/",
+        "colors": "['#0077B5']",
+        "font": "",
+        "myfonts": "https://www.myfonts.com/fonts/adobe/myriad/black/",
+        "name": "Myriad Pro Bold/Black",
+        "guide": "https://brand.linkedin.com/",
+        "logohandle": "linkedin",
+        "sort": "linkedin",
+        "tags": ""
+    }
+}

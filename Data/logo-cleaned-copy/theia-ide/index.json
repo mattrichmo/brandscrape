@@ -1,0 +1,13 @@
+{
+    "title": "Theia",
+    "website": "'https://www.theia-ide.org/'",
+    "links": {
+        "github": "theia-ide/theia",
+        "twitter": "theia_ide"
+    },
+    "logos": [],
+    "other": {
+        "logohandle": "theia-ide",
+        "sort": "theia-ide"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "title": "Nest.js",
+    "website": "'http://nestjs.com/'",
+    "links": {
+        "github": "nestjs/nest",
+        "twitter": "nestframework"
+    },
+    "logos": [],
+    "other": {
+        "dribbble": "'https://dribbble.com/JakubStaron'",
+        "logohandle": "nestjs",
+        "sort": "nestjs"
+    }
+}

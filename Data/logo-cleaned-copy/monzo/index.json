@@ -1,0 +1,15 @@
+{
+    "title": "Monzo",
+    "website": "'https://monzo.com/'",
+    "links": {
+        "facebook": "'https://facebook.com/monzobank'",
+        "linkedin": "'https://linkedin.com/company/monzo-bank'",
+        "twitter": "monzo",
+        "wikipedia": "https://en.wikipedia.org/wiki/Monzo_(bank)"
+    },
+    "logos": [],
+    "other": {
+        "logohandle": "monzo",
+        "sort": "monzo"
+    }
+}

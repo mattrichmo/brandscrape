@@ -1,0 +1,15 @@
+{
+    "title": "Open Culture",
+    "website": "http://www.openculture.com/",
+    "links": {
+        "facebook": "http://www.facebook.com/openculture",
+        "twitter": "openculture"
+    },
+    "logos": [
+        "- openculture-ar21.svg"
+    ],
+    "other": {
+        "logohandle": "openculture",
+        "sort": "openculture"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "title": "Shields.IO",
+    "website": "'http://shields.io/'",
+    "links": {
+        "github": "badges/shields",
+        "twitter": "shields_io"
+    },
+    "logos": [],
+    "other": {
+        "guide": "'https://github.com/badges/shields/blob/master/static/logo.svg'",
+        "logohandle": "shieldsio",
+        "other": "",
+        "name": "OpenCollective",
+        "url": "https://opencollective.com/shields",
+        "sort": "shields"
+    }
+}

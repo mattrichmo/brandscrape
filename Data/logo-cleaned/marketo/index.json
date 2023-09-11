@@ -1,0 +1,17 @@
+{
+    "title": "Marketo",
+    "website": "'https://www.marketo.com/'",
+    "links": {
+        "facebook": "'https://facebook.com/Marketo'",
+        "linkedin": "'https://linkedin.com/company/236175'",
+        "twitter": "Marketo",
+        "wikipedia": "https://en.wikipedia.org/wiki/Marketo"
+    },
+    "logos": [],
+    "other": {
+        "blog": "'https://blog.marketo.com/'",
+        "googleplus": "'https://plus.google.com/104107596768724514776'",
+        "logohandle": "marketo",
+        "sort": "marketo"
+    }
+}

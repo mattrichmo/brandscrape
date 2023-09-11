@@ -1,0 +1,13 @@
+{
+    "title": "Dapr",
+    "website": "'https://dapr.io/'",
+    "links": {
+        "github": "dapr",
+        "twitter": "DaprDev"
+    },
+    "logos": [],
+    "other": {
+        "logohandle": "daprio",
+        "sort": "dapr"
+    }
+}

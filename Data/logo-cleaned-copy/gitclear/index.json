@@ -1,0 +1,15 @@
+{
+    "title": "GitClear",
+    "website": "'https://www.gitclear.com/'",
+    "links": {
+        "facebook": "'https://facebook.com/staticobject'",
+        "linkedin": "'https://linkedin.com/company/static-object'",
+        "twitter": "StaticObjectDev"
+    },
+    "logos": [],
+    "other": {
+        "blog": "'https://gitclear.com/blog/'",
+        "logohandle": "gitclear",
+        "sort": "gitclear"
+    }
+}

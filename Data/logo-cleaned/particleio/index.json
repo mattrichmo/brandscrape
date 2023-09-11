@@ -1,0 +1,17 @@
+{
+    "title": "Particle",
+    "website": "'https://www.particle.io/'",
+    "links": {
+        "facebook": "'https://facebook.com/particle'",
+        "github": "particle-iot",
+        "linkedin": "'https://linkedin.com/company/particleio'",
+        "twitter": "particle"
+    },
+    "logos": [],
+    "other": {
+        "blog": "'https://blog.particle.io/'",
+        "instagram": "'https://instagram.com/particle_io'",
+        "logohandle": "particleio",
+        "sort": "particle"
+    }
+}

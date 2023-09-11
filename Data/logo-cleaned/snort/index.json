@@ -1,0 +1,14 @@
+{
+    "title": "Snort",
+    "website": "'https://www.snort.org/'",
+    "links": {
+        "github": "shirkdog/pulledpork",
+        "twitter": "Snort",
+        "wikipedia": "'https://en.wikipedia.org/wiki/Snort_(software)'"
+    },
+    "logos": [],
+    "other": {
+        "logohandle": "snort",
+        "sort": "snort"
+    }
+}

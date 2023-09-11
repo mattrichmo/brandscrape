@@ -1,0 +1,14 @@
+{
+    "title": "Elm",
+    "website": "'http://elm-lang.org/'",
+    "links": {
+        "github": "elm",
+        "wikipedia": "https://en.wikipedia.org/wiki/Elm_(programming_language)"
+    },
+    "logos": [],
+    "other": {
+        "blog": "http://elm-lang.org/blog",
+        "logohandle": "elm-lang",
+        "sort": "elm-lang"
+    }
+}

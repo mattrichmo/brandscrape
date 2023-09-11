@@ -1,0 +1,17 @@
+{
+    "title": "Fivetran",
+    "website": "'https://fivetran.com/'",
+    "links": {
+        "facebook": "'https://facebook.com/Fivetran'",
+        "github": "fivetran",
+        "linkedin": "'https://linkedin.com/company/fivetran'",
+        "twitter": "fivetran"
+    },
+    "logos": [],
+    "other": {
+        "blog": "'https://fivetran.com/blog'",
+        "logohandle": "fivetran",
+        "sort": "fivetran",
+        "youtube": "'https://youtube.com/c/fivetran'"
+    }
+}

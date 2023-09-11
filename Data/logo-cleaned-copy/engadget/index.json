@@ -1,0 +1,17 @@
+{
+    "title": "Engadget",
+    "website": "'https://www.engadget.com/'",
+    "links": {
+        "facebook": "'https://facebook.com/engadget'",
+        "linkedin": "'https://linkedin.com/company/101421'",
+        "twitter": "engadget"
+    },
+    "logos": [],
+    "other": {
+        "googleplus": "'https://plus.google.com/+Engadget'",
+        "instagram": "'https://instagram.com/engadget'",
+        "logohandle": "engadget",
+        "sort": "engadget",
+        "youtube": "'https://youtube.com/engadget'"
+    }
+}

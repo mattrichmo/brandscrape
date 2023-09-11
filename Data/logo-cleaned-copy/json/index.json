@@ -1,0 +1,14 @@
+{
+    "title": "JSON",
+    "website": "http://json.org/",
+    "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/JSON"
+    },
+    "logos": [
+        "- json-icon.svg"
+    ],
+    "other": {
+        "logohandle": "json",
+        "sort": "json"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "title": "Tesla",
+    "website": "https://www.tesla.com/",
+    "links": {
+        "facebook": "https://www.facebook.com/tesla/",
+        "github": "teslamotors",
+        "twitter": "tesla",
+        "wikipedia": "https://en.wikipedia.org/wiki/Tesla,_Inc."
+    },
+    "logos": [
+        "- tesla-ar21.svg"
+    ],
+    "other": {
+        "blog": "https://www.tesla.com/blog",
+        "font": "",
+        "name": "Emblem Bold D",
+        "url": "http://davidocchino.com/portfolio/typography/emblem-font-art/samples.html",
+        "guide": "https://teslamotors.app.box.com/v/pressfiles/folder/400696105",
+        "logohandle": "tesla",
+        "sort": "tesla",
+        "tags": ""
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "title": "Avalonia UI",
+    "website": "'http://avaloniaui.net/'",
+    "links": {
+        "github": "AvaloniaUI/Avalonia"
+    },
+    "logos": [],
+    "other": {
+        "logohandle": "avaloniauinet",
+        "sort": "avaloniaui"
+    }
+}

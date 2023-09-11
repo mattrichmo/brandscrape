@@ -1,0 +1,13 @@
+{
+    "title": "Gridsome",
+    "website": "'https://gridsome.org/'",
+    "links": {
+        "github": "gridsome/gridsome",
+        "twitter": "gridsome"
+    },
+    "logos": [],
+    "other": {
+        "logohandle": "gridsome",
+        "sort": "gridsome"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "title": "Docker",
+    "website": "https://www.docker.com/",
+    "links": {
+        "facebook": "https://www.facebook.com/docker.run",
+        "github": "docker/docker",
+        "twitter": "docker",
+        "wikipedia": "https://en.wikipedia.org/wiki/Docker_(software)"
+    },
+    "logos": [
+        "- docker-official.svg"
+    ],
+    "other": {
+        "blog": "https://blog.docker.com/",
+        "colors": "['#136EA3']",
+        "guide": "https://www.docker.com/brand-guidelines",
+        "logohandle": "docker",
+        "sort": "docker",
+        "tags": "",
+        "https": "//commons.wikimedia.org/wiki/File:Docker_(container_engine)_logo.svg)"
+    }
+}

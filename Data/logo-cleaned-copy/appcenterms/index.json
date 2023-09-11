@@ -1,0 +1,15 @@
+{
+    "title": "App Center",
+    "website": "'https://appcenter.ms/'",
+    "links": {
+        "twitter": "VSAppCenter"
+    },
+    "logos": [],
+    "other": {
+        "font": "",
+        "name": "SegoeUI Bold",
+        "url": "https://docs.microsoft.com/en-us/typography/font-list/segoe-ui",
+        "logohandle": "appcenterms",
+        "sort": "appcenter"
+    }
+}

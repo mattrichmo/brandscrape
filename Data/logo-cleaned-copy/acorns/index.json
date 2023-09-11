@@ -1,0 +1,13 @@
+{
+    "title": "Acorns",
+    "website": "'https://www.acorns.com/'",
+    "links": {
+        "facebook": "'https://facebook.com/AcornsGrow'",
+        "twitter": "acorns"
+    },
+    "logos": [],
+    "other": {
+        "logohandle": "acorns",
+        "sort": "acorns"
+    }
+}

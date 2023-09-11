@@ -1,0 +1,19 @@
+{
+    "title": "MySQL",
+    "website": "https://www.mysql.com/",
+    "links": {
+        "facebook": "http://www.facebook.com/mysql",
+        "github": "mysql",
+        "twitter": "mysql",
+        "wikipedia": "https://en.wikipedia.org/wiki/MySQL"
+    },
+    "logos": [
+        "- mysql-ar21.svg"
+    ],
+    "other": {
+        "guide": "https://www.mysql.com/about/legal/logos.html",
+        "logohandle": "mysql",
+        "sort": "mysql",
+        "tags": ""
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "title": "Library of Congress",
+    "website": "https://www.loc.gov/",
+    "links": {
+        "facebook": "https://www.facebook.com/libraryofcongress/",
+        "github": "LibraryOfCongress",
+        "twitter": "librarycongress",
+        "wikipedia": "https://en.wikipedia.org/wiki/Library_of_Congress"
+    },
+    "logos": [
+        "- loc-icon.svg"
+    ],
+    "other": {
+        "blog": "https://www.loc.gov/rss/",
+        "logohandle": "loc",
+        "sort": "libraryofcongress",
+        "tags": ""
+    }
+}

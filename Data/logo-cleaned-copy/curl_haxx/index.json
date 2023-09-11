@@ -1,0 +1,18 @@
+{
+    "title": "curl",
+    "website": "https://curl.haxx.se/",
+    "links": {
+        "github": "curl",
+        "wikipedia": "https://en.wikipedia.org/wiki/CURL"
+    },
+    "logos": [
+        "- curl_haxx-icon.svg"
+    ],
+    "other": {
+        "blog": "https://curl.haxx.se/news.html",
+        "guide": "https://daniel.haxx.se/blog/2016/05/27/a-new-curl-logo/",
+        "logohandle": "curl_haxx",
+        "sort": "curl",
+        "https": "//github.com/curl/curl-www/blob/master/logo/curl-logo.svg) from the github repo."
+    }
+}

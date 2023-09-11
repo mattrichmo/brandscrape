@@ -1,0 +1,15 @@
+{
+    "title": "Cognito",
+    "website": "'https://cognitohq.com/'",
+    "links": {
+        "facebook": "'https://facebook.com/cognitohq'",
+        "github": "cognito",
+        "twitter": "getcognito"
+    },
+    "logos": [],
+    "other": {
+        "blog": "'https://blog.cognitohq.com/'",
+        "logohandle": "cognitohq",
+        "sort": "cognitohq"
+    }
+}

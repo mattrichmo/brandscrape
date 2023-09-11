@@ -1,0 +1,17 @@
+{
+    "title": "Morgan Stanley",
+    "website": "'https://www.morganstanley.com/'",
+    "links": {
+        "facebook": "'https://business.facebook.com/morganstanley'",
+        "linkedin": "'https://linkedin.com/company/morgan-stanley'",
+        "twitter": "MorganStanley",
+        "wikipedia": "https://en.wikipedia.org/wiki/Morgan_Stanley"
+    },
+    "logos": [],
+    "other": {
+        "instagram": "'https://instagram.com/morgan.stanley'",
+        "logohandle": "morganstanley",
+        "sort": "morganstanley",
+        "youtube": "'https://youtube.com/user/mgstnly'"
+    }
+}

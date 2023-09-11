@@ -1,0 +1,20 @@
+{
+    "title": "ANSI",
+    "website": "https://www.ansi.org/",
+    "links": {
+        "facebook": "http://www.facebook.com/pages/ANSI-American-National-Standards-Institute/46446679081",
+        "twitter": "ansidotorg",
+        "wikipedia": "https://en.wikipedia.org/wiki/American_National_Standards_Institute"
+    },
+    "logos": [
+        "- ansi-icon.svg"
+    ],
+    "other": {
+        "blog": "https://blog.ansi.org/",
+        "colors": "",
+        "guide": "https://www.ansi.org/about_ansi/ansi_logo_mark/ansilogo?menuid=1",
+        "logohandle": "ansi",
+        "sort": "ansi",
+        "tags": ""
+    }
+}

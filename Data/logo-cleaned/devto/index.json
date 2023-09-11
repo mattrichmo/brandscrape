@@ -1,0 +1,15 @@
+{
+    "title": "dev.to",
+    "website": "'https://dev.to/'",
+    "links": {
+        "facebook": "'https://facebook.com/ThePracticalDev'",
+        "github": "ThePracticalDev",
+        "twitter": "ThePracticalDev"
+    },
+    "logos": [],
+    "other": {
+        "instagram": "'https://instagram.com/ThePracticalDev'",
+        "logohandle": "devto",
+        "sort": "devto"
+    }
+}

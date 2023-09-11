@@ -1,0 +1,19 @@
+{
+    "title": "Vimeo",
+    "website": "https://vimeo.com/",
+    "links": {
+        "facebook": "https://facebook.com/Vimeo",
+        "linkedin": "https://linkedin.com/company/vimeo",
+        "twitter": "vimeo",
+        "wikipedia": "https://en.wikipedia.org/wiki/Vimeo"
+    },
+    "logos": [
+        "- vimeo-tile.svg"
+    ],
+    "other": {
+        "googleplus": "https://plus.google.com/+vimeo",
+        "instagram": "https://instagram.com/vimeo",
+        "logohandle": "vimeo",
+        "sort": "vimeo"
+    }
+}

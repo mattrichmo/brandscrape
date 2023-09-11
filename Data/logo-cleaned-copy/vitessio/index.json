@@ -1,0 +1,17 @@
+{
+    "title": "Vitess",
+    "website": "'https://vitess.io/'",
+    "links": {
+        "github": "vitessio/vitess",
+        "twitter": "vitessio"
+    },
+    "logos": [],
+    "other": {
+        "blog": "'http://blog.vitess.io/'",
+        "logohandle": "vitessio",
+        "other": "",
+        "name": "StackOverflow",
+        "url": "'https://stackoverflow.com/search?tab=newest&q=vitess'",
+        "sort": "vitess"
+    }
+}

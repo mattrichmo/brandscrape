@@ -1,0 +1,19 @@
+{
+    "title": "Lua",
+    "website": "https://www.lua.org/",
+    "links": {
+        "github": "lua",
+        "twitter": "LuaLang",
+        "wikipedia": "https://en.wikipedia.org/wiki/Lua_(programming_language)"
+    },
+    "logos": [
+        "- lua-icon.svg"
+    ],
+    "other": {
+        "blog": "https://www.lua.org/news.html",
+        "guide": "https://www.lua.org/images/",
+        "logohandle": "lua",
+        "sort": "lua",
+        "tags": ""
+    }
+}

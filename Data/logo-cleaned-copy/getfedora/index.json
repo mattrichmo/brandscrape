@@ -1,0 +1,16 @@
+{
+    "title": "Fedora Linux",
+    "website": "'https://getfedora.org/'",
+    "links": {
+        "facebook": "'https://facebook.com/TheFedoraProject'",
+        "twitter": "fedora",
+        "wikipedia": "'https://fedoraproject.org/wiki/Logo'"
+    },
+    "logos": [],
+    "other": {
+        "googleplus": "'https://plus.google.com/112917221531140868607'",
+        "guide": "'https://fedoraproject.org/wiki/Logo'",
+        "logohandle": "getfedora",
+        "sort": "fedora"
+    }
+}

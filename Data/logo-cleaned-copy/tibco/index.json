@@ -1,0 +1,16 @@
+{
+    "title": "TIBCO",
+    "website": "'https://www.tibco.com/'",
+    "links": {
+        "facebook": "'https://facebook.com/TIBCO'",
+        "linkedin": "'https://linkedin.com/company/tibco-software-inc-'",
+        "twitter": "tibco",
+        "wikipedia": "https://en.wikipedia.org/wiki/TIBCO_Software"
+    },
+    "logos": [],
+    "other": {
+        "logohandle": "tibco",
+        "sort": "tibco",
+        "youtube": "http://www.youtube.com/channel/UCBzoBiPEgi9rWz05jzPoYKg"
+    }
+}

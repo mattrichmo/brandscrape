@@ -1,0 +1,20 @@
+{
+    "title": "Amazon Web Services",
+    "website": "https://aws.amazon.com/",
+    "links": {
+        "facebook": "https://www.facebook.com/amazonwebservices/",
+        "github": "aws",
+        "twitter": "awscloud"
+    },
+    "logos": [
+        "- amazon_aws-icon.svg"
+    ],
+    "other": {
+        "blog": "https://aws.amazon.com/blogs/",
+        "colors": "",
+        "logohandle": "amazon_aws",
+        "sort": "amazon web services",
+        "tags": "",
+        "youtube": "https://youtube.com/user/AmazonWebServices"
+    }
+}

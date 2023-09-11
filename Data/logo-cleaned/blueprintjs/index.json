@@ -1,0 +1,12 @@
+{
+    "title": "BlueprintJS",
+    "website": "'http://blueprintjs.com/'",
+    "links": {
+        "github": "palantir/blueprint"
+    },
+    "logos": [],
+    "other": {
+        "logohandle": "blueprintjs",
+        "sort": "blueprintjs"
+    }
+}

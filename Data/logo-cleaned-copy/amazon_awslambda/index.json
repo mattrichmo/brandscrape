@@ -1,0 +1,10 @@
+{
+    "title": "AWS Lambda",
+    "website": "'https://aws.amazon.com/lambda/'",
+    "links": {},
+    "logos": [],
+    "other": {
+        "logohandle": "amazon_awslambda",
+        "sort": "lambda"
+    }
+}

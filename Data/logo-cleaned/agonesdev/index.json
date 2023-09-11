@@ -1,0 +1,13 @@
+{
+    "title": "Agones",
+    "website": "'https://agones.dev/site/'",
+    "links": {
+        "github": "googleforgames/agones",
+        "twitter": "agonesdev"
+    },
+    "logos": [],
+    "other": {
+        "logohandle": "agonesdev",
+        "sort": "agones"
+    }
+}

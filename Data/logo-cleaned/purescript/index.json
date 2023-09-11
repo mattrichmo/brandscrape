@@ -1,0 +1,13 @@
+{
+    "title": "PureScript",
+    "website": "'http://www.purescript.org/'",
+    "links": {
+        "github": "purescript/purescript",
+        "twitter": "purescript"
+    },
+    "logos": [],
+    "other": {
+        "logohandle": "purescript",
+        "sort": "purescript"
+    }
+}

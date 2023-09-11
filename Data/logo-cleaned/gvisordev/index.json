@@ -1,0 +1,13 @@
+{
+    "title": "gVisor",
+    "website": "'https://gvisor.dev/'",
+    "links": {
+        "github": "google/gvisor"
+    },
+    "logos": [],
+    "other": {
+        "blog": "'https://gvisor.dev/blog/'",
+        "logohandle": "gvisordev",
+        "sort": "gvisor"
+    }
+}

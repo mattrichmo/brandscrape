@@ -1,0 +1,15 @@
+{
+    "title": "Airbrake",
+    "website": "'https://airbrake.io/'",
+    "links": {
+        "facebook": "'https://facebook.com/airbrake.io'",
+        "github": "airbrake",
+        "twitter": "airbrake"
+    },
+    "logos": [],
+    "other": {
+        "blog": "'https://airbrake.io/blog/'",
+        "logohandle": "airbrakeio",
+        "sort": "airbrake"
+    }
+}

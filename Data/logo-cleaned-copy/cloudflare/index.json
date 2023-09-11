@@ -1,0 +1,23 @@
+{
+    "title": "Cloudflare",
+    "website": "https://www.cloudflare.com/",
+    "links": {
+        "facebook": "https://www.facebook.com/Cloudflare/",
+        "github": "cloudflare",
+        "linkedin": "https://www.linkedin.com/company/407222",
+        "twitter": "Cloudflare",
+        "wikipedia": "https://en.wikipedia.org/wiki/Cloudflare"
+    },
+    "logos": [
+        "- cloudflare-official.svg"
+    ],
+    "other": {
+        "blog": "https://blog.cloudflare.com/",
+        "colors": "",
+        "googleplus": "https://plus.google.com/+cloudflare",
+        "guide": "https://www.cloudflare.com/logo/",
+        "logohandle": "cloudflare",
+        "sort": "cloudflare",
+        "tags": ""
+    }
+}

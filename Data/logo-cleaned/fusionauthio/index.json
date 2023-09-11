@@ -1,0 +1,15 @@
+{
+    "title": "FusionAuth",
+    "website": "'https://fusionauth.io/'",
+    "links": {
+        "facebook": "'https://facebook.com/fusionauth'",
+        "github": "FusionAuth",
+        "linkedin": "'https://linkedin.com/company/fusionauth'",
+        "twitter": "fusionauth"
+    },
+    "logos": [],
+    "other": {
+        "logohandle": "fusionauthio",
+        "sort": "fusionauth"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "title": "Linode",
+    "website": "https://www.linode.com/",
+    "links": {
+        "facebook": "https://facebook.com/linode",
+        "github": "linode",
+        "twitter": "linode",
+        "wikipedia": "https://en.wikipedia.org/wiki/Linode"
+    },
+    "logos": [
+        "- linode-icon.svg"
+    ],
+    "other": {
+        "blog": "https://blog.linode.com/",
+        "logohandle": "linode",
+        "sort": "linode",
+        "tags": "",
+        "https": "//www.linode.com/logos)"
+    }
+}

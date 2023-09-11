@@ -1,0 +1,15 @@
+{
+    "title": "VLC",
+    "website": "https://www.videolan.org/vlc/",
+    "links": {
+        "facebook": "http://www.facebook.com/vlc.media.player",
+        "twitter": "videolan",
+        "wikipedia": "https://en.wikipedia.org/wiki/VLC_media_player"
+    },
+    "logos": [],
+    "other": {
+        "googleplus": "https://plus.google.com/+vlc",
+        "logohandle": "videolan_vlc",
+        "sort": "vlc"
+    }
+}

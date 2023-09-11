@@ -1,0 +1,21 @@
+{
+    "title": "ZEIT",
+    "website": "https://zeit.co/",
+    "links": {
+        "facebook": "https://facebook.com/zeithq",
+        "github": "zeit",
+        "linkedin": "https://www.linkedin.com/company/16181286/",
+        "twitter": "zeithq"
+    },
+    "logos": [
+        "- zeit-ar21.svg"
+    ],
+    "other": {
+        "blog": "https://zeit.co/blog",
+        "guide": "https://github.com/zeit/art",
+        "logohandle": "zeit",
+        "sort": "zeit",
+        "tags": "",
+        "youtube": "https://youtube.com/channel/UCLq8gNoee7oXM7MvTdjyQvA"
+    }
+}

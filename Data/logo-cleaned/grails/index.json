@@ -1,0 +1,13 @@
+{
+    "title": "Grails",
+    "website": "'https://grails.org/'",
+    "links": {
+        "twitter": "grailsframework",
+        "wikipedia": "https://en.wikipedia.org/wiki/Grails_(framework)"
+    },
+    "logos": [],
+    "other": {
+        "logohandle": "grails",
+        "sort": "grails"
+    }
+}

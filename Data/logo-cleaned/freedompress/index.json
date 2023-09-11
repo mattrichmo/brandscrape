@@ -1,0 +1,14 @@
+{
+    "title": "Freedom of the Press Foundation",
+    "website": "'https://freedom.press/'",
+    "links": {
+        "facebook": "'https://facebook.com/FreedomofthePressFoundation'",
+        "twitter": "FreedomofPress",
+        "wikipedia": "'https://en.wikipedia.org/wiki/Freedom_of_the_Press_Foundation'"
+    },
+    "logos": [],
+    "other": {
+        "logohandle": "freedompress",
+        "sort": "freedom"
+    }
+}

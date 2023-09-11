@@ -1,0 +1,17 @@
+{
+    "title": "Goldman Sachs",
+    "website": "'http://www.goldmansachs.com/'",
+    "links": {
+        "facebook": "https://www.facebook.com/goldmansachs",
+        "linkedin": "'https://linkedin.com/company/goldman-sachs'",
+        "twitter": "goldmansachs",
+        "wikipedia": "https://en.wikipedia.org/wiki/Goldman_Sachs"
+    },
+    "logos": [],
+    "other": {
+        "googleplus": "'https://plus.google.com/+GoldmanSachs'",
+        "logohandle": "goldmansachs",
+        "sort": "goldmansachs",
+        "youtube": "'https://youtube.com/GoldmanSachs'"
+    }
+}

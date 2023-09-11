@@ -1,0 +1,16 @@
+{
+    "title": "Babel.js",
+    "website": "https://babeljs.io/",
+    "links": {
+        "github": "babel/babel",
+        "twitter": "babeljs",
+        "wikipedia": "https://en.wikipedia.org/wiki/Babel_(compiler)"
+    },
+    "logos": [],
+    "other": {
+        "blog": "https://babeljs.io/blog/",
+        "logohandle": "babeljs",
+        "slack": "https://slack.babeljs.io/",
+        "sort": "babeljs"
+    }
+}

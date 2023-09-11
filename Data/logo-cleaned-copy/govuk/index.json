@@ -1,0 +1,11 @@
+{
+    "title": "GOV.UK",
+    "website": "'https://www.gov.uk/'",
+    "links": {},
+    "logos": [],
+    "other": {
+        "blog": "'https://www.blog.gov.uk/'",
+        "logohandle": "govuk",
+        "sort": "govuk"
+    }
+}

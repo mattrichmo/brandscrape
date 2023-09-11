@@ -1,0 +1,18 @@
+{
+    "title": "Telegram",
+    "website": "https://telegram.org/",
+    "links": {
+        "twitter": "telegram",
+        "wikipedia": "https://en.wikipedia.org/wiki/Telegram_(messaging_service)"
+    },
+    "logos": [
+        "- telegram-tile.svg"
+    ],
+    "other": {
+        "blog": "https://telegram.org/blog",
+        "guide": "https://telegram.org/press",
+        "logohandle": "telegram",
+        "sort": "telegram",
+        "tags": ""
+    }
+}

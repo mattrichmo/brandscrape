@@ -1,0 +1,16 @@
+{
+    "title": "Qt",
+    "website": "'https://www.qt.io/'",
+    "links": {
+        "facebook": "'https://facebook.com/qt'",
+        "twitter": "qtproject",
+        "wikipedia": "https://en.wikipedia.org/wiki/Qt_(software)"
+    },
+    "logos": [],
+    "other": {
+        "blog": "'http://blog.qt.io/'",
+        "logohandle": "qtio",
+        "sort": "qt",
+        "youtube": "'https://youtube.com/user/QtStudios'"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "title": "Gumroad",
+    "website": "'https://gumroad.com/'",
+    "links": {
+        "facebook": "'http://facebook.com/gumroad'",
+        "linkedin": "'https://www.linkedin.com/company/gumroad'",
+        "twitter": "gumroad",
+        "wikipedia": "'https://en.wikipedia.org/wiki/Gumroad'"
+    },
+    "logos": [],
+    "other": {
+        "logohandle": "gumroad",
+        "sort": "gumroad",
+        "youtube": "'https://www.youtube.com/user/gumroaddotcom'"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "title": "CodePen",
+    "website": "https://codepen.io/",
+    "links": {
+        "facebook": "https://www.facebook.com/CodePen/",
+        "github": "CodePen",
+        "twitter": "CodePen",
+        "wikipedia": "https://en.wikipedia.org/wiki/CodePen"
+    },
+    "logos": [
+        "- codepen-tile.svg"
+    ],
+    "other": {
+        "blog": "https://blog.codepen.io/",
+        "flickr": "https://www.flickr.com/photos/codepen/",
+        "guide": "https://blog.codepen.io/documentation/brand-assets/logos/",
+        "instagram": "https://www.instagram.com/codepen/",
+        "logohandle": "codepen",
+        "sort": "codepen"
+    }
+}

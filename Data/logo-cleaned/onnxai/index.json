@@ -1,0 +1,16 @@
+{
+    "title": "ONNX",
+    "website": "'https://onnx.ai/'",
+    "links": {
+        "facebook": "'https://facebook.com/onnxai'",
+        "github": "onnx",
+        "twitter": "onnxai",
+        "wikipedia": "'https://en.wikipedia.org/wiki/Onnx'"
+    },
+    "logos": [],
+    "other": {
+        "keywords": "'Open Neural Network Exchange'",
+        "logohandle": "onnxai",
+        "sort": "onnx"
+    }
+}

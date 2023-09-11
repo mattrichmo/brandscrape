@@ -1,0 +1,15 @@
+{
+    "title": "svgo",
+    "website": "https://www.github.com/svg/svgo",
+    "links": {
+        "github": "svg/svgo"
+    },
+    "logos": [
+        "- svgo-icon.svg"
+    ],
+    "other": {
+        "logohandle": "svgo",
+        "sort": "svgo",
+        "tags": ""
+    }
+}

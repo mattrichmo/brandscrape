@@ -1,0 +1,18 @@
+{
+    "title": "Atom Editor",
+    "website": "https://atom.io/",
+    "links": {
+        "github": "atom/atom",
+        "twitter": "AtomEditor",
+        "wikipedia": "https://en.wikipedia.org/wiki/Atom_(text_editor)"
+    },
+    "logos": [
+        "- atom_io-icon.svg"
+    ],
+    "other": {
+        "blog": "http://blog.atom.io/",
+        "logohandle": "atom_io",
+        "sort": "atomeditor",
+        "tags": ""
+    }
+}

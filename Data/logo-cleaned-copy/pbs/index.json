@@ -1,0 +1,19 @@
+{
+    "title": "PBS",
+    "website": "https://www.pbs.org/",
+    "links": {
+        "facebook": "https://www.facebook.com/pbs",
+        "twitter": "pbs",
+        "wikipedia": "https://en.wikipedia.org/wiki/PBS"
+    },
+    "logos": [
+        "- pbs-ar21.svg"
+    ],
+    "other": {
+        "instagram": "https://www.instagram.com/pbs/",
+        "logohandle": "pbs",
+        "pinterest": "https://www.pinterest.com/pbsofficial/",
+        "sort": "pbs",
+        "tumblr": "http://pbstv.tumblr.com/"
+    }
+}

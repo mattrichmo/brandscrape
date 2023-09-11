@@ -1,0 +1,17 @@
+{
+    "title": "Tempo",
+    "website": "'https://www.tempo.io/'",
+    "links": {
+        "facebook": "'https://facebook.com/TempoHQ'",
+        "linkedin": "'https://linkedin.com/company/tempohq'",
+        "twitter": "tempohq"
+    },
+    "logos": [],
+    "other": {
+        "blog": "'http://blog.tempo.io/'",
+        "instagram": "'https://instagram.com/tempo_io'",
+        "logohandle": "tempoio",
+        "sort": "tempo",
+        "youtube": "'https://youtube.com/user/tempoplugin'"
+    }
+}

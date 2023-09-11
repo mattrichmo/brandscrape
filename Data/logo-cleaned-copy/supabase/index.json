@@ -1,0 +1,14 @@
+{
+    "title": "Supabase",
+    "website": "'https://supabase.com/'",
+    "links": {
+        "github": "supabase",
+        "twitter": "supabase"
+    },
+    "logos": [],
+    "other": {
+        "guide": "https://supabase.com/brand-assets",
+        "logohandle": "supabase",
+        "sort": "supabase"
+    }
+}

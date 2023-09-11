@@ -1,0 +1,17 @@
+{
+    "title": "Gradle",
+    "website": "https://gradle.org/",
+    "links": {
+        "github": "gradle",
+        "twitter": "gradle",
+        "wikipedia": "https://en.wikipedia.org/wiki/Gradle"
+    },
+    "logos": [
+        "- gradle-ar21.svg"
+    ],
+    "other": {
+        "blog": "https://blog.gradle.org/",
+        "logohandle": "gradle",
+        "sort": "gradle"
+    }
+}

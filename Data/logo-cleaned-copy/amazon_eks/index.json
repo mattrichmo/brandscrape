@@ -1,0 +1,10 @@
+{
+    "title": "Amazon EKS",
+    "website": "'https://aws.amazon.com/eks/'",
+    "links": {},
+    "logos": [],
+    "other": {
+        "logohandle": "amazon_eks",
+        "sort": "amazoneks"
+    }
+}

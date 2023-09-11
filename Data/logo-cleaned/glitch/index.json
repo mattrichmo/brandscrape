@@ -1,0 +1,15 @@
+{
+    "title": "Glitch",
+    "website": "https://www.glitch.com/",
+    "links": {
+        "twitter": "glitch"
+    },
+    "logos": [
+        "- glitch-icon.svg"
+    ],
+    "other": {
+        "blog": "https://medium.com/glitch",
+        "logohandle": "glitch",
+        "sort": "glitch"
+    }
+}

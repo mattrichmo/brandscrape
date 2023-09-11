@@ -1,0 +1,21 @@
+{
+    "title": "NASA",
+    "website": "https://www.nasa.gov/",
+    "links": {
+        "facebook": "https://www.facebook.com/nasa",
+        "github": "nasa",
+        "twitter": "nasa",
+        "wikipedia": "https://en.wikipedia.org/wiki/NASA"
+    },
+    "logos": [
+        "- nasa-icon.svg"
+    ],
+    "other": {
+        "blog": "https://blogs.nasa.gov/",
+        "font": "",
+        "myfonts": "https://www.myfonts.com/fonts/typodermic/nasalization/",
+        "name": "Nasalization Medium",
+        "logohandle": "nasa",
+        "sort": "nasa"
+    }
+}

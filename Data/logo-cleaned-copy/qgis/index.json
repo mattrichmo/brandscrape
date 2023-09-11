@@ -1,0 +1,14 @@
+{
+    "title": "QGIS",
+    "website": "https://qgis.org ",
+    "links": {
+        "github": "https://github.com/qgis/",
+        "wikipedia": "https://en.wikipedia.org/wiki/QGIS"
+    },
+    "logos": [],
+    "other": {
+        "guide": "https://qgis.org/en/site/getinvolved/styleguide.html ",
+        "logohandle": "qgis",
+        "sort": "qgis"
+    }
+}

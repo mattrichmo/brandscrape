@@ -1,0 +1,24 @@
+{
+    "title": "Facebook",
+    "website": "https://www.facebook.com/",
+    "links": {
+        "facebook": "https://www.facebook.com/facebook",
+        "github": "facebook",
+        "twitter": "facebook",
+        "wikipedia": "https://en.wikipedia.org/wiki/Facebook"
+    },
+    "logos": [
+        "- facebook-icon.svg"
+    ],
+    "other": {
+        "font": "",
+        "myfonts": "https://www.myfonts.com/fonts/processtype/klavika/bold/",
+        "name": "Klavika",
+        "url": "https://processtypefoundry.com/fonts/klavika/",
+        "guide": "https://en.facebookbrand.com/guidelines/brand",
+        "logohandle": "facebook",
+        "sort": "facebook",
+        "tags": "",
+        "https": "//fontsinuse.com/uses/9/the-social-network)"
+    }
+}

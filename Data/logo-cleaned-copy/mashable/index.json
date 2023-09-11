@@ -1,0 +1,23 @@
+{
+    "title": "Mashable",
+    "website": "https://mashable.com/",
+    "links": {
+        "facebook": "http://www.facebook.com/mashable",
+        "linkedin": "https://www.linkedin.com/company/mashable",
+        "twitter": "mashable",
+        "wikipedia": "https://en.wikipedia.org/wiki/Mashable"
+    },
+    "logos": [
+        "- mashable-icon.svg"
+    ],
+    "other": {
+        "googleplus": "https://plus.google.com/+Mashable",
+        "instagram": "https://www.instagram.com/mashable/",
+        "logohandle": "mashable",
+        "pinterest": "https://www.pinterest.com/mashable/",
+        "sort": "mashable",
+        "tumblr": "http://mashable.tumblr.com/",
+        "vine": "https://vine.co/mashable",
+        "youtube": "https://www.youtube.com/user/mashable"
+    }
+}

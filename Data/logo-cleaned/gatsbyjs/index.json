@@ -1,0 +1,14 @@
+{
+    "title": "'Gatsby.js'",
+    "website": "'https://www.gatsbyjs.com/'",
+    "links": {
+        "github": "gatsbyjs/gatsby",
+        "twitter": "gatsbyjs"
+    },
+    "logos": [],
+    "other": {
+        "blog": "'https://gatsbyjs.org/blog'",
+        "logohandle": "gatsbyjs",
+        "sort": "gatsbyjs"
+    }
+}

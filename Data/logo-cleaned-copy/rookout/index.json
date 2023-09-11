@@ -1,0 +1,16 @@
+{
+    "title": "Rookout",
+    "website": "'https://www.rookout.com/'",
+    "links": {
+        "facebook": "'https://facebook.com/rookoutlabs'",
+        "github": "rookout",
+        "linkedin": "'https://linkedin.com/company/rookout'",
+        "twitter": "rookoutlabs"
+    },
+    "logos": [],
+    "other": {
+        "blog": "'https://rookout.com/blog/'",
+        "logohandle": "rookout",
+        "sort": "rookout"
+    }
+}

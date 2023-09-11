@@ -1,0 +1,20 @@
+{
+    "title": "Figma",
+    "website": "https://www.figma.com/",
+    "links": {
+        "facebook": "https://www.facebook.com/figmadesign",
+        "twitter": "figmadesign"
+    },
+    "logos": [
+        "- figma-icon.svg"
+    ],
+    "other": {
+        "blog": "https://blog.figma.com/",
+        "instagram": "https://www.instagram.com/figmadesign/",
+        "logohandle": "figma",
+        "other": "",
+        "name": "Medium",
+        "url": "https://medium.com/figma-design",
+        "sort": "figma"
+    }
+}

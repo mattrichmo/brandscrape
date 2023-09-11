@@ -1,0 +1,13 @@
+{
+    "title": "Metabase",
+    "website": "'https://www.metabase.com/'",
+    "links": {
+        "github": "metabase/metabase",
+        "twitter": "metabase"
+    },
+    "logos": [],
+    "other": {
+        "logohandle": "metabase",
+        "sort": "metabase"
+    }
+}

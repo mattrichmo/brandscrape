@@ -1,0 +1,21 @@
+{
+    "title": "Wikimedia",
+    "website": "https://www.wikimedia.org/",
+    "links": {
+        "github": "wikimedia",
+        "twitter": "wikimedia",
+        "wikipedia": "https://en.wikipedia.org/wiki/Wikimedia_Foundation"
+    },
+    "logos": [
+        "- wikimedia-ar21.svg"
+    ],
+    "other": {
+        "blog": "https://blog.wikimedia.org/",
+        "font": "",
+        "myfonts": "https://www.myfonts.com/fonts/adobe/gill-sans/bold/",
+        "name": "Gill Sans Bold",
+        "guide": "https://wikimediafoundation.org/wiki/Visual_identity_guidelines",
+        "logohandle": "wikimedia",
+        "sort": "wikimedia"
+    }
+}

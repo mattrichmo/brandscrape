@@ -1,0 +1,17 @@
+{
+    "title": "ARIN",
+    "website": "'https://www.arin.net/'",
+    "links": {
+        "facebook": "'https://facebook.com/TeamARIN'",
+        "linkedin": "'https://linkedin.com/company/arin'",
+        "twitter": "TeamARIN",
+        "wikipedia": "'https://en.wikipedia.org/wiki/American_Registry_for_Internet_Numbers'"
+    },
+    "logos": [],
+    "other": {
+        "googleplus": "'https://plus.google.com/106553352516672539964'",
+        "logohandle": "arinnet",
+        "sort": "arin",
+        "youtube": "'https://youtube.com/c/teamarin'"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "title": "Darksky",
+    "website": "https://darksky.net/",
+    "links": {
+        "github": "darkskyapp",
+        "twitter": "darkskyapp"
+    },
+    "logos": [
+        "- darksky-icon.svg"
+    ],
+    "other": {
+        "blog": "https://blog.darksky.net/",
+        "logohandle": "darksky",
+        "sort": "darksky"
+    }
+}

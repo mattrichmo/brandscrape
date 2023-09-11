@@ -1,0 +1,18 @@
+{
+    "title": "GraphQL",
+    "website": "http://graphql.org/",
+    "links": {
+        "facebook": "https://www.facebook.com/groups/graphql.community/",
+        "github": "graphql",
+        "twitter": "GraphQL",
+        "wikipedia": "https://en.wikipedia.org/wiki/GraphQL"
+    },
+    "logos": [
+        "- graphql-ar21.svg"
+    ],
+    "other": {
+        "blog": "http://graphql.org/blog/",
+        "logohandle": "graphql",
+        "sort": "graphql"
+    }
+}

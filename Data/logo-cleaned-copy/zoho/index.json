@@ -1,0 +1,18 @@
+{
+    "title": "Zoho",
+    "website": "https://www.zoho.com/",
+    "links": {
+        "facebook": "https://www.facebook.com/zoho/",
+        "github": "zoho",
+        "linkedin": "https://www.linkedin.com/company/zoho",
+        "twitter": "zoho",
+        "wikipedia": "https://en.wikipedia.org/wiki/Zoho_Office_Suite"
+    },
+    "logos": [
+        "- zoho-icon.svg"
+    ],
+    "other": {
+        "logohandle": "zoho",
+        "sort": "zoho"
+    }
+}

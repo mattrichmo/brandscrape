@@ -1,0 +1,14 @@
+{
+    "title": "OK.RU",
+    "website": "https://ok.ru/",
+    "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Odnoklassniki"
+    },
+    "logos": [
+        "- okru-tile.svg"
+    ],
+    "other": {
+        "logohandle": "okru",
+        "sort": "okru"
+    }
+}

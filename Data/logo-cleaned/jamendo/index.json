@@ -1,0 +1,16 @@
+{
+    "title": "Jamendo Music",
+    "website": "'https://www.jamendo.com/start'",
+    "links": {
+        "facebook": "'https://facebook.com/jamendo'",
+        "twitter": "Jamendo"
+    },
+    "logos": [],
+    "other": {
+        "googleplus": "'https://plus.google.com/u/0/+jamendo/posts'",
+        "instagram": "'https://instagram.com/jamendo'",
+        "logohandle": "jamendo",
+        "sort": "jamendo",
+        "youtube": "'https://youtube.com/channel/UCTBT-ruGMi1SJ-FucX9BW2Q'"
+    }
+}

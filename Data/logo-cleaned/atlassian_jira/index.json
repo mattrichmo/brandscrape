@@ -1,0 +1,13 @@
+{
+    "title": "Jira",
+    "website": "'https://www.atlassian.com/software/jira'",
+    "links": {
+        "wikipedia": "'https://en.wikipedia.org/wiki/Jira_(software)'"
+    },
+    "logos": [],
+    "other": {
+        "blog": "'https://www.atlassian.com/blog/jira-software'",
+        "logohandle": "atlassian_jira",
+        "sort": "jira"
+    }
+}

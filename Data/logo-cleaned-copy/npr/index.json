@@ -1,0 +1,16 @@
+{
+    "title": "National Public Radio",
+    "website": "'https://www.npr.org/'",
+    "links": {
+        "facebook": "'https://facebook.com/NPR'",
+        "twitter": "NPR",
+        "wikipedia": "https://en.wikipedia.org/wiki/NPR"
+    },
+    "logos": [],
+    "other": {
+        "instagram": "'https://instagram.com/npr'",
+        "logohandle": "npr",
+        "sort": "npr",
+        "youtube": "'https://www.youtube.com/channel/UCJnS2EsPfv46u1JR8cnD0NA'"
+    }
+}

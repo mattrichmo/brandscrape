@@ -1,0 +1,13 @@
+{
+    "title": "GTmetrix",
+    "website": "'https://gtmetrix.com/'",
+    "links": {
+        "facebook": "'https://facebook.com/gtmetrix'",
+        "twitter": "gtmetrix"
+    },
+    "logos": [],
+    "other": {
+        "logohandle": "gtmetrix",
+        "sort": "gtmetrix"
+    }
+}

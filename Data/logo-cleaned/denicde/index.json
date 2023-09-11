@@ -1,0 +1,12 @@
+{
+    "title": "DENIC",
+    "website": "'https://www.denic.de/'",
+    "links": {
+        "wikipedia": "'https://en.wikipedia.org/wiki/DENIC'"
+    },
+    "logos": [],
+    "other": {
+        "logohandle": "denicde",
+        "sort": "denic"
+    }
+}

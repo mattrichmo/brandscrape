@@ -1,0 +1,24 @@
+{
+    "title": "'USA TODAY'",
+    "website": "'https://www.usatoday.com/'",
+    "links": {
+        "facebook": "'https://facebook.com/usatoday'",
+        "linkedin": "'http://linkedin.com/company/usa-today'",
+        "twitter": "usatoday",
+        "wikipedia": "https://en.wikipedia.org/wiki/USA_Today"
+    },
+    "logos": [],
+    "other": {
+        "instagram": "'https://instagram.com/usatoday'",
+        "logohandle": "usatoday",
+        "other": "",
+        "name": "TuneIn",
+        "url": "http://tunein.com/radio/USA-TODAY-s234044/",
+        "pinterest": "'https://pinterest.com/usatoday'",
+        "snapchat": "https://go.snapchat.com/add/usatoday",
+        "sort": "usatoday",
+        "soundcloud": "https://soundcloud.com/usatoday",
+        "tumblr": "http://www.usatoday.tumblr.com/",
+        "youtube": "'https://youtube.com/USATODAY'"
+    }
+}

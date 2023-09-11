@@ -1,0 +1,15 @@
+{
+    "title": "IssueHunt",
+    "website": "'https://issuehunt.io/'",
+    "links": {
+        "facebook": "'https://facebook.com/issuehunt'",
+        "github": "IssueHunt",
+        "twitter": "issuehunt"
+    },
+    "logos": [],
+    "other": {
+        "blog": "'https://issuehunt.io/blog'",
+        "logohandle": "issuehuntio",
+        "sort": "issuehunt"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "title": "CircleCI",
+    "website": "https://circleci.com/",
+    "links": {
+        "facebook": "https://www.facebook.com/circleci",
+        "github": "circleci",
+        "linkedin": "https://www.linkedin.com/company/circleci",
+        "twitter": "circleci"
+    },
+    "logos": [],
+    "other": {
+        "blog": "https://circleci.com/blog/",
+        "logohandle": "circleci",
+        "sort": "circleci"
+    }
+}

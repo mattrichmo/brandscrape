@@ -1,0 +1,18 @@
+{
+    "title": "MODX",
+    "website": "'https://modx.com/'",
+    "links": {
+        "facebook": "'https://facebook.com/modxcms'",
+        "github": "modxcms",
+        "linkedin": "'https://linkedin.com/company/modx'",
+        "twitter": "modx",
+        "wikipedia": "'https://en.wikipedia.org/wiki/MODX'"
+    },
+    "logos": [],
+    "other": {
+        "googleplus": "'https://plus.google.com/+modx'",
+        "logohandle": "modx",
+        "pinterest": "'http://pinterest.com/modx'",
+        "sort": "modx"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "title": "Banco Central de la Rep\u00fablica Argentina",
+    "website": "'http://www.bcra.gob.ar/'",
+    "links": {
+        "facebook": "'https://facebook.com/BancoCentralAR'",
+        "linkedin": "'https://linkedin.com/company/bcra'",
+        "twitter": "bancocentral_ar"
+    },
+    "logos": [],
+    "other": {
+        "logohandle": "bcragobar",
+        "sort": "bcra",
+        "youtube": "'https://youtube.com/channel/UCq1CEC9JxvblsszG71-CPKw'"
+    }
+}

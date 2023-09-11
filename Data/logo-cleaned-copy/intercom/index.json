@@ -1,0 +1,19 @@
+{
+    "title": "Intercom",
+    "website": "https://www.intercom.com/",
+    "links": {
+        "facebook": "https://www.facebook.com/intercominc/",
+        "linkedin": "https://www.linkedin.com/company/intercom",
+        "twitter": "intercom",
+        "wikipedia": "https://en.wikipedia.org/wiki/Intercom_(company)"
+    },
+    "logos": [
+        "- intercom-icon.svg"
+    ],
+    "other": {
+        "blog": "https://blog.intercom.com/",
+        "guide": "https://www.intercom.com/press",
+        "logohandle": "intercom",
+        "sort": "intercom"
+    }
+}

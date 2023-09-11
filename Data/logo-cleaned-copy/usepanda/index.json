@@ -1,0 +1,14 @@
+{
+    "title": "Panda",
+    "website": "'http://usepanda.com/'",
+    "links": {
+        "facebook": "'https://facebook.com/usepanda'",
+        "twitter": "usepanda"
+    },
+    "logos": [],
+    "other": {
+        "blog": "https://medium.com/@usepanda",
+        "logohandle": "usepanda",
+        "sort": "panda"
+    }
+}

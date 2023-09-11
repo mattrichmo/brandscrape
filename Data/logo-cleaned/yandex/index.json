@@ -1,0 +1,20 @@
+{
+    "title": "Yandex",
+    "website": "https://www.yandex.com/",
+    "links": {
+        "facebook": "https://www.facebook.com/YandexCom",
+        "github": "yandex",
+        "linkedin": "https://www.linkedin.com/company/10718/",
+        "twitter": "yandexcom",
+        "wikipedia": "https://en.wikipedia.org/wiki/Yandex"
+    },
+    "logos": [
+        "- yandex-ar21.svg"
+    ],
+    "other": {
+        "blog": "https://yandex.com/company/blog",
+        "logohandle": "yandex",
+        "sort": "yandex",
+        "tags": ""
+    }
+}

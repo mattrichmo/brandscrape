@@ -1,0 +1,17 @@
+{
+    "title": "Apache Kafka",
+    "website": "http://kafka.apache.org/",
+    "links": {
+        "twitter": "apachekafka",
+        "wikipedia": "https://en.wikipedia.org/wiki/Apache_Kafka"
+    },
+    "logos": [
+        "- apache_kafka-wordmark.svg"
+    ],
+    "other": {
+        "guide": "http://svn.apache.org/repos/asf/kafka/site/logos/originals/eps/",
+        "logohandle": "apache_kafka",
+        "sort": "kafka",
+        "tags": ""
+    }
+}

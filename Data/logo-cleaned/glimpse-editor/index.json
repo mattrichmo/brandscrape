@@ -1,0 +1,12 @@
+{
+    "title": "Glimpse",
+    "website": "'https://glimpse-editor.org/'",
+    "links": {
+        "github": "glimpse-editor/Glimpse"
+    },
+    "logos": [],
+    "other": {
+        "logohandle": "glimpse-editor",
+        "sort": "glimpse"
+    }
+}

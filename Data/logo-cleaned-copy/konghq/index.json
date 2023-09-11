@@ -1,0 +1,21 @@
+{
+    "title": "Kong",
+    "website": "https://konghq.com/",
+    "links": {
+        "facebook": "https://www.facebook.com/konghq/",
+        "github": "Kong/kong",
+        "linkedin": "https://linkedin.com/company/278819",
+        "twitter": "thekonginc",
+        "wikipedia": "https://en.wikipedia.org/wiki/Kong_Inc."
+    },
+    "logos": [
+        "- konghq-ar21.svg"
+    ],
+    "other": {
+        "logohandle": "konghq",
+        "other": "",
+        "name": "Meetup",
+        "url": "https://www.meetup.com/topics/kong/all/",
+        "sort": "kong"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "title": "Bazel",
+    "website": "https://bazel.build/",
+    "links": {
+        "github": "bazelbuild",
+        "twitter": "bazelbuild",
+        "wikipedia": "https://en.wikipedia.org/wiki/Bazel_(software)"
+    },
+    "logos": [
+        "- bazel-icon.svg"
+    ],
+    "other": {
+        "blog": "https://blog.bazel.build/",
+        "guide": "https://blog.bazel.build/2017/07/05/new-logo-and-homepage.html",
+        "logohandle": "bazel",
+        "sort": "bazel"
+    }
+}

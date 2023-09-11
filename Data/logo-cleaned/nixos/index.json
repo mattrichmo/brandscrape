@@ -1,0 +1,13 @@
+{
+    "title": "NixOS Linux",
+    "website": "https://nixos.org/",
+    "links": {
+        "github": "NixOS/nixpkgs",
+        "twitter": "nixos_org"
+    },
+    "logos": [],
+    "other": {
+        "logohandle": "nixos",
+        "sort": "nixos"
+    }
+}

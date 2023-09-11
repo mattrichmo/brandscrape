@@ -1,0 +1,12 @@
+{
+    "title": "GoatCounter",
+    "website": "'https://www.goatcounter.com/'",
+    "links": {
+        "github": "zgoat/goatcounter"
+    },
+    "logos": [],
+    "other": {
+        "logohandle": "goatcounter",
+        "sort": "goatcounter"
+    }
+}

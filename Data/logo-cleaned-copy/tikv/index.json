@@ -1,0 +1,14 @@
+{
+    "title": "TiKV",
+    "website": "'https://tikv.org/'",
+    "links": {
+        "github": "tikv/tikv",
+        "twitter": "tikvproject"
+    },
+    "logos": [],
+    "other": {
+        "guide": "'https://github.com/cncf/artwork'",
+        "logohandle": "tikv",
+        "sort": "tikv"
+    }
+}

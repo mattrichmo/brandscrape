@@ -1,0 +1,16 @@
+{
+    "title": "YottaDB",
+    "website": "'https://yottadb.com/'",
+    "links": {
+        "facebook": "'https://facebook.com/yottadb'",
+        "github": "YottaDB",
+        "linkedin": "'https://linkedin.com/company/yottadb'",
+        "twitter": "YottaDB"
+    },
+    "logos": [],
+    "other": {
+        "blog": "'https://yottadb.com/blog'",
+        "logohandle": "yottadb",
+        "sort": "yottadb"
+    }
+}

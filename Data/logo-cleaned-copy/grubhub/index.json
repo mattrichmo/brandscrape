@@ -1,0 +1,19 @@
+{
+    "title": "Grubhub",
+    "website": "https://www.grubhub.com/",
+    "links": {
+        "facebook": "https://www.facebook.com/grubhub",
+        "github": "grubhub",
+        "twitter": "grubhub",
+        "wikipedia": "https://en.wikipedia.org/wiki/Grubhub"
+    },
+    "logos": [
+        "- grubhub-ar21.svg"
+    ],
+    "other": {
+        "blog": "https://www.grubhub.com/thecrave/",
+        "guide": "https://media.grubhub.com/media/multimedia/logos/default.aspx",
+        "logohandle": "grubhub",
+        "sort": "grubhub"
+    }
+}

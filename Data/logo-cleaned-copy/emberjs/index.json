@@ -1,0 +1,19 @@
+{
+    "title": "emberjs",
+    "website": "https://www.emberjs.com/",
+    "links": {
+        "github": "emberjs",
+        "twitter": "emberjs",
+        "wikipedia": "https://en.wikipedia.org/wiki/Ember.js"
+    },
+    "logos": [
+        "- emberjs-icon.svg"
+    ],
+    "other": {
+        "blog": "https://www.emberjs.com/blog/",
+        "googleplus": "https://plus.google.com/communities/106387049790387471205",
+        "guide": "https://www.emberjs.com/logos/",
+        "logohandle": "emberjs",
+        "sort": "emberjs"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "title": "Google",
+    "website": "https://www.google.com/",
+    "links": {
+        "facebook": "https://www.facebook.com/google",
+        "github": "google",
+        "twitter": "google",
+        "wikipedia": "https://en.wikipedia.org/wiki/Google"
+    },
+    "logos": [
+        "- google-tile.svg"
+    ],
+    "other": {
+        "blog": "https://www.blog.google/",
+        "guide": "https://developers.google.com/identity/branding-guidelines",
+        "logohandle": "google",
+        "sort": "google",
+        "tags": "",
+        "https": "//design.google/library/evolving-google-identity/)"
+    }
+}

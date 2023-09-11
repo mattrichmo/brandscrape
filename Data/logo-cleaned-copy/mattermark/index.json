@@ -1,0 +1,14 @@
+{
+    "title": "Mattermark",
+    "website": "'https://mattermark.com/'",
+    "links": {
+        "facebook": "'https://facebook.com/mattermark'",
+        "linkedin": "'https://linkedin.com/company/mattermark'",
+        "twitter": "mattermark"
+    },
+    "logos": [],
+    "other": {
+        "logohandle": "mattermark",
+        "sort": "mattermark"
+    }
+}

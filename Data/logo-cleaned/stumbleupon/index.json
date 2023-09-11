@@ -1,0 +1,18 @@
+{
+    "title": "StumbleUpon",
+    "website": "https://www.stumbleupon.com/",
+    "links": {
+        "github": "stumbleupon",
+        "twitter": "StumbleUpon",
+        "wikipedia": "https://en.wikipedia.org/wiki/StumbleUpon"
+    },
+    "logos": [
+        "- stumbleupon-ar21.svg"
+    ],
+    "other": {
+        "blog": "http://www.stumbleupon.com/blog",
+        "logohandle": "stumbleupon",
+        "sort": "stumbleupon",
+        "tags": ""
+    }
+}

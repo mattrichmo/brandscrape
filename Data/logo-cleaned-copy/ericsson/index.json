@@ -1,0 +1,15 @@
+{
+    "title": "Ericsson",
+    "website": "'https://www.ericsson.com/'",
+    "links": {
+        "facebook": "'http://facebook.com/Ericsson'",
+        "linkedin": "'https://linkedin.com/company/Ericsson'",
+        "twitter": "Ericsson",
+        "wikipedia": "'https://en.wikipedia.org/wiki/Ericsson'"
+    },
+    "logos": [],
+    "other": {
+        "logohandle": "ericsson",
+        "sort": "ericsson"
+    }
+}

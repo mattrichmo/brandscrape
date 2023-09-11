@@ -1,0 +1,13 @@
+{
+    "title": "Traefik",
+    "website": "'https://traefik.io/'",
+    "links": {
+        "github": "containous/traefik",
+        "twitter": "traefik"
+    },
+    "logos": [],
+    "other": {
+        "logohandle": "traefikio",
+        "sort": "traefik"
+    }
+}

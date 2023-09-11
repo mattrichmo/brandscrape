@@ -1,0 +1,19 @@
+{
+    "title": "Viber",
+    "website": "https://www.viber.com/",
+    "links": {
+        "facebook": "https://facebook.com/viber",
+        "linkedin": "https://linkedin.com/company/rakuten-viber",
+        "twitter": "Viber",
+        "wikipedia": "https://en.wikipedia.org/wiki/Viber"
+    },
+    "logos": [
+        "- viber-tile.svg"
+    ],
+    "other": {
+        "blog": "https://viber.com/blog",
+        "instagram": "https://instagram.com/viber",
+        "logohandle": "viber",
+        "sort": "viber"
+    }
+}

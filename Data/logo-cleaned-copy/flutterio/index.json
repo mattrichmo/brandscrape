@@ -1,0 +1,14 @@
+{
+    "title": "Flutter",
+    "website": "'https://flutter.io/'",
+    "links": {
+        "github": "flutter",
+        "twitter": "flutterio"
+    },
+    "logos": [],
+    "other": {
+        "blog": "'https://medium.com/flutter-io'",
+        "logohandle": "flutterio",
+        "sort": "flutter"
+    }
+}

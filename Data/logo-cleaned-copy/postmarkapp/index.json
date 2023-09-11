@@ -1,0 +1,15 @@
+{
+    "title": "Postmark",
+    "website": "'https://postmarkapp.com/'",
+    "links": {
+        "facebook": "'https://facebook.com/postmarkapp'",
+        "github": "wildbit/postmark-gem",
+        "twitter": "PostmarkApp"
+    },
+    "logos": [],
+    "other": {
+        "blog": "'https://postmarkapp.com/blog'",
+        "logohandle": "postmarkapp",
+        "sort": "postmarkapp"
+    }
+}

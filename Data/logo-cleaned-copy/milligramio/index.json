@@ -1,0 +1,14 @@
+{
+    "title": "Milligram",
+    "website": "'https://milligram.io/'",
+    "links": {
+        "facebook": "'https://facebook.com/milligramcss'",
+        "github": "milligram/milligram",
+        "twitter": "milligramcss"
+    },
+    "logos": [],
+    "other": {
+        "logohandle": "milligramio",
+        "sort": "milligram"
+    }
+}

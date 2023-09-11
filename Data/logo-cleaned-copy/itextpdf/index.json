@@ -1,0 +1,22 @@
+{
+    "title": "iText",
+    "website": "http://itextpdf.com/",
+    "links": {
+        "facebook": "https://www.facebook.com/iTextPDF/",
+        "github": "itext",
+        "linkedin": "https://linkedin.com/company-beta/281131",
+        "twitter": "iText",
+        "wikipedia": "https://en.wikipedia.org/wiki/IText"
+    },
+    "logos": [
+        "- itextpdf-icon.svg"
+    ],
+    "other": {
+        "googleplus": "https://plus.google.com/+itext",
+        "logohandle": "itextpdf",
+        "pinterest": "https://pinterest.com/itext",
+        "sort": "itext",
+        "tags": "",
+        "youtube": "https://www.youtube.com/channel/UC6kL1_Vm712V3XDM1_RSY8w"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "title": "PrestoDB",
+    "website": "'https://prestosql.io/'",
+    "links": {
+        "facebook": "'https://facebook.com/prestodb'",
+        "github": "prestosql/presto"
+    },
+    "logos": [],
+    "other": {
+        "logohandle": "prestodb",
+        "sort": "prestodb"
+    }
+}

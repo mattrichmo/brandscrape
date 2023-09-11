@@ -1,0 +1,10 @@
+{
+    "title": "Amazon Elastic Container",
+    "website": "'https://aws.amazon.com/ecr/'",
+    "links": {},
+    "logos": [],
+    "other": {
+        "logohandle": "amazon_elasticcontainer",
+        "sort": "amazonelasticcontainer"
+    }
+}

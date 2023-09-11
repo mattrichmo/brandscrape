@@ -1,0 +1,20 @@
+{
+    "title": "Instagram",
+    "website": "https://www.instagram.com/",
+    "links": {
+        "github": "instagram",
+        "wikipedia": "https://en.wikipedia.org/wiki/Instagram"
+    },
+    "logos": [
+        "- instagram-icon.svg"
+    ],
+    "other": {
+        "blog": "http://blog.instagram.com/",
+        "font": "",
+        "myfonts": "https://www.myfonts.com/fonts/typeassociates/billabong/",
+        "name": "Billabong",
+        "guide": "https://en.instagram-brand.com/",
+        "logohandle": "instagram",
+        "sort": "instagram"
+    }
+}

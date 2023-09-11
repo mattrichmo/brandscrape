@@ -1,0 +1,21 @@
+{
+    "title": "medium",
+    "website": "https://medium.com/",
+    "links": {
+        "facebook": "https://www.facebook.com/medium",
+        "github": "medium",
+        "twitter": "medium",
+        "wikipedia": "https://en.wikipedia.org/wiki/Medium_(website)"
+    },
+    "logos": [
+        "- medium-tile.svg"
+    ],
+    "other": {
+        "blog": "https://medium.com/3minread",
+        "colors": "['#00AB6C']",
+        "guide": "https://medium.design/logos-and-brand-guidelines-f1a01a733592",
+        "logohandle": "medium",
+        "sort": "medium",
+        "tags": ""
+    }
+}

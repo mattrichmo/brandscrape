@@ -1,0 +1,12 @@
+{
+    "title": "Apache Pig",
+    "website": "'https://pig.apache.org/'",
+    "links": {
+        "wikipedia": "'https://en.wikipedia.org/wiki/Apache_Pig'"
+    },
+    "logos": [],
+    "other": {
+        "logohandle": "apache_pig",
+        "sort": "pig"
+    }
+}

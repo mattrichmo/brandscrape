@@ -1,0 +1,19 @@
+{
+    "title": "scratch",
+    "website": "https://scratch.mit.edu/",
+    "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Scratch_(programming_language)"
+    },
+    "logos": [
+        "- mit_scratch-icon.svg"
+    ],
+    "other": {
+        "font": "",
+        "name": "Scratch",
+        "url": "https://wiki.scratch.mit.edu/wiki/Scratch_Font",
+        "guide": "https://wiki.scratch.mit.edu/wiki/Scratch_Logo",
+        "logohandle": "mit_scratch",
+        "sort": "scratch",
+        "tags": ""
+    }
+}

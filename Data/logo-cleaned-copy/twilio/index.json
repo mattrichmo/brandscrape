@@ -1,0 +1,17 @@
+{
+    "title": "twilio",
+    "website": "https://www.twilio.com/",
+    "links": {
+        "github": "twilio",
+        "twitter": "twilio",
+        "wikipedia": "https://en.wikipedia.org/wiki/Twilio"
+    },
+    "logos": [
+        "- twilio-icon.svg"
+    ],
+    "other": {
+        "blog": "https://www.twilio.com/blog",
+        "logohandle": "twilio",
+        "sort": "twilio"
+    }
+}

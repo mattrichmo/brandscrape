@@ -1,0 +1,16 @@
+{
+    "title": "Alertify.js",
+    "website": "http://alertifyjs.com/",
+    "links": {
+        "github": "MohammadYounes/AlertifyJS/",
+        "twitter": "AlertifyJS"
+    },
+    "logos": [
+        "- alertifyjs-icon.svg"
+    ],
+    "other": {
+        "logohandle": "alertifyjs",
+        "sort": "alertifyjs",
+        "tags": ""
+    }
+}

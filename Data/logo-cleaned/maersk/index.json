@@ -1,0 +1,19 @@
+{
+    "title": "Maersk",
+    "website": "'https://www.maersk.com/'",
+    "links": {
+        "facebook": "'https://www.facebook.com/Maersk/'",
+        "linkedin": "'https://www.linkedin.com/company/maersk-group/'",
+        "twitter": "Maersk"
+    },
+    "logos": [],
+    "other": {
+        "instagram": "'https://www.instagram.com/maerskgroup/'",
+        "logohandle": "maersk",
+        "noindex": "true",
+        "sort": "maersk",
+        "youtube": "'https://www.youtube.com/channel/UCZiaSUekMl9qG7FBn4rNZ9Q'",
+        "logo": "<br/>",
+        "https": "//www.maersk.com/Assets/ML-Integrated/integrated-global-navigation/build/assets/img/logos/maeu.svg)"
+    }
+}

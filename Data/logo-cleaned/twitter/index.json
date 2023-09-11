@@ -1,0 +1,23 @@
+{
+    "title": "Twitter",
+    "website": "https://twitter.com/",
+    "links": {
+        "github": "twitter",
+        "twitter": "twitter",
+        "wikipedia": "https://en.wikipedia.org/wiki/Twitter"
+    },
+    "logos": [
+        "- twitter-icon.svg"
+    ],
+    "other": {
+        "blog": "https://blog.twitter.com/",
+        "colors": "",
+        "font": "",
+        "name": "Pico Alphabet",
+        "url": "http://www2.wind.ne.jp/maniackers/pico.html",
+        "guide": "https://about.twitter.com/en_us/company/brand-resources.html",
+        "logohandle": "twitter",
+        "sort": "twitter",
+        "tags": ""
+    }
+}

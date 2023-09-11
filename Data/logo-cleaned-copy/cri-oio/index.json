@@ -1,0 +1,12 @@
+{
+    "title": "cri-o",
+    "website": "'http://cri-o.io/'",
+    "links": {
+        "github": "kubernetes-incubator/cri-o"
+    },
+    "logos": [],
+    "other": {
+        "logohandle": "cri-oio",
+        "sort": "cri-o"
+    }
+}

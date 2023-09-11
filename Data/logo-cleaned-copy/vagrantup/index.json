@@ -1,0 +1,16 @@
+{
+    "title": "Vagrant",
+    "website": "https://www.vagrantup.com/",
+    "links": {
+        "github": "mitchellh/vagrant"
+    },
+    "logos": [
+        "- vagrantup-official.svg"
+    ],
+    "other": {
+        "logohandle": "vagrantup",
+        "sort": "vagrant",
+        "tags": "",
+        "https": "//www.hashicorp.com/blog/a-new-look-for-vagrant/)"
+    }
+}

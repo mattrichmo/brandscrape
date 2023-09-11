@@ -1,0 +1,20 @@
+{
+    "title": "Microsoft .Net",
+    "website": "http://www.microsoft.com/net",
+    "links": {
+        "facebook": "https://www.facebook.com/Dotnet",
+        "github": "dotnet",
+        "twitter": "dotnet",
+        "wikipedia": "https://en.wikipedia.org/wiki/.NET_Framework"
+    },
+    "logos": [
+        "- dotnet-vertical.svg"
+    ],
+    "other": {
+        "blog": "https://blogs.msdn.microsoft.com/dotnet/",
+        "logohandle": "dotnet",
+        "redirect_from": "/logos/microsoft_dotnet/index.html",
+        "sort": "microsoft_dotnet",
+        "tags": ""
+    }
+}

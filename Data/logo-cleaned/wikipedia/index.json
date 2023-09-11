@@ -1,0 +1,19 @@
+{
+    "title": "wikipedia",
+    "website": "https://en.wikipedia.org/wiki/Main_Page",
+    "links": {
+        "twitter": "Wikipedia",
+        "wikipedia": "https://en.wikipedia.org/wiki/Wikipedia"
+    },
+    "logos": [
+        "- wikipedia-ar21.svg"
+    ],
+    "other": {
+        "font": "",
+        "name": "Linux Libertine",
+        "url": "http://www.linuxlibertine.org/",
+        "guide": "https://en.wikipedia.org/wiki/Wikipedia_logo",
+        "logohandle": "wikipedia",
+        "sort": "wikipedia"
+    }
+}

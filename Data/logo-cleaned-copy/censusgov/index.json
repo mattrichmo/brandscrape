@@ -1,0 +1,17 @@
+{
+    "title": "US Census Bureau",
+    "website": "'https://www.census.gov/'",
+    "links": {
+        "facebook": "'https://facebook.com/uscensusbureau'",
+        "linkedin": "'http://linkedin.com/company/us-census-bureau'",
+        "twitter": "uscensusbureau",
+        "wikipedia": "'https://en.wikipedia.org/wiki/United_States_Census_Bureau'"
+    },
+    "logos": [],
+    "other": {
+        "instagram": "'http://instagram.com/uscensusbureau'",
+        "logohandle": "censusgov",
+        "sort": "census",
+        "youtube": "'http://youtube.com/user/uscensusbureau'"
+    }
+}

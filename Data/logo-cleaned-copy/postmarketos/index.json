@@ -1,0 +1,13 @@
+{
+    "title": "postmarketOS",
+    "website": "'https://postmarketos.org/'",
+    "links": {
+        "github": "postmarketOS",
+        "twitter": "postmarketOS"
+    },
+    "logos": [],
+    "other": {
+        "logohandle": "postmarketos",
+        "sort": "postmarketos"
+    }
+}

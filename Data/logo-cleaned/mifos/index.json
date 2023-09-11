@@ -1,0 +1,16 @@
+{
+    "title": "Mifos",
+    "website": "'https://mifos.org/'",
+    "links": {
+        "facebook": "'https://facebook.com/mifos'",
+        "linkedin": "'http://linkedin.com/company/the-community-for-open-source-microfinance'",
+        "twitter": "mifos"
+    },
+    "logos": [],
+    "other": {
+        "blog": "'https://mifos.org/blog'",
+        "googleplus": "'https://plus.google.com/u/1/communities/117459001560725673646'",
+        "logohandle": "mifos",
+        "sort": "mifos"
+    }
+}

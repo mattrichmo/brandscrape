@@ -1,0 +1,15 @@
+{
+    "title": "ArangoDB",
+    "website": "'https://www.arangodb.com/'",
+    "links": {
+        "github": "arangodb/arangodb",
+        "linkedin": "'https://linkedin.com/company-beta/5289249'",
+        "twitter": "arangodb"
+    },
+    "logos": [],
+    "other": {
+        "blog": "'https://arangodb.com/blog'",
+        "logohandle": "arangodb",
+        "sort": "arangodb"
+    }
+}

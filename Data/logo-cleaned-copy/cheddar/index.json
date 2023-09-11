@@ -1,0 +1,17 @@
+{
+    "title": "cheddar",
+    "website": "'https://cheddar.com/'",
+    "links": {
+        "facebook": "'https://facebook.com/cheddar'",
+        "linkedin": "'https://linkedin.com/company/cheddar-inc-'",
+        "twitter": "cheddar",
+        "wikipedia": "'https://en.wikipedia.org/wiki/Cheddar_(TV_channel)'"
+    },
+    "logos": [],
+    "other": {
+        "instagram": "'https://instagram.com/cheddar'",
+        "logohandle": "cheddar",
+        "sort": "cheddar",
+        "youtube": "'https://youtube.com/cheddar'"
+    }
+}

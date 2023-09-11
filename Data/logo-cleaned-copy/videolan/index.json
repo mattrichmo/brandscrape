@@ -1,0 +1,13 @@
+{
+    "title": "VideoLAN",
+    "website": "https://www.videolan.org/",
+    "links": {
+        "twitter": "videolan",
+        "wikipedia": "https://en.wikipedia.org/wiki/VideoLAN"
+    },
+    "logos": [],
+    "other": {
+        "logohandle": "videolan",
+        "sort": "videolan"
+    }
+}

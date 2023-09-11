@@ -1,0 +1,19 @@
+{
+    "title": "Webflow",
+    "website": "'https://webflow.com/'",
+    "links": {
+        "facebook": "'https://facebook.com/webflow'",
+        "linkedin": "'https://linkedin.com/company/webflow-inc-'",
+        "twitter": "webflowapp",
+        "wikipedia": "'https://en.wikipedia.org/wiki/Webflow'"
+    },
+    "logos": [],
+    "other": {
+        "blog": "'https://webflow.com/blog'",
+        "googleplus": "'https://plus.google.com/+Webflow'",
+        "instagram": "'https://instagram.com/webflowapp'",
+        "logohandle": "webflow",
+        "sort": "webflow",
+        "youtube": "'https://youtube.com/webflow'"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "title": "xing",
+    "website": "https://www.xing.com/",
+    "links": {
+        "github": "xing",
+        "twitter": "xing_de",
+        "wikipedia": "https://en.wikipedia.org/wiki/XING"
+    },
+    "logos": [
+        "- xing-ar21.svg"
+    ],
+    "other": {
+        "blog": "https://blog.xing.com/de/startseite/",
+        "guide": "https://dev.xing.com/logo_rules",
+        "logohandle": "xing",
+        "sort": "xing",
+        "tags": ""
+    }
+}

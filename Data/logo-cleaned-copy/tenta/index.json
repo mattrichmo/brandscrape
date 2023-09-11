@@ -1,0 +1,15 @@
+{
+    "title": "Tenta",
+    "website": "'https://tenta.com/'",
+    "links": {
+        "facebook": "'https://facebook.com/tentabrowser'",
+        "github": "tenta-browser",
+        "twitter": "tentabrowser"
+    },
+    "logos": [],
+    "other": {
+        "blog": "'https://tenta.com/blog'",
+        "logohandle": "tenta",
+        "sort": "tenta"
+    }
+}

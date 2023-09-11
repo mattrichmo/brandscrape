@@ -1,0 +1,16 @@
+{
+    "title": "Alfresco",
+    "website": "'https://www.alfresco.com/'",
+    "links": {
+        "facebook": "'https://facebook.com/alfrescosoftware'",
+        "github": "Alfresco",
+        "linkedin": "'https://linkedin.com/company/alfresco'",
+        "twitter": "alfresco",
+        "wikipedia": "'https://en.wikipedia.org/wiki/Alfresco_(software)'"
+    },
+    "logos": [],
+    "other": {
+        "logohandle": "alfresco",
+        "sort": "alfresco"
+    }
+}

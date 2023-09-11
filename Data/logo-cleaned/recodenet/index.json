@@ -1,0 +1,15 @@
+{
+    "title": "Recode",
+    "website": "'https://www.recode.net/'",
+    "links": {
+        "facebook": "'https://facebook.com/RecodeDotNet'",
+        "linkedin": "'https://linkedin.com/company/re-code-news'",
+        "twitter": "Recode",
+        "wikipedia": "https://en.wikipedia.org/wiki/Recode"
+    },
+    "logos": [],
+    "other": {
+        "logohandle": "recodenet",
+        "sort": "recode"
+    }
+}

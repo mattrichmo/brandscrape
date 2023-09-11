@@ -1,0 +1,11 @@
+{
+    "title": "GitBook",
+    "website": "'https://www.gitbook.com/'",
+    "links": {},
+    "logos": [],
+    "other": {
+        "blog": "'https://blog.gitbook.com/'",
+        "logohandle": "gitbook",
+        "sort": "gitbook"
+    }
+}

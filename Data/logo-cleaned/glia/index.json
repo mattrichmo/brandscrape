@@ -1,0 +1,13 @@
+{
+    "title": "Glia",
+    "website": "'https://glia.org/'",
+    "links": {
+        "facebook": "'https://facebook.com/glia.project'",
+        "github": "GliaX"
+    },
+    "logos": [],
+    "other": {
+        "logohandle": "glia",
+        "sort": "glia"
+    }
+}

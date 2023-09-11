@@ -1,0 +1,17 @@
+{
+    "title": "Instant Logo Search",
+    "website": "'http://instantlogosearch.com/'",
+    "links": {
+        "github": "kogg/instant-logos",
+        "twitter": "Instant_Logos"
+    },
+    "logos": [],
+    "other": {
+        "font": "",
+        "name": "Lato",
+        "google": "'https://fonts.google.com/specimen/Lato'",
+        "guide": "https://github.com/kogg/InstantLogoSearch/tree/master/components/Header",
+        "logohandle": "instantlogosearch",
+        "sort": "instantlogosearch"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "title": "Cloudera",
+    "website": "'https://www.cloudera.com/'",
+    "links": {
+        "facebook": "'https://facebook.com/cloudera'",
+        "linkedin": "'https://linkedin.com/company/cloudera'",
+        "twitter": "cloudera",
+        "wikipedia": "https://en.wikipedia.org/wiki/Cloudera"
+    },
+    "logos": [],
+    "other": {
+        "logohandle": "cloudera",
+        "sort": "cloudera"
+    }
+}

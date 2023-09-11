@@ -1,0 +1,17 @@
+{
+    "title": "Airbnb",
+    "website": "https://www.airbnb.com/",
+    "links": {
+        "facebook": "https://www.facebook.com/airbnb",
+        "twitter": "airbnb",
+        "wikipedia": "https://en.wikipedia.org/wiki/Airbnb"
+    },
+    "logos": [
+        "- airbnb-tile.svg"
+    ],
+    "other": {
+        "instagram": "https://instagram.com/airbnb",
+        "logohandle": "airbnb",
+        "sort": "airbnb"
+    }
+}

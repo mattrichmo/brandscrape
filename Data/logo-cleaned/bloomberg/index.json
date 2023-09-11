@@ -1,0 +1,16 @@
+{
+    "title": "Bloomberg.com",
+    "website": "'https://www.bloomberg.com/'",
+    "links": {
+        "facebook": "'http://facebook.com/Bloomberglp'",
+        "linkedin": "'https://linkedin.com/company/2494'",
+        "twitter": "bloomberg",
+        "wikipedia": "https://en.wikipedia.org/wiki/Bloomberg_L.P."
+    },
+    "logos": [],
+    "other": {
+        "instagram": "'https://instagram.com/bloomberg'",
+        "logohandle": "bloomberg",
+        "sort": "bloomberg"
+    }
+}

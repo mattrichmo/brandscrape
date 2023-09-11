@@ -1,0 +1,15 @@
+{
+    "title": "Apache Struts",
+    "website": "'https://struts.apache.org/'",
+    "links": {
+        "facebook": "'https://facebook.com/apachestruts'",
+        "github": "apache/struts",
+        "twitter": "TheApacheStruts",
+        "wikipedia": "'https://en.wikipedia.org/wiki/Apache_Struts_2'"
+    },
+    "logos": [],
+    "other": {
+        "logohandle": "apache_struts",
+        "sort": "struts"
+    }
+}

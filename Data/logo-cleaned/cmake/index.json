@@ -1,0 +1,15 @@
+{
+    "title": "CMake",
+    "website": "'https://cmake.org/'",
+    "links": {
+        "facebook": "'https://facebook.com/kitware'",
+        "twitter": "Kitware"
+    },
+    "logos": [],
+    "other": {
+        "blog": "'https://blog.kitware.com/tag/cmake'",
+        "googleplus": "'https://plus.google.com/111200425937199925962/posts'",
+        "logohandle": "cmake",
+        "sort": "cmake"
+    }
+}

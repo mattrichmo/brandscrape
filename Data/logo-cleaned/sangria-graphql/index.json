@@ -1,0 +1,12 @@
+{
+    "title": "Sangria",
+    "website": "'https://sangria-graphql.org/'",
+    "links": {
+        "github": "sangria-graphql"
+    },
+    "logos": [],
+    "other": {
+        "logohandle": "sangria-graphql",
+        "sort": "sangria"
+    }
+}

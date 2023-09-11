@@ -1,0 +1,16 @@
+{
+    "title": "Safari",
+    "website": "https://www.apple.com/safari/",
+    "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Safari_(web_browser)"
+    },
+    "logos": [
+        "- apple_safari-ar21.svg"
+    ],
+    "other": {
+        "blog": "https://webkit.org/blog/",
+        "logohandle": "apple_safari",
+        "sort": "safari",
+        "tags": ""
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "title": "Equinix",
+    "website": "'https://www.equinix.com/'",
+    "links": {
+        "facebook": "'https://facebook.com/Equinix'",
+        "linkedin": "'https://linkedin.com/company/equinix'",
+        "twitter": "Equinix",
+        "wikipedia": "'https://en.wikipedia.org/wiki/Equinix'"
+    },
+    "logos": [],
+    "other": {
+        "blog": "'https://blog.equinix.com/'",
+        "googleplus": "'https://plus.google.com/+equinix/'",
+        "logohandle": "equinix",
+        "sort": "equinix",
+        "youtube": "'https://youtube.com/user/equinixvideos'"
+    }
+}

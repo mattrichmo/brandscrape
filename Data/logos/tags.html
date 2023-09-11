@@ -1,0 +1,54 @@
+---
+title: Logos by Tag
+---
+{% assign sorted_pages = site.pages | sort:'sort' %}
+
+<div id="accordion">
+{% for tag in site.data.tags %}
+  <div class="card">
+    <div class="card-header" id="heading{{tag[0]}}">
+      <h5 class="mb-0">
+        <a alt="Expand {{tag[1]["title"]}}" class="btn btn-link" href="#{{tag[0]}}" aria-expanded="false" title="{{tag[1]["title"]}} ({{tag[0]}})">
+          {{tag[1]["title"]}}
+        </a>
+          <span class="badge badge-info float-right">{{tag[1]["count"]}}</span>
+      </h5>
+    </div>
+    <div id="collapse{{tag[0]}}" class="collapse" xaria-labelledby="heading{{tag[0]}}" data-parent="#accordian">
+      <div class="card-body logo-container">
+	{% for logopage in sorted_pages %}{% if logopage.tags contains tag[0] %}{% if logopage.logohandle %}{% capture logofile %}{{ logopage.logohandle }}-ar21.svg{% endcapture %}{% if logopage.images contains logofile %}
+					<a href="{{ logopage.url }}{{site.indexpage}}"><img alt="{{logopage.title}}" src="{{ logopage.logohandle }}/{{ logofile }}" /></a>
+	{% endif %}{% endif %}{% endif %}{% endfor %}
+      </div>
+    </div>
+  </div>
+{% endfor %}
+</div>
+<script>
+
+	function switchPanels()
+	{
+		$(".collapse").hide();
+		var hash = window.location.hash;
+		if (!hash || hash == '#')
+		{
+		}
+		else
+		{
+            var tag = hash.substring(1);
+            console.info("Showing tag '" + tag + "'");
+            $("#collapse" + tag).show();
+		}
+	}
+
+	$(document).ready(function() {
+        $(window).bind('hashchange', switchPanels);
+		if (window.location.hash)
+		{
+		    switchPanels();
+            $(document).scrollTop($("#heading" + window.location.hash.substring(1)).offset().top);
+        }
+	});
+
+</script>
+

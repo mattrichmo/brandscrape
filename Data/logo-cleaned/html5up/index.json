@@ -1,0 +1,20 @@
+{
+    "title": "HTML5Up",
+    "website": "https://html5up.net/",
+    "links": {
+        "github": "html5up",
+        "twitter": "ajlkn"
+    },
+    "logos": [
+        "- html5up-icon.svg"
+    ],
+    "other": {
+        "colors": "['#E7746F']",
+        "font": "",
+        "google": "https://fonts.google.com/specimen/Source+Sans+Pro",
+        "name": "Source Sans Pro",
+        "url": "https://github.com/adobe-fonts/source-sans-pro",
+        "logohandle": "html5up",
+        "sort": "html5up"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "title": "Wired",
+    "website": "'https://www.wired.com/'",
+    "links": {
+        "facebook": "'https://facebook.com/wired'",
+        "twitter": "wired"
+    },
+    "logos": [],
+    "other": {
+        "instagram": "'https://instagram.com/wired'",
+        "logohandle": "wired",
+        "pinterest": "'https://pinterest.com/wired'",
+        "sort": "wired",
+        "youtube": "'http://youtube.com/wired'"
+    }
+}

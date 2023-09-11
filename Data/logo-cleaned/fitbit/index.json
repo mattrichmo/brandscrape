@@ -1,0 +1,18 @@
+{
+    "title": "Fitbit",
+    "website": "https://www.fitbit.com/",
+    "links": {
+        "facebook": "https://www.facebook.com/fitbit",
+        "github": "fitbit",
+        "twitter": "fitbit",
+        "wikipedia": "https://en.wikipedia.org/wiki/Fitbit"
+    },
+    "logos": [
+        "- fitbit-icon.svg"
+    ],
+    "other": {
+        "guide": "https://brandisty.com/fitbit",
+        "logohandle": "fitbit",
+        "sort": "fitbit"
+    }
+}

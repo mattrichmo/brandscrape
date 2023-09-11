@@ -1,0 +1,16 @@
+{
+    "title": "Digit",
+    "website": "'https://digit.co/'",
+    "links": {
+        "facebook": "'https://facebook.com/hellodigit'",
+        "linkedin": "'https://linkedin.com/company-beta/3324475'",
+        "twitter": "hellodigit"
+    },
+    "logos": [],
+    "other": {
+        "blog": "'https://blog.digit.co/'",
+        "instagram": "'https://instagram.com/hellodigit'",
+        "logohandle": "digitco",
+        "sort": "digit"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "title": "Etsy",
+    "website": "'https://www.etsy.com/'",
+    "links": {
+        "facebook": "'https://www.facebook.com/Etsy'",
+        "twitter": "etsy",
+        "wikipedia": "'https://en.wikipedia.org/wiki/Etsy'"
+    },
+    "logos": [],
+    "other": {
+        "blog": "'https://blog.etsy.com/'",
+        "instagram": "'https://www.instagram.com/etsy/'",
+        "logohandle": "etsy",
+        "pinterest": "'https://www.pinterest.com/etsy/'",
+        "sort": "etsy",
+        "youtube": "'https://www.youtube.com/user/etsy'"
+    }
+}

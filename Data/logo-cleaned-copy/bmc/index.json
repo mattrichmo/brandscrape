@@ -1,0 +1,16 @@
+{
+    "title": "BMC Software",
+    "website": "'http://www.bmc.com/'",
+    "links": {
+        "facebook": "'https://facebook.com/bmcsoftware'",
+        "linkedin": "'https://linkedin.com/company/1597'",
+        "twitter": "bmcsoftware",
+        "wikipedia": "https://en.wikipedia.org/wiki/BMC_Software"
+    },
+    "logos": [],
+    "other": {
+        "logohandle": "bmc",
+        "sort": "bmc",
+        "youtube": "'http://youtube.com/user/BMCSoftwareBMCtv'"
+    }
+}

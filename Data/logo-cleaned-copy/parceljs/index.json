@@ -1,0 +1,14 @@
+{
+    "title": "Parcel",
+    "website": "'https://parceljs.org/'",
+    "links": {
+        "github": "parcel-bundler/parcel",
+        "twitter": "parceljs"
+    },
+    "logos": [],
+    "other": {
+        "guide": "'https://github.com/parcel-bundler/website/tree/master/src/assets'",
+        "logohandle": "parceljs",
+        "sort": "parceljs"
+    }
+}

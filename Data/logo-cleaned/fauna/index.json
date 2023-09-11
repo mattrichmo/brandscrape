@@ -1,0 +1,14 @@
+{
+    "title": "Fauna",
+    "website": "'https://fauna.com/'",
+    "links": {
+        "facebook": "'https://facebook.com/faunadb'",
+        "linkedin": "'https://linkedin.com/company/faunadb'",
+        "twitter": "fauna"
+    },
+    "logos": [],
+    "other": {
+        "logohandle": "fauna",
+        "sort": "fauna"
+    }
+}

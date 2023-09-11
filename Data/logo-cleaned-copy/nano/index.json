@@ -1,0 +1,14 @@
+{
+    "title": "Nano",
+    "website": "'https://nano.org/en'",
+    "links": {
+        "github": "nanocurrency",
+        "twitter": "nano"
+    },
+    "logos": [],
+    "other": {
+        "blog": "'https://medium.com/nanocurrency'",
+        "logohandle": "nano",
+        "sort": "nano"
+    }
+}

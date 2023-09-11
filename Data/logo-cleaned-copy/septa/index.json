@@ -1,0 +1,15 @@
+{
+    "title": "SEPTA",
+    "website": "'https://www.septa.org/'",
+    "links": {
+        "facebook": "'http://facebook.com/septaphilly'",
+        "wikipedia": "'https://en.wikipedia.org/wiki/SEPTA'"
+    },
+    "logos": [],
+    "other": {
+        "logohandle": "septa",
+        "pinterest": "'http://pinterest.com/septatransit'",
+        "sort": "septa",
+        "youtube": "'http://youtube.com/septainmotion'"
+    }
+}

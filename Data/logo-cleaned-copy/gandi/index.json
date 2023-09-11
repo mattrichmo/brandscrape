@@ -1,0 +1,17 @@
+{
+    "title": "Gandi.net",
+    "website": "https://www.gandi.net/",
+    "links": {
+        "facebook": "https://www.facebook.com/GandiBar",
+        "github": "Gandi",
+        "twitter": "gandibar"
+    },
+    "logos": [
+        "- gandi-official.svg"
+    ],
+    "other": {
+        "logohandle": "gandi",
+        "sort": "gandi",
+        "tags": ""
+    }
+}

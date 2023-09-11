@@ -1,0 +1,15 @@
+{
+    "title": "testio",
+    "website": "'https://test.io/'",
+    "links": {
+        "facebook": "'https://facebook.com/testcloud'",
+        "linkedin": "'https://linkedin.com/company/testio'",
+        "twitter": "testio"
+    },
+    "logos": [],
+    "other": {
+        "blog": "'https://test.io/blog'",
+        "logohandle": "testio",
+        "sort": "testio"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "title": "Inkscape",
+    "website": "https://inkscape.org/",
+    "links": {
+        "facebook": "https://www.facebook.com/Inkscape.org",
+        "twitter": "inkscape",
+        "wikipedia": "https://en.wikipedia.org/wiki/Inkscape"
+    },
+    "logos": [
+        "- inkscape-icon.svg"
+    ],
+    "other": {
+        "blog": "https://inkscape.org/en/news/",
+        "font": "",
+        "myfonts": "https://www.myfonts.com/fonts/exljbris/calluna/regular/",
+        "name": "Calluna Regular",
+        "url": "http://www.exljbris.com/calluna.html",
+        "logohandle": "inkscape",
+        "sort": "inkscape",
+        "tags": "",
+        "https": "//fonts.google.com/specimen/Euphoria+Script)"
+    }
+}

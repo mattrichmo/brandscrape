@@ -1,0 +1,19 @@
+{
+    "title": "XRegexp",
+    "website": "http://xregexp.com/",
+    "links": {
+        "github": "slevithan/xregexp"
+    },
+    "logos": [
+        "- xregexp-vertical.svg"
+    ],
+    "other": {
+        "font": "",
+        "myfonts": "http://www.myfonts.com/fonts/ascender/cambria/regular/",
+        "name": "Cambria Regular",
+        "logohandle": "xregexp",
+        "sort": "xregexp",
+        "tags": "",
+        "http": "//www.myfonts.com/fonts/ascender/droid-sans-pro/bold/?refby=vectorlogozone)."
+    }
+}

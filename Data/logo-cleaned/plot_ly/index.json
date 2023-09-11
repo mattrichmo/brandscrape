@@ -1,0 +1,15 @@
+{
+    "title": "Plotly",
+    "website": "https://plot.ly/",
+    "links": {
+        "github": "https://github.com/plotly/",
+        "twitter": "plotlygraphs",
+        "wikipedia": "https://en.wikipedia.org/wiki/Plotly"
+    },
+    "logos": [],
+    "other": {
+        "guide": "https://brand.plot.ly/",
+        "logohandle": "plot_ly",
+        "sort": "plotly"
+    }
+}

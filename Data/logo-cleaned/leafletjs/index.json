@@ -1,0 +1,17 @@
+{
+    "title": "Leaflet",
+    "website": "http://leafletjs.com/",
+    "links": {
+        "github": "Leaflet",
+        "twitter": "LeafletJS",
+        "wikipedia": "https://en.wikipedia.org/wiki/Leaflet_(software)"
+    },
+    "logos": [
+        "- leafletjs-ar21.svg"
+    ],
+    "other": {
+        "blog": "http://leafletjs.com/blog.html",
+        "logohandle": "leafletjs",
+        "sort": "leaflet"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "title": "O'Reilly",
+    "website": "'https://www.oreilly.com/'",
+    "links": {
+        "facebook": "'https://facebook.com/OReilly'",
+        "linkedin": "'https://linkedin.com/company/oreilly-media'",
+        "twitter": "oreillymedia"
+    },
+    "logos": [],
+    "other": {
+        "logohandle": "oreilly",
+        "sort": "oreilly",
+        "youtube": "'https://youtube.com/user/OreillyMedia'"
+    }
+}

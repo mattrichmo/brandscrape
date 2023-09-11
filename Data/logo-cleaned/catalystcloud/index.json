@@ -1,0 +1,13 @@
+{
+    "title": "Catalyst Cloud",
+    "website": "'https://catalystcloud.nz/'",
+    "links": {
+        "github": "openstack/magnum",
+        "twitter": "CatalystNZ"
+    },
+    "logos": [],
+    "other": {
+        "logohandle": "catalystcloud",
+        "sort": "catalystcloud"
+    }
+}

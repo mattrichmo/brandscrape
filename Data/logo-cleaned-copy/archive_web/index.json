@@ -1,0 +1,14 @@
+{
+    "title": "Wayback Machine",
+    "website": "https://web.archive.org/",
+    "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Wayback_Machine"
+    },
+    "logos": [
+        "- archive_web-icon.svg"
+    ],
+    "other": {
+        "logohandle": "archive_web",
+        "sort": "waybackmachine"
+    }
+}

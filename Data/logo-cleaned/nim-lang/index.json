@@ -1,0 +1,15 @@
+{
+    "title": "Nim",
+    "website": "'https://nim-lang.org/'",
+    "links": {
+        "facebook": "'https://apps.facebook.com/reelvalley'",
+        "github": "nim-lang/nim",
+        "twitter": "nim_lang",
+        "wikipedia": "'https://en.wikipedia.org/wiki/Nim_(programming_language)'"
+    },
+    "logos": [],
+    "other": {
+        "logohandle": "nim-lang",
+        "sort": "nim-lang"
+    }
+}

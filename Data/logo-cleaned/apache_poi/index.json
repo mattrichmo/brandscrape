@@ -1,0 +1,13 @@
+{
+    "title": "Apache POI",
+    "website": "http://poi.apache.org/",
+    "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Apache_POI"
+    },
+    "logos": [],
+    "other": {
+        "logohandle": "apache_poi",
+        "sort": "poi",
+        "tags": ""
+    }
+}

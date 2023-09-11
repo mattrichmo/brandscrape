@@ -1,0 +1,15 @@
+{
+    "title": "RSA",
+    "website": "'https://www.rsa.com/'",
+    "links": {
+        "linkedin": "'https://linkedin.com/company/rsa-the-security-division-of-emc'",
+        "twitter": "RSAsecurity",
+        "wikipedia": "https://en.wikipedia.org/wiki/RSA_Security"
+    },
+    "logos": [],
+    "other": {
+        "logohandle": "rsa",
+        "sort": "rsa",
+        "youtube": "'https://youtube.com/user/SecuredByRSA'"
+    }
+}

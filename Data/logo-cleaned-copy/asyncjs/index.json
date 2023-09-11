@@ -1,0 +1,15 @@
+{
+    "title": "async.js",
+    "website": "http://caolan.github.io/async/",
+    "links": {
+        "github": "caolan/async"
+    },
+    "logos": [
+        "- asyncjs-icon.svg"
+    ],
+    "other": {
+        "logohandle": "asyncjs",
+        "sort": "async.js",
+        "tags": ""
+    }
+}

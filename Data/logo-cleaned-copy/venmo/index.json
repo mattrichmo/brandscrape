@@ -1,0 +1,14 @@
+{
+    "title": "Venmo",
+    "website": "'https://venmo.com/'",
+    "links": {
+        "facebook": "'http://facebook.com/venmo'",
+        "wikipedia": "'https://en.wikipedia.org/wiki/Venmo'"
+    },
+    "logos": [],
+    "other": {
+        "blog": "'http://blog.venmo.com/'",
+        "logohandle": "venmo",
+        "sort": "venmo"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "title": "Apache Spark",
+    "website": "https://spark.apache.org/",
+    "links": {
+        "github": "amplab/spark-ec2"
+    },
+    "logos": [],
+    "other": {
+        "logohandle": "apache_spark",
+        "sort": "apache_spark"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "title": "Google Play",
+    "website": "https://play.google.com/",
+    "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Google_Play"
+    },
+    "logos": [
+        "- google_play-tile.svg"
+    ],
+    "other": {
+        "logohandle": "google_play",
+        "sort": "googleplay",
+        "tags": "",
+        "https": "//github.com/steverichey/google-play-badge-svg/tree/master/img) in multiple languages by [Steve Richey](http://www.steverichey.com/)"
+    }
+}

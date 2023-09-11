@@ -1,0 +1,14 @@
+{
+    "title": "Manning",
+    "website": "'https://www.manning.com/'",
+    "links": {
+        "facebook": "'https://facebook.com/ManningBooks'",
+        "twitter": "ManningBooks"
+    },
+    "logos": [],
+    "other": {
+        "logohandle": "manning",
+        "sort": "manning",
+        "youtube": "'https://youtube.com/channel/UCDia_lkNYKLJVLRLQl_-pFw'"
+    }
+}

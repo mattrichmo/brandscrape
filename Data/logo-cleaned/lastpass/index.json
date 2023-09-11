@@ -1,0 +1,25 @@
+{
+    "title": "LastPass",
+    "website": "https://www.lastpass.com/",
+    "links": {
+        "facebook": "https://www.facebook.com/LastPass",
+        "github": "lastpass",
+        "linkedin": "https://www.linkedin.com/company/lastpass",
+        "twitter": "LastPass",
+        "wikipedia": "https://en.wikipedia.org/wiki/LastPass"
+    },
+    "logos": [],
+    "other": {
+        "blog": "https://blog.lastpass.com/",
+        "colors": "",
+        "googleplus": "https://plus.google.com/+LastPass",
+        "guide": "https://lastpass.com/press-room/",
+        "instagram": "https://www.instagram.com/lastpassofficial/",
+        "logohandle": "lastpass",
+        "other": "",
+        "name": "Spiceworks",
+        "url": "https://community.spiceworks.com/pages/lastpass",
+        "sort": "lastpass",
+        "youtube": "https://www.youtube.com/c/LastPass"
+    }
+}

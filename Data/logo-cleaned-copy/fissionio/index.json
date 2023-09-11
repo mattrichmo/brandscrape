@@ -1,0 +1,14 @@
+{
+    "title": "Fission",
+    "website": "'https://fission.io/'",
+    "links": {
+        "github": "fission/fission",
+        "twitter": "fissionio"
+    },
+    "logos": [],
+    "other": {
+        "blog": "'https://blog.fission.io/'",
+        "logohandle": "fissionio",
+        "sort": "fission"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "title": "DuckDuckGo",
+    "website": "https://duckduckgo.com/",
+    "links": {
+        "facebook": "https://www.facebook.com/duckduckgo",
+        "github": "duckduckgo",
+        "twitter": "duckduckgo",
+        "wikipedia": "https://en.wikipedia.org/wiki/DuckDuckGo"
+    },
+    "logos": [
+        "- duckduckgo-ar21.svg"
+    ],
+    "other": {
+        "blog": "https://spreadprivacy.com/",
+        "guide": "https://duckduckgo.com/assets/press/DuckDuckGo-Brand-Logo.zip",
+        "logohandle": "duckduckgo",
+        "sort": "duckduckgo",
+        "tags": ""
+    }
+}

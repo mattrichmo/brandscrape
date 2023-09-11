@@ -1,0 +1,19 @@
+{
+    "title": "Hootsuite",
+    "website": "'https://hootsuite.com/'",
+    "links": {
+        "facebook": "'https://facebook.com/hootsuite'",
+        "linkedin": "'https://linkedin.com/company/hootsuite'",
+        "twitter": "hootsuite",
+        "wikipedia": "'https://en.wikipedia.org/wiki/Hootsuite'"
+    },
+    "logos": [],
+    "other": {
+        "blog": "'https://blog.hootsuite.com/'",
+        "googleplus": "'https://plus.google.com/+Hootsuite/posts'",
+        "instagram": "'https://instagram.com/hootsuite'",
+        "logohandle": "hootsuite",
+        "sort": "hootsuite",
+        "youtube": "'https://youtube.com/user/hootsuite'"
+    }
+}

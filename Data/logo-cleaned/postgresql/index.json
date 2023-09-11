@@ -1,0 +1,24 @@
+{
+    "title": "PostgreSQL",
+    "website": "http://www.postgresql.org/",
+    "links": {
+        "github": "postgres",
+        "twitter": "postgresql",
+        "wikipedia": "https://en.wikipedia.org/wiki/PostgreSQL"
+    },
+    "logos": [
+        "- postgresql-ar21.svg"
+    ],
+    "other": {
+        "blog": "https://www.postgresql.org/about/newsarchive/",
+        "font": "",
+        "google": "https://www.google.com/fonts/specimen/Strait",
+        "name": "Strait",
+        "guide": "https://wiki.postgresql.org/wiki/Identity_Guidelines",
+        "logohandle": "postgresql",
+        "sort": "postgresql",
+        "tags": "",
+        "https": "//commons.wikimedia.org/wiki/File:Postgresql_elephant.svg)",
+        "http": "//www.vertabelo.com/blog/notes-from-the-lab/the-history-of-slonik-the-postgresql-elephant-logo), the PostgreSQL mascot."
+    }
+}

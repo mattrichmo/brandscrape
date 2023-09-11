@@ -1,0 +1,18 @@
+{
+    "title": "Toptal",
+    "website": "'https://www.toptal.com/'",
+    "links": {
+        "facebook": "'https://facebook.com/toptal'",
+        "linkedin": "'https://linkedin.com/company/toptal'",
+        "twitter": "toptal",
+        "wikipedia": "'https://en.wikipedia.org/wiki/Toptal'"
+    },
+    "logos": [],
+    "other": {
+        "blog": "'https://toptal.com/blog'",
+        "instagram": "'https://instagram.com/toptal'",
+        "logohandle": "toptal",
+        "sort": "toptal",
+        "youtube": "'https://youtube.com/channel/UCNqm_euTHZz3o5OnKhUS-oA'"
+    }
+}

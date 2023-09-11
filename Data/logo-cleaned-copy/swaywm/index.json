@@ -1,0 +1,12 @@
+{
+    "title": "Sway",
+    "website": "'https://swaywm.org/'",
+    "links": {
+        "github": "swaywm"
+    },
+    "logos": [],
+    "other": {
+        "logohandle": "swaywm",
+        "sort": "swaywm"
+    }
+}

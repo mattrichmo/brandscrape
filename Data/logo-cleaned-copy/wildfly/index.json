@@ -1,0 +1,14 @@
+{
+    "title": "WildFly",
+    "website": "http://www.wildfly.org/",
+    "links": {
+        "github": "wildfly/wildfly",
+        "twitter": "WildFlyAS"
+    },
+    "logos": [],
+    "other": {
+        "googleplus": "https://plus.google.com/communities/103877841516607784660",
+        "logohandle": "wildfly",
+        "sort": "wildfly"
+    }
+}

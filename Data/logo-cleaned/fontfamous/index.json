@@ -1,0 +1,13 @@
+{
+    "title": "Font Famous",
+    "website": "'https://fontfamous.com/'",
+    "links": {
+        "github": "jsdelivr/fontfamous.github.io",
+        "twitter": "FontFamous"
+    },
+    "logos": [],
+    "other": {
+        "logohandle": "fontfamous",
+        "sort": "fontfamous"
+    }
+}

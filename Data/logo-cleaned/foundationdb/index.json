@@ -1,0 +1,13 @@
+{
+    "title": "FoundationDB",
+    "website": "'https://www.foundationdb.org/'",
+    "links": {
+        "github": "apple/foundationdb"
+    },
+    "logos": [],
+    "other": {
+        "blog": "'https://www.foundationdb.org/blog/'",
+        "logohandle": "foundationdb",
+        "sort": "foundationdb"
+    }
+}

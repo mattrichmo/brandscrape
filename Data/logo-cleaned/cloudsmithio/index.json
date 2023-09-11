@@ -1,0 +1,17 @@
+{
+    "title": "Cloudsmith",
+    "website": "https://cloudsmith.io/",
+    "links": {
+        "facebook": "https://facebook.com/cloudsmith.io",
+        "github": "cloudsmith-io",
+        "linkedin": "https://linkedin.com/company/cloudsmith",
+        "twitter": "cloudsmith_io"
+    },
+    "logos": [],
+    "other": {
+        "blog": "https://blog.cloudsmith.io/",
+        "logohandle": "cloudsmithio",
+        "sort": "cloudsmith",
+        "youtube": "https://youtube.com/channel/UCO8NZYdzB3RgO4HXkHG7QiQ"
+    }
+}

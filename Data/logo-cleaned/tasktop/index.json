@@ -1,0 +1,17 @@
+{
+    "title": "Tasktop",
+    "website": "'https://www.tasktop.com/'",
+    "links": {
+        "facebook": "'https://facebook.com/Tasktop'",
+        "linkedin": "'https://linkedin.com/company/tasktop-technologies'",
+        "twitter": "tasktop"
+    },
+    "logos": [
+        "- tasktop-ar21.svg"
+    ],
+    "other": {
+        "logohandle": "tasktop",
+        "sort": "tasktop",
+        "youtube": "'https://youtube.com/user/Tasktop'"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "title": "Wikimedia Commons",
+    "website": "https://commons.wikimedia.org/wiki/Main_Page",
+    "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Wikimedia_Commons"
+    },
+    "logos": [
+        "- wikimedia_commons-icon.svg"
+    ],
+    "other": {
+        "logohandle": "wikimedia_commons",
+        "sort": "wikimedia commons",
+        "tags": "",
+        "https": "//commons.wikimedia.org/wiki/File:Commons-logo-en.svg)"
+    }
+}

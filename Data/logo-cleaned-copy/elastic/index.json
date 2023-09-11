@@ -1,0 +1,18 @@
+{
+    "title": "Elastic Search",
+    "website": "https://www.elastic.co/",
+    "links": {
+        "facebook": "http://www.facebook.com/elastic.co",
+        "github": "elastic/elasticsearch",
+        "twitter": "elastic",
+        "wikipedia": "https://en.wikipedia.org/wiki/Elasticsearch"
+    },
+    "logos": [
+        "- elastic-icon.svg"
+    ],
+    "other": {
+        "blog": "https://www.elastic.co/blog",
+        "logohandle": "elastic",
+        "sort": "elasticsearch"
+    }
+}

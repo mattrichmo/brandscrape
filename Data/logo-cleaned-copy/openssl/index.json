@@ -1,0 +1,17 @@
+{
+    "title": "openssl",
+    "website": "https://www.openssl.org/",
+    "links": {
+        "github": "openssl/openssl",
+        "wikipedia": "https://en.wikipedia.org/wiki/OpenSSL"
+    },
+    "logos": [
+        "- openssl-icon.svg"
+    ],
+    "other": {
+        "blog": "https://www.openssl.org/blog/",
+        "guide": "https://github.com/openssl/web/tree/master/img",
+        "logohandle": "openssl",
+        "sort": "openssl"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "title": "FOSSA",
+    "website": "'https://fossa.io/'",
+    "links": {
+        "facebook": "'https://facebook.com/teamfossa'",
+        "twitter": "getfossa"
+    },
+    "logos": [],
+    "other": {
+        "blog": "'https://fossa.io/blog'",
+        "logohandle": "fossaio",
+        "sort": "fossa"
+    }
+}

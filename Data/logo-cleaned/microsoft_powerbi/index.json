@@ -1,0 +1,16 @@
+{
+    "title": "Power BI",
+    "website": "'https://powerbi.microsoft.com/en-us/'",
+    "links": {
+        "facebook": "'https://facebook.com/microsoftbi'",
+        "twitter": "MSPowerBI",
+        "wikipedia": "'https://en.wikipedia.org/wiki/Power_BI'"
+    },
+    "logos": [],
+    "other": {
+        "blog": "'https://powerbi.microsoft.com/en-us/blog'",
+        "logohandle": "microsoft_powerbi",
+        "sort": "powerbi",
+        "youtube": "'https://youtube.com/c/mspowerbi'"
+    }
+}

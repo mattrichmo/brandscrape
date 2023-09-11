@@ -1,0 +1,18 @@
+{
+    "title": "Flat",
+    "website": "'https://flat.io/'",
+    "links": {
+        "facebook": "'https://facebook.com/flat.io'",
+        "github": "FlatIO",
+        "linkedin": "'https://linkedin.com/company/flat-io'",
+        "twitter": "flat_io"
+    },
+    "logos": [],
+    "other": {
+        "blog": "'https://blog.flat.io/'",
+        "instagram": "'https://instagram.com/flat.io'",
+        "logohandle": "flatio",
+        "sort": "flat",
+        "youtube": "'https://youtube.com/user/flatproject'"
+    }
+}

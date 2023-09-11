@@ -1,0 +1,17 @@
+{
+    "title": "GNU",
+    "website": "https://www.gnu.org/",
+    "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/GNU"
+    },
+    "logos": [
+        "- gnu-icon.svg"
+    ],
+    "other": {
+        "blog": "http://planet.gnu.org/",
+        "guide": "https://www.gnu.org/graphics/heckert_gnu.html",
+        "logohandle": "gnu",
+        "sort": "gnu",
+        "https": "//www.gnu.org/graphics/gnusvgart.html)"
+    }
+}

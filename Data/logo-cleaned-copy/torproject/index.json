@@ -1,0 +1,14 @@
+{
+    "title": "Tor Project",
+    "website": "'https://www.torproject.org/'",
+    "links": {
+        "twitter": "TorProject"
+    },
+    "logos": [],
+    "other": {
+        "blog": "'https://blog.torproject.org/blog'",
+        "guide": "'https://demo.identihub.co/tor-project'",
+        "logohandle": "torproject",
+        "sort": "torproject"
+    }
+}

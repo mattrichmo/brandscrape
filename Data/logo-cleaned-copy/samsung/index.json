@@ -1,0 +1,19 @@
+{
+    "title": "Samsung",
+    "website": "https://www.samsung.com/",
+    "links": {
+        "facebook": "https://www.facebook.com/SamsungUS",
+        "twitter": "SamsungUS",
+        "wikipedia": "https://en.wikipedia.org/wiki/Samsung"
+    },
+    "logos": [
+        "- samsung-ar21.svg"
+    ],
+    "other": {
+        "googleplus": "https://plus.google.com/+SamsungUSA",
+        "instagram": "https://www.instagram.com/samsungusa/",
+        "logohandle": "samsung",
+        "sort": "samsung",
+        "youtube": "https://www.youtube.com/user/samsungusatube"
+    }
+}

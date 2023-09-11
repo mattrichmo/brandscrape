@@ -1,0 +1,13 @@
+{
+    "title": "Envoy Proxy",
+    "website": "'https://www.envoyproxy.io/'",
+    "links": {
+        "github": "envoyproxy/envoy"
+    },
+    "logos": [],
+    "other": {
+        "blog": "'https://blog.envoyproxy.io/'",
+        "logohandle": "envoyproxyio",
+        "sort": "envoyproxy"
+    }
+}

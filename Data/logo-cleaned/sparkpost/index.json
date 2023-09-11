@@ -1,0 +1,14 @@
+{
+    "title": "sparkpost",
+    "website": "'https://www.sparkpost.com/'",
+    "links": {
+        "github": "zombodb/zombodb",
+        "twitter": "sparkpost"
+    },
+    "logos": [],
+    "other": {
+        "guide": "https://www.sparkpost.com/press-kit/",
+        "logohandle": "sparkpost",
+        "sort": "sparkpost"
+    }
+}

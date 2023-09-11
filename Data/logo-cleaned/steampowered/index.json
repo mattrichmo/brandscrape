@@ -1,0 +1,16 @@
+{
+    "title": "Steam",
+    "website": "https://store.steampowered.com/",
+    "links": {
+        "facebook": "http://facebook.com/Steam",
+        "twitter": "steam_games",
+        "wikipedia": "https://en.wikipedia.org/wiki/Steam_(service)"
+    },
+    "logos": [
+        "- steampowered-tile.svg"
+    ],
+    "other": {
+        "logohandle": "steampowered",
+        "sort": "steam"
+    }
+}

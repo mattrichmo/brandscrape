@@ -1,0 +1,16 @@
+{
+    "title": "Visual Studio Code",
+    "website": "https://code.visualstudio.com/",
+    "links": {
+        "github": "Microsoft/vscode",
+        "twitter": "code",
+        "wikipedia": "https://en.wikipedia.org/wiki/Visual_Studio_Code"
+    },
+    "logos": [],
+    "other": {
+        "blog": "https://code.visualstudio.com/blogs",
+        "logohandle": "visualstudio_code",
+        "sort": "visualstudiocode",
+        "youtube": "https://www.youtube.com/channel/UCs5Y5_7XK8HLDX0SLNwkd3w"
+    }
+}

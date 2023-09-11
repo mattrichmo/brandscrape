@@ -1,0 +1,17 @@
+{
+    "title": "SeatGeek",
+    "website": "'https://seatgeek.com/'",
+    "links": {
+        "facebook": "'https://facebook.com/SeatGeek'",
+        "github": "seatgeek/api-support",
+        "linkedin": "'https://linkedin.com/company/seatgeek'",
+        "twitter": "seatgeek",
+        "wikipedia": "'https://en.wikipedia.org/wiki/SeatGeek'"
+    },
+    "logos": [],
+    "other": {
+        "googleplus": "'https://plus.google.com/+seatgeek'",
+        "logohandle": "seatgeek",
+        "sort": "seatgeek"
+    }
+}

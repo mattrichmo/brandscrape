@@ -1,0 +1,16 @@
+{
+    "title": "Sketch",
+    "website": "'https://www.sketchapp.com/'",
+    "links": {
+        "facebook": "'https://facebook.com/sketchapp'",
+        "github": "sureskumar/sketch-isometric",
+        "twitter": "sketchapp",
+        "wikipedia": "https://en.wikipedia.org/wiki/Sketch_(application)"
+    },
+    "logos": [],
+    "other": {
+        "blog": "'https://blog.sketchapp.com/'",
+        "logohandle": "sketchapp",
+        "sort": "sketchapp"
+    }
+}

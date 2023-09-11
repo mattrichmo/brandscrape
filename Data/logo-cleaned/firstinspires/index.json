@@ -1,0 +1,17 @@
+{
+    "title": "FIRST",
+    "website": "https://www.firstinspires.org/",
+    "links": {
+        "facebook": "https://www.facebook.com/pages/FIRST-For-Inspiration-and-Recognition-of-Science-and-Technology/184063051616518",
+        "twitter": "firstweets",
+        "wikipedia": "https://en.wikipedia.org/wiki/FIRST_Robotics_Competition"
+    },
+    "logos": [
+        "- firstinspires-icon.svg"
+    ],
+    "other": {
+        "blog": "https://www.firstinspires.org/community/inspire",
+        "logohandle": "firstinspires",
+        "sort": "first"
+    }
+}

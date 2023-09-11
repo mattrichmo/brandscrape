@@ -1,0 +1,21 @@
+{
+    "title": "Plex",
+    "website": "https://www.plex.tv/",
+    "links": {
+        "facebook": "https://facebook.com/plexapp",
+        "linkedin": "https://linkedin.com/company/plex-inc",
+        "twitter": "plex",
+        "wikipedia": "https://en.wikipedia.org/wiki/Plex_(software)"
+    },
+    "logos": [
+        "- plextv-tile.svg"
+    ],
+    "other": {
+        "blog": "https://plex.tv/blog",
+        "googleplus": "https://plus.google.com/+plex",
+        "instagram": "http://instagram.com/",
+        "logohandle": "plextv",
+        "sort": "plex",
+        "youtube": "https://youtube.com/user/plextvapp"
+    }
+}

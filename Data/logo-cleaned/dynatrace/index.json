@@ -1,0 +1,18 @@
+{
+    "title": "Dynatrace",
+    "website": "'https://www.dynatrace.com/'",
+    "links": {
+        "facebook": "'https://facebook.com/Dynatrace'",
+        "linkedin": "'https://linkedin.com/company/dynatrace'",
+        "twitter": "dynatrace",
+        "wikipedia": "'https://en.wikipedia.org/wiki/Dynatrace'"
+    },
+    "logos": [],
+    "other": {
+        "googleplus": "'https://plus.google.com/+dynatrace'",
+        "instagram": "'https://instagram.com/dynatrace'",
+        "logohandle": "dynatrace",
+        "sort": "dynatrace",
+        "youtube": "'https://youtube.com/c/dynatrace'"
+    }
+}

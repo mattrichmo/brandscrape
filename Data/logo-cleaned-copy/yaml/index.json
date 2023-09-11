@@ -1,0 +1,15 @@
+{
+    "title": "YAML",
+    "website": "http://yaml.org/",
+    "links": {
+        "github": "yaml",
+        "wikipedia": "https://en.wikipedia.org/wiki/YAML"
+    },
+    "logos": [
+        "- yaml-icon.svg"
+    ],
+    "other": {
+        "logohandle": "yaml",
+        "sort": "yaml"
+    }
+}

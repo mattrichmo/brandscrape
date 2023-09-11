@@ -1,0 +1,13 @@
+{
+    "title": "Absinthe",
+    "website": "'http://absinthe-graphql.org/'",
+    "links": {
+        "github": "absinthe-graphql"
+    },
+    "logos": [],
+    "other": {
+        "logohandle": "absinthe-graphql",
+        "slack": "'https://elixir-slackin.herokuapp.com/'",
+        "sort": "absinthe"
+    }
+}

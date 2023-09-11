@@ -1,0 +1,12 @@
+{
+    "title": "Diffuse",
+    "website": "'https://diffuse.sh/'",
+    "links": {
+        "github": "icidasset/diffuse"
+    },
+    "logos": [],
+    "other": {
+        "logohandle": "diffusesh",
+        "sort": "diffuse"
+    }
+}

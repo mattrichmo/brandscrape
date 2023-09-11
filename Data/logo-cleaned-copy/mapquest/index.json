@@ -1,0 +1,20 @@
+{
+    "title": "MapQuest",
+    "website": "https://www.mapquest.com/",
+    "links": {
+        "facebook": "https://www.facebook.com/MapQuest",
+        "github": "MapQuest",
+        "twitter": "MapQuest",
+        "wikipedia": "https://en.wikipedia.org/wiki/MapQuest"
+    },
+    "logos": [
+        "- mapquest-ar21.svg"
+    ],
+    "other": {
+        "blog": "https://devblog.mapquest.com/",
+        "guide": "http://hello.mapquest.com/press/",
+        "logohandle": "mapquest",
+        "sort": "mapquest",
+        "tags": ""
+    }
+}

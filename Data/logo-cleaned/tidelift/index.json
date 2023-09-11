@@ -1,0 +1,17 @@
+{
+    "title": "Tidelift",
+    "website": "'https://tidelift.com/'",
+    "links": {
+        "facebook": "'https://www.facebook.com/tidelift/'",
+        "github": "tidelift",
+        "linkedin": "'https://linkedin.com/company/tidelift'",
+        "twitter": "tidelift"
+    },
+    "logos": [],
+    "other": {
+        "blog": "'https://blog.tidelift.com/'",
+        "logohandle": "tidelift",
+        "sort": "tidelift",
+        "youtube": "'https://www.youtube.com/channel/UC7EkYDCIurZqoQxG-GNObXg'"
+    }
+}

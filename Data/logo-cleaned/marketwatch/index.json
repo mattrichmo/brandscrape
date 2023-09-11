@@ -1,0 +1,16 @@
+{
+    "title": "'MarketWatch'",
+    "website": "'https://www.marketwatch.com/'",
+    "links": {
+        "facebook": "'https://facebook.com/marketwatch'",
+        "linkedin": "'https://linkedin.com/company/marketwatch'",
+        "twitter": "marketwatch",
+        "wikipedia": "https://en.wikipedia.org/wiki/MarketWatch"
+    },
+    "logos": [],
+    "other": {
+        "googleplus": "'https://plus.google.com/+marketwatch'",
+        "logohandle": "marketwatch",
+        "sort": "marketwatch"
+    }
+}

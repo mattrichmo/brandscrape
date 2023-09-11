@@ -1,0 +1,13 @@
+{
+    "title": "axe",
+    "website": "'https://www.deque.com/axe/'",
+    "links": {
+        "github": "dequelabs/axe-core"
+    },
+    "logos": [],
+    "other": {
+        "guide": "'https://github.com/dequelabs/axe-website/tree/master/assets/images'",
+        "logohandle": "deque_axe",
+        "sort": "axe"
+    }
+}

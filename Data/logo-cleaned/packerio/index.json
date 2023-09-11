@@ -1,0 +1,12 @@
+{
+    "title": "Packer",
+    "website": "'https://www.packer.io/'",
+    "links": {
+        "github": "hashicorp/packer"
+    },
+    "logos": [],
+    "other": {
+        "logohandle": "packerio",
+        "sort": "packer"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "title": "Discord",
+    "website": "https://discord.com/",
+    "links": {
+        "facebook": "https://www.facebook.com/discord/",
+        "github": "discordapp",
+        "twitter": "discord",
+        "wikipedia": "https://en.wikipedia.org/wiki/Discord_(software)"
+    },
+    "logos": [
+        "- discordapp-official.svg"
+    ],
+    "other": {
+        "blog": "https://discord.com/blog",
+        "colors": "",
+        "font": "",
+        "myfonts": "https://www.myfonts.com/fonts/font-fabric/uni-sans/",
+        "name": "Uni Sans",
+        "url": "http://www.fontfabric.com/uni-sans-free/",
+        "guide": "https://discord.com/branding",
+        "instagram": "discord",
+        "logohandle": "discord",
+        "redirect_from": "/logos/discordapp/index.html",
+        "sort": "discord",
+        "tiktok": "https://www.tiktok.com/@discord",
+        "youtube": "https://www.youtube.com/discord"
+    }
+}

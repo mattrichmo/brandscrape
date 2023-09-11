@@ -1,0 +1,12 @@
+{
+    "title": "'Varnish Cache'",
+    "website": "'https://varnish-cache.org/'",
+    "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Varnish_(software)"
+    },
+    "logos": [],
+    "other": {
+        "logohandle": "varnish-cache",
+        "sort": "varnish-cache"
+    }
+}

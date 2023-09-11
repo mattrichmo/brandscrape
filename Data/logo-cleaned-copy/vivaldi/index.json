@@ -1,0 +1,18 @@
+{
+    "title": "Vivaldi",
+    "website": "'https://vivaldi.com/'",
+    "links": {
+        "facebook": "'https://facebook.com/vivaldi.browser'",
+        "linkedin": "'https://linkedin.com/company/vivaldi-technologies'",
+        "twitter": "vivaldibrowser",
+        "wikipedia": "'https://en.wikipedia.org/wiki/Vivaldi_Technologies'"
+    },
+    "logos": [],
+    "other": {
+        "googleplus": "'https://plus.google.com/+VivaldiBrowser'",
+        "instagram": "'https://instagram.com/vivaldibrowser'",
+        "logohandle": "vivaldi",
+        "sort": "vivaldi",
+        "youtube": "'https://youtube.com/channel/UCHG0CNxmtdl7cXhAV7AZKkQ'"
+    }
+}

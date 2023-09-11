@@ -1,0 +1,11 @@
+{
+    "title": "memcached",
+    "website": "'https://memcached.org/'",
+    "links": {},
+    "logos": [],
+    "other": {
+        "blog": "'https://memcached.org/blog'",
+        "logohandle": "memcached",
+        "sort": "memcached"
+    }
+}

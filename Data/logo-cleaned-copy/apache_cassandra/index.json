@@ -1,0 +1,13 @@
+{
+    "title": "Apache Cassandra",
+    "website": "'https://cassandra.apache.org/'",
+    "links": {
+        "twitter": "cassandra",
+        "wikipedia": "'https://en.wikipedia.org/wiki/Apache_Cassandra'"
+    },
+    "logos": [],
+    "other": {
+        "logohandle": "apache_cassandra",
+        "sort": "cassandra"
+    }
+}

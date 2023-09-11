@@ -1,0 +1,19 @@
+{
+    "title": "MongoDB",
+    "website": "https://www.mongodb.com/",
+    "links": {
+        "facebook": "https://facebook.com/mongodb",
+        "github": "mongodb",
+        "twitter": "MongoDB",
+        "wikipedia": "https://en.wikipedia.org/wiki/MongoDB"
+    },
+    "logos": [
+        "- mongodb-icon.svg"
+    ],
+    "other": {
+        "blog": "https://www.mongodb.com/blog",
+        "logohandle": "mongodb",
+        "sort": "mongodb",
+        "tags": ""
+    }
+}

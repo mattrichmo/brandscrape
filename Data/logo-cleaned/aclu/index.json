@@ -1,0 +1,19 @@
+{
+    "title": "ACLU",
+    "website": "https://www.aclu.org/",
+    "links": {
+        "facebook": "https://www.facebook.com/aclu",
+        "twitter": "aclu",
+        "wikipedia": "https://en.wikipedia.org/wiki/American_Civil_Liberties_Union"
+    },
+    "logos": [
+        "- aclu-icon.svg"
+    ],
+    "other": {
+        "blog": "https://www.aclu.org/blog",
+        "colors": "",
+        "logohandle": "aclu",
+        "sort": "aclu",
+        "tags": ""
+    }
+}

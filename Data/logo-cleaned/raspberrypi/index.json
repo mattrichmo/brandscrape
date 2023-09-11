@@ -1,0 +1,18 @@
+{
+    "title": "Raspberry Pi",
+    "website": "https://www.raspberrypi.org/",
+    "links": {
+        "facebook": "https://www.facebook.com/raspberrypi",
+        "github": "raspberrypi",
+        "twitter": "Raspberry_Pi",
+        "wikipedia": "https://en.wikipedia.org/wiki/Raspberry_Pi"
+    },
+    "logos": [
+        "- raspberrypi-ar21.svg"
+    ],
+    "other": {
+        "blog": "https://www.raspberrypi.org/blog/",
+        "logohandle": "raspberrypi",
+        "sort": "raspberrypi"
+    }
+}

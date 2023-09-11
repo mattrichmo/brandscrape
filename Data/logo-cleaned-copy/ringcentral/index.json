@@ -1,0 +1,18 @@
+{
+    "title": "RingCentral",
+    "website": "'https://www.ringcentral.com/'",
+    "links": {
+        "facebook": "'https://facebook.com/ringcentral'",
+        "linkedin": "'https://linkedin.com/company/ringcentral'",
+        "twitter": "ringcentral",
+        "wikipedia": "'https://en.wikipedia.org/wiki/RingCentral'"
+    },
+    "logos": [],
+    "other": {
+        "blog": "'https://ringcentral.com/blog'",
+        "googleplus": "'https://plus.google.com/+ringcentral'",
+        "logohandle": "ringcentral",
+        "sort": "ringcentral",
+        "youtube": "'https://youtube.com/user/ringcentral'"
+    }
+}

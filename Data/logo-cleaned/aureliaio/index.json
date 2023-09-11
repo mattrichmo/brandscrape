@@ -1,0 +1,13 @@
+{
+    "title": "Aurelia",
+    "website": "'https://aurelia.io/'",
+    "links": {
+        "github": "aurelia",
+        "twitter": "aureliaeffect"
+    },
+    "logos": [],
+    "other": {
+        "logohandle": "aureliaio",
+        "sort": "aurelia"
+    }
+}

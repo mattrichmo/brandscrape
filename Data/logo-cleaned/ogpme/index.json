@@ -1,0 +1,13 @@
+{
+    "title": "The Open Graph Protocol",
+    "website": "'http://ogp.me/'",
+    "links": {
+        "facebook": "'https://facebook.com/groups/opengraph'",
+        "github": "facebook/open-graph-protocol"
+    },
+    "logos": [],
+    "other": {
+        "logohandle": "ogpme",
+        "sort": "opengraph"
+    }
+}

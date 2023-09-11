@@ -1,0 +1,14 @@
+{
+    "title": "Pepperoni",
+    "website": "'http://getpepperoni.com/'",
+    "links": {
+        "facebook": "'https://facebook.com/getpepperoni'",
+        "github": "futurice/pepperoni-app-kit",
+        "twitter": "getpepperoni"
+    },
+    "logos": [],
+    "other": {
+        "logohandle": "getpepperoni",
+        "sort": "getpepperoni"
+    }
+}

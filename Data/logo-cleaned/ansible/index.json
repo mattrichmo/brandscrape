@@ -1,0 +1,16 @@
+{
+    "title": "Ansible",
+    "website": "'https://www.ansible.com'",
+    "links": {
+        "facebook": "'https://facebook.com/ansibleautomation'",
+        "github": "ansible/ansible",
+        "twitter": "ansible",
+        "wikipedia": "'https://en.wikipedia.org/wiki/Ansible_(software)'"
+    },
+    "logos": [],
+    "other": {
+        "blog": "'https://ansible.com/blog'",
+        "logohandle": "ansible",
+        "sort": "ansible"
+    }
+}

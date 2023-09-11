@@ -1,0 +1,13 @@
+{
+    "title": "hapi.js",
+    "website": "'https://hapijs.com/'",
+    "links": {
+        "github": "hapijs/hapi",
+        "twitter": "hapijs"
+    },
+    "logos": [],
+    "other": {
+        "logohandle": "hapijs",
+        "sort": "hapijs"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "title": "Flarum",
+    "website": "'https://flarum.org/'",
+    "links": {
+        "github": "flarum",
+        "twitter": "Flarum"
+    },
+    "logos": [],
+    "other": {
+        "logohandle": "flarum",
+        "sort": "flarum"
+    }
+}

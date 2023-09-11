@@ -1,0 +1,12 @@
+{
+    "title": "Ko-fi",
+    "website": "'https://ko-fi.com/'",
+    "links": {
+        "twitter": "Kofi_button"
+    },
+    "logos": [],
+    "other": {
+        "logohandle": "ko-fi",
+        "sort": "ko-fi"
+    }
+}

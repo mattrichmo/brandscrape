@@ -1,0 +1,15 @@
+{
+    "title": "Storj",
+    "website": "'https://storj.io/'",
+    "links": {
+        "facebook": "'https://facebook.com/storjproject'",
+        "github": "Storj",
+        "twitter": "storjproject"
+    },
+    "logos": [],
+    "other": {
+        "blog": "'https://storj.io/blog'",
+        "logohandle": "storjio",
+        "sort": "storj"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "title": "Tessel",
+    "website": "'https://tessel.io/'",
+    "links": {
+        "twitter": "tesselproject"
+    },
+    "logos": [],
+    "other": {
+        "blog": "'https://tessel.io/blog'",
+        "logohandle": "tesselio",
+        "sort": "tessel"
+    }
+}

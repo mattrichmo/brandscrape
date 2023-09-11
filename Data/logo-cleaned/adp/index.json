@@ -1,0 +1,16 @@
+{
+    "title": "ADP",
+    "website": "'https://www.adp.com/'",
+    "links": {
+        "linkedin": "'http://www.linkedin.com/company/adp'",
+        "twitter": "ADP",
+        "wikipedia": "'https://en.wikipedia.org/wiki/Automatic_Data_Processing'"
+    },
+    "logos": [],
+    "other": {
+        "logohandle": "adp",
+        "slideshare": "'http://www.slideshare.net/adp'",
+        "sort": "adp",
+        "youtube": "'https://www.youtube.com/user/adp'"
+    }
+}

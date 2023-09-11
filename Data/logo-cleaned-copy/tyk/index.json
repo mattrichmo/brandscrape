@@ -1,0 +1,16 @@
+{
+    "title": "Tyk",
+    "website": "https://tyk.io/",
+    "links": {
+        "github": "https://github.com/TykTechnologies",
+        "twitter": "tyk_io"
+    },
+    "logos": [
+        "- tyk-ar21.svg"
+    ],
+    "other": {
+        "blog": "https://tyk.io/blog/",
+        "logohandle": "tyk",
+        "sort": "tyk"
+    }
+}

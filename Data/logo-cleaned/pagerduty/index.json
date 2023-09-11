@@ -1,0 +1,16 @@
+{
+    "title": "PagerDuty",
+    "website": "'https://www.pagerduty.com/'",
+    "links": {
+        "facebook": "'https://facebook.com/PagerDuty'",
+        "linkedin": "'https://linkedin.com/company/pagerduty'",
+        "twitter": "pagerduty",
+        "wikipedia": "https://en.wikipedia.org/wiki/PagerDuty"
+    },
+    "logos": [],
+    "other": {
+        "logohandle": "pagerduty",
+        "sort": "pagerduty",
+        "youtube": "https://www.youtube.com/channel/UCIL6fDywCheNp3rnf_v4R-g"
+    }
+}

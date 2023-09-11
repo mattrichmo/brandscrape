@@ -1,0 +1,22 @@
+{
+    "title": "Stack Overflow",
+    "website": "https://stackoverflow.com/",
+    "links": {
+        "facebook": "https://www.facebook.com/officialstackoverflow/",
+        "github": "StackExchange",
+        "twitter": "stackoverflow",
+        "wikipedia": "https://en.wikipedia.org/wiki/Stack_Overflow"
+    },
+    "logos": [
+        "- stackoverflow-official.svg"
+    ],
+    "other": {
+        "blog": "https://stackoverflow.blog/",
+        "font": "",
+        "myfonts": "https://www.myfonts.com/fonts/fontfont/ff-din/pro-medium/",
+        "name": "FF DIN",
+        "guide": "https://stackoverflow.com/company/logos",
+        "logohandle": "stackoverflow",
+        "sort": "stackoverflow"
+    }
+}

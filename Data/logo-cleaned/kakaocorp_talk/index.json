@@ -1,0 +1,15 @@
+{
+    "title": "KakaoTalk",
+    "website": "https://www.kakaocorp.com/service/KakaoTalk",
+    "links": {
+        "github": "kakao",
+        "wikipedia": "https://en.wikipedia.org/wiki/KakaoTalk"
+    },
+    "logos": [
+        "- kakaocorp_talk-icon.svg"
+    ],
+    "other": {
+        "logohandle": "kakaocorp_talk",
+        "sort": "kakaotalk"
+    }
+}

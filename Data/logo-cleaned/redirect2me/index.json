@@ -1,0 +1,15 @@
+{
+    "title": "redirect2me",
+    "website": "https://www.redirect2www.com/",
+    "links": {
+        "twitter": "redirect2me"
+    },
+    "logos": [
+        "- redirect2me-ar21.svg"
+    ],
+    "other": {
+        "font": "name:helvetica neue",
+        "logohandle": "redirect2me",
+        "sort": "redirect2me"
+    }
+}

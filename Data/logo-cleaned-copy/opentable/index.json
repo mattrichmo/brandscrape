@@ -1,0 +1,17 @@
+{
+    "title": "OpenTable",
+    "website": "https://www.opentable.com/",
+    "links": {
+        "facebook": "https://www.facebook.com/opentable",
+        "twitter": "opentable",
+        "wikipedia": "https://en.wikipedia.org/wiki/OpenTable"
+    },
+    "logos": [
+        "- opentable-ar21.svg"
+    ],
+    "other": {
+        "blog": "https://blog.opentable.com/",
+        "logohandle": "opentable",
+        "sort": "opentable"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "title": "PDFsam",
+    "website": "'https://pdfsam.org/'",
+    "links": {
+        "facebook": "'http://facebook.com/PDFsplitandmerge'",
+        "github": "torakiki/pdfsam",
+        "twitter": "PDFsamOSS",
+        "wikipedia": "'https://en.wikipedia.org/wiki/PDF_Split_and_Merge'"
+    },
+    "logos": [],
+    "other": {
+        "blog": "'http://pdfsam.org/blog'",
+        "googleplus": "'https://plus.google.com/u/0/+pdfsam'",
+        "guide": "'https://github.com/torakiki/pdfsam/tree/master/pdfsam-docs/graphics'",
+        "logohandle": "pdfsam",
+        "sort": "pdfsam"
+    }
+}

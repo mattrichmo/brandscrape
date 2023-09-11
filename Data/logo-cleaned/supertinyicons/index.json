@@ -1,0 +1,15 @@
+{
+    "title": "Super Tiny Icons",
+    "website": "https://www.supertinyicons.org/",
+    "links": {
+        "github": "edent/supertinyicons"
+    },
+    "logos": [
+        "- supertinyicons-icon.svg"
+    ],
+    "other": {
+        "colors": "[ '#2100FF' ]",
+        "logohandle": "supertinyicons",
+        "sort": "supertinyicons"
+    }
+}

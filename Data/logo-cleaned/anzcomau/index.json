@@ -1,0 +1,16 @@
+{
+    "title": "'ANZ'",
+    "website": "'https://www.anz.com.au/'",
+    "links": {
+        "facebook": "'https://facebook.com/ANZAustralia'",
+        "linkedin": "'https://linkedin.com/company/anz'",
+        "twitter": "ANZ_AU",
+        "wikipedia": "https://en.wikipedia.org/wiki/Australia_and_New_Zealand_Banking_Group"
+    },
+    "logos": [],
+    "other": {
+        "logohandle": "anzcomau",
+        "sort": "anz",
+        "youtube": "'https://youtube.com/user/ANZAustralia'"
+    }
+}

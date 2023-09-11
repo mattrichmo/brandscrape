@@ -1,0 +1,16 @@
+{
+    "title": "Accenture",
+    "website": "'https://www.accenture.com/'",
+    "links": {
+        "facebook": "'https://facebook.com/accenture'",
+        "linkedin": "'https://linkedin.com/company/accenture'",
+        "twitter": "Accenture"
+    },
+    "logos": [],
+    "other": {
+        "googleplus": "'https://plus.google.com/112621826548261308809'",
+        "logohandle": "accenture",
+        "sort": "accenture",
+        "youtube": "'https://youtube.com/accenture'"
+    }
+}

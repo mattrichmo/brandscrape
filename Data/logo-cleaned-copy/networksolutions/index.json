@@ -1,0 +1,14 @@
+{
+    "title": "Network Solutions",
+    "website": "'https://www.networksolutions.com/'",
+    "links": {
+        "facebook": "'http://facebook.com/networksolutions'",
+        "twitter": "netsolcares",
+        "wikipedia": "'https://en.wikipedia.org/wiki/Network_Solutions'"
+    },
+    "logos": [],
+    "other": {
+        "logohandle": "networksolutions",
+        "sort": "networksolutions"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "title": "balena",
+    "website": "'https://www.balena.io/'",
+    "links": {
+        "facebook": "'https://facebook.com/balenacloud'",
+        "github": "balena-io",
+        "linkedin": "'https://linkedin.com/company/balenaio'",
+        "twitter": "balena_io"
+    },
+    "logos": [],
+    "other": {
+        "blog": "'https://balena.io/blog'",
+        "instagram": "'https://instagram.com/balena_io'",
+        "logohandle": "balenaio",
+        "sort": "balena",
+        "youtube": "'https://youtube.com/balenaio'"
+    }
+}

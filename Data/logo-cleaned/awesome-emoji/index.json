@@ -1,0 +1,12 @@
+{
+    "title": "Awesome Emoji",
+    "website": "https://www.awesome-emoji.org/",
+    "links": {
+        "github": "FileFormatInfo/awesome-emoji"
+    },
+    "logos": [],
+    "other": {
+        "logohandle": "awesome-emoji",
+        "sort": "awesomeemoji"
+    }
+}

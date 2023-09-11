@@ -1,0 +1,20 @@
+{
+    "title": "minio",
+    "website": "https://www.minio.io/",
+    "links": {
+        "facebook": "https://www.facebook.com/Minio.io/",
+        "github": "minio",
+        "linkedin": "https://www.linkedin.com/company-beta/6442270/",
+        "twitter": "Minio",
+        "wikipedia": "https://en.wikipedia.org/wiki/Minio"
+    },
+    "logos": [
+        "- minioio-ar21.svg"
+    ],
+    "other": {
+        "blog": "https://blog.minio.io/",
+        "guide": "https://www.minio.io/logo.html",
+        "logohandle": "minioio",
+        "sort": "minio"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "title": "Apollo",
+    "website": "'https://www.apollographql.com/'",
+    "links": {
+        "github": "apollographql",
+        "twitter": "apollographql"
+    },
+    "logos": [],
+    "other": {
+        "blog": "'https://blog.apollographql.com/'",
+        "logohandle": "apollographql",
+        "slack": "'https://www.apollographql.com/slack'",
+        "sort": "apollographql",
+        "youtube": "'https://youtube.com/c/ApolloGraphQL'"
+    }
+}

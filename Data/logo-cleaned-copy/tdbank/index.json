@@ -1,0 +1,18 @@
+{
+    "title": "TD Bank",
+    "website": "'https://www.tdbank.com/'",
+    "links": {
+        "facebook": "'http://facebook.com/TDBank'",
+        "linkedin": "'http://linkedin.com/company/2775'",
+        "twitter": "TDBank_US",
+        "wikipedia": "https://en.wikipedia.org/wiki/TD_Bank,_N.A."
+    },
+    "logos": [],
+    "other": {
+        "instagram": "'https://instagram.com/TDBank_US'",
+        "logohandle": "tdbank",
+        "pinterest": "'http://pinterest.com/tdbank'",
+        "sort": "tdbank",
+        "youtube": "'http://youtube.com/user/TDBankUS'"
+    }
+}

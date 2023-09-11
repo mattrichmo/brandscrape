@@ -1,0 +1,16 @@
+{
+    "title": "MapR",
+    "website": "'https://mapr.com/'",
+    "links": {
+        "facebook": "'https://facebook.com/maprtech'",
+        "linkedin": "'https://linkedin.com/company/mapr-technologies'",
+        "twitter": "mapr",
+        "wikipedia": "https://en.wikipedia.org/wiki/MapR"
+    },
+    "logos": [],
+    "other": {
+        "logohandle": "mapr",
+        "sort": "mapr",
+        "youtube": "https://www.youtube.com/channel/UCKmI-fBjvKexRlBBeVTwrrg"
+    }
+}

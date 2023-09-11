@@ -1,0 +1,15 @@
+{
+    "title": "amplitude",
+    "website": "'https://amplitude.com/simplified-homepage'",
+    "links": {
+        "facebook": "'https://facebook.com/AmplitudeAnalytics'",
+        "linkedin": "'https://linkedin.com/company/amplitude-analytics'",
+        "twitter": "Amplitude_HQ"
+    },
+    "logos": [],
+    "other": {
+        "blog": "'https://amplitude.com/blog'",
+        "logohandle": "amplitude",
+        "sort": "amplitude"
+    }
+}

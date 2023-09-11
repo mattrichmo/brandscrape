@@ -1,0 +1,16 @@
+{
+    "title": "Expo",
+    "website": "'https://expo.io/'",
+    "links": {
+        "facebook": "'https://facebook.com/groups/react.native.community'",
+        "github": "expo/expo",
+        "twitter": "expo"
+    },
+    "logos": [],
+    "other": {
+        "blog": "'https://blog.expo.io/'",
+        "instagram": "'https://instagram.com/expo.io'",
+        "logohandle": "expoio",
+        "sort": "expo"
+    }
+}

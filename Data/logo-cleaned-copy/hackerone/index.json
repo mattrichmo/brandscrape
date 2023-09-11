@@ -1,0 +1,14 @@
+{
+    "title": "HackerOne",
+    "website": "'https://www.hackerone.com/'",
+    "links": {
+        "facebook": "'https://facebook.com/Hacker0x01'",
+        "linkedin": "'https://linkedin.com/company/hackerone'",
+        "twitter": "Hacker0x01"
+    },
+    "logos": [],
+    "other": {
+        "logohandle": "hackerone",
+        "sort": "hackerone"
+    }
+}

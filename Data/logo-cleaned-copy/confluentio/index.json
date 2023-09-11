@@ -1,0 +1,16 @@
+{
+    "title": "Confluent",
+    "website": "'https://www.confluent.io/'",
+    "links": {
+        "github": "confluentinc",
+        "linkedin": "'https://linkedin.com/company/confluent'",
+        "twitter": "ConfluentInc"
+    },
+    "logos": [],
+    "other": {
+        "blog": "'https://confluent.io/blog'",
+        "logohandle": "confluentio",
+        "sort": "confluent",
+        "youtube": "'https://youtube.com/confluent'"
+    }
+}

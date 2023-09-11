@@ -1,0 +1,15 @@
+{
+    "title": "'SitePoint'",
+    "website": "'https://www.sitepoint.com/'",
+    "links": {
+        "facebook": "'https://facebook.com/sitepoint'",
+        "twitter": "sitepointdotcom",
+        "wikipedia": "https://en.wikipedia.org/wiki/SitePoint"
+    },
+    "logos": [],
+    "other": {
+        "googleplus": "'https://plus.google.com/+sitepoint'",
+        "logohandle": "sitepoint",
+        "sort": "sitepoint"
+    }
+}

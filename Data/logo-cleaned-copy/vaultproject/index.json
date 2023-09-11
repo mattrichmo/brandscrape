@@ -1,0 +1,12 @@
+{
+    "title": "Vault",
+    "website": "'https://www.vaultproject.io/'",
+    "links": {
+        "github": "hashicorp/vault"
+    },
+    "logos": [],
+    "other": {
+        "logohandle": "vaultproject",
+        "sort": "vaultproject"
+    }
+}

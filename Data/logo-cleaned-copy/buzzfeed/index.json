@@ -1,0 +1,18 @@
+{
+    "title": "BuzzFeed",
+    "website": "'https://www.buzzfeed.com/'",
+    "links": {
+        "facebook": "'https://www.facebook.com/BuzzFeedVideo/'",
+        "linkedin": "'https://www.linkedin.com/company/buzzfeed'",
+        "wikipedia": "'https://en.wikipedia.org/wiki/BuzzFeed'"
+    },
+    "logos": [],
+    "other": {
+        "googleplus": "'https://plus.google.com/108807575261328575617'",
+        "instagram": "'http://www.instagram.com/buzzfeed'",
+        "logohandle": "buzzfeed",
+        "pinterest": "'http://www.pinterest.com/buzzfeed'",
+        "sort": "buzzfeed",
+        "youtube": "'https://www.youtube.com/channel/UCinOCdodnJW-fJrv1SOrnNw'"
+    }
+}

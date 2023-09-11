@@ -1,0 +1,16 @@
+{
+    "title": "JFrog",
+    "website": "'https://jfrog.com/'",
+    "links": {
+        "facebook": "'https://facebook.com/artifrog'",
+        "linkedin": "'https://linkedin.com/company/455737'",
+        "twitter": "jfrog"
+    },
+    "logos": [],
+    "other": {
+        "blog": "'https://jfrog.com/blog'",
+        "logohandle": "jfrog",
+        "sort": "jfrog",
+        "youtube": "'https://www.youtube.com/user/artifrog'"
+    }
+}

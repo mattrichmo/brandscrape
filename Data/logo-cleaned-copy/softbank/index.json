@@ -1,0 +1,16 @@
+{
+    "title": "SoftBank",
+    "website": "https://www.softbank.jp/en/",
+    "links": {
+        "facebook": "https://www.facebook.com/SoftBank",
+        "twitter": "SoftBank",
+        "wikipedia": "https://en.wikipedia.org/wiki/SoftBank_Group"
+    },
+    "logos": [
+        "- softbank-icon.svg"
+    ],
+    "other": {
+        "logohandle": "softbank",
+        "sort": "softbank"
+    }
+}

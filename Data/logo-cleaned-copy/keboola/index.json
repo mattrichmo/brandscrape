@@ -1,0 +1,16 @@
+{
+    "title": "Keboola",
+    "website": "'https://www.keboola.com/'",
+    "links": {
+        "facebook": "'https://facebook.com/KeboolaHQ'",
+        "github": "keboola",
+        "linkedin": "'https://linkedin.com/company/1833529'",
+        "twitter": "keboola"
+    },
+    "logos": [],
+    "other": {
+        "blog": "'https://blog.keboola.com/'",
+        "logohandle": "keboola",
+        "sort": "keboola"
+    }
+}

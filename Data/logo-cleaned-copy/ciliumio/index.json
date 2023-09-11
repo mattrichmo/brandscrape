@@ -1,0 +1,13 @@
+{
+    "title": "Cilium",
+    "website": "https://cilium.io/",
+    "links": {
+        "github": "cilium/cilium",
+        "twitter": "ciliumproject"
+    },
+    "logos": [],
+    "other": {
+        "logohandle": "ciliumio",
+        "sort": "cilium"
+    }
+}

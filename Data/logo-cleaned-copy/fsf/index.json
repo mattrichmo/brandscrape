@@ -1,0 +1,16 @@
+{
+    "title": "FSF",
+    "website": "https://www.fsf.org/",
+    "links": {
+        "twitter": "fsf",
+        "wikipedia": "https://en.wikipedia.org/wiki/Free_Software_Foundation"
+    },
+    "logos": [
+        "- fsf-icon.svg"
+    ],
+    "other": {
+        "blog": "https://www.fsf.org/blogs/",
+        "logohandle": "fsf",
+        "sort": "fsf"
+    }
+}

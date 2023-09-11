@@ -1,0 +1,14 @@
+{
+    "title": "Elixir",
+    "website": "'https://elixir-lang.org/'",
+    "links": {
+        "github": "elixir-lang/elixir",
+        "twitter": "elixirlang",
+        "wikipedia": "'https://en.wikipedia.org/wiki/Elixir_(programming_language)'"
+    },
+    "logos": [],
+    "other": {
+        "logohandle": "elixir-lang",
+        "sort": "elixir-lang"
+    }
+}

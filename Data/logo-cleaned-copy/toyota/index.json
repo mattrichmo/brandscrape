@@ -1,0 +1,17 @@
+{
+    "title": "Toyota",
+    "website": "'https://www.toyota.com/'",
+    "links": {
+        "facebook": "'http://facebook.com/toyota'",
+        "twitter": "toyota"
+    },
+    "logos": [],
+    "other": {
+        "googleplus": "'https://plus.google.com/+toyotausa'",
+        "instagram": "'http://instagram.com/toyotausa'",
+        "logohandle": "toyota",
+        "pinterest": "'http://pinterest.com/toyotausa'",
+        "sort": "toyota",
+        "youtube": "'http://youtube.com/user/ToyotaUSA'"
+    }
+}

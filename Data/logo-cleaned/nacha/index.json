@@ -1,0 +1,17 @@
+{
+    "title": "NACHA",
+    "website": "https://www.nacha.org/",
+    "links": {
+        "facebook": "https://www.facebook.com/NACHAOnline",
+        "linkedin": "https://www.linkedin.com/company/nacha",
+        "twitter": "NACHAOnline",
+        "wikipedia": "https://en.wikipedia.org/wiki/NACHA"
+    },
+    "logos": [],
+    "other": {
+        "blog": "https://www.nacha.org/news",
+        "logohandle": "nacha",
+        "sort": "nacha",
+        "youtube": "https://www.youtube.com/c/nacha"
+    }
+}

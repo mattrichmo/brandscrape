@@ -1,0 +1,15 @@
+{
+    "title": "jsDelivr",
+    "website": "https://www.jsdelivr.com/",
+    "links": {
+        "github": "jsdelivr/jsdelivr",
+        "twitter": "jsDelivr",
+        "wikipedia": "https://en.wikipedia.org/wiki/JSDelivr"
+    },
+    "logos": [],
+    "other": {
+        "blog": "https://www.jsdelivr.com/blog/",
+        "logohandle": "jsdelivr",
+        "sort": "jsdelivr"
+    }
+}

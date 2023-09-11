@@ -1,0 +1,12 @@
+{
+    "title": "certmagic",
+    "website": "'https://godoc.org/github.com/mholt/certmagic'",
+    "links": {
+        "github": "mholt/certmagic"
+    },
+    "logos": [],
+    "other": {
+        "logohandle": "github_mholt_certmagic",
+        "sort": "certmagic"
+    }
+}

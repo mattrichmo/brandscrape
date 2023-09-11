@@ -1,0 +1,14 @@
+{
+    "title": "Groovy",
+    "website": "'http://groovy-lang.org/'",
+    "links": {
+        "github": "apache/groovy",
+        "twitter": "ApacheGroovy",
+        "wikipedia": "'https://en.wikipedia.org/wiki/Apache_Groovy'"
+    },
+    "logos": [],
+    "other": {
+        "logohandle": "groovy-lang",
+        "sort": "groovy"
+    }
+}

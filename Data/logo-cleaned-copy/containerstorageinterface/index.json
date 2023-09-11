@@ -1,0 +1,13 @@
+{
+    "title": "Container Storage Interface",
+    "website": "'https://github.com/container-storage-interface'",
+    "links": {
+        "github": "container-storage-interface"
+    },
+    "logos": [],
+    "other": {
+        "guide": "https://github.com/container-storage-interface/artwork",
+        "logohandle": "containerstorageinterface",
+        "sort": "containerstorageinterface"
+    }
+}

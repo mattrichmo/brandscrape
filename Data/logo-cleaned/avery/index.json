@@ -1,0 +1,16 @@
+{
+    "title": "Avery",
+    "website": "https://www.avery.com/",
+    "links": {
+        "facebook": "https://www.facebook.com/Avery",
+        "twitter": "AveryProducts"
+    },
+    "logos": [
+        "- avery-icon.svg"
+    ],
+    "other": {
+        "logohandle": "avery",
+        "sort": "avery",
+        "tags": ""
+    }
+}

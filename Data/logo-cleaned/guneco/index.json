@@ -1,0 +1,12 @@
+{
+    "title": "GUN",
+    "website": "'https://gun.eco/'",
+    "links": {
+        "github": "amark/gun"
+    },
+    "logos": [],
+    "other": {
+        "logohandle": "guneco",
+        "sort": "gun"
+    }
+}

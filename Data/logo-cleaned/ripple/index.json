@@ -1,0 +1,14 @@
+{
+    "title": "Ripple",
+    "website": "'https://ripple.com/'",
+    "links": {
+        "facebook": "'https://facebook.com/ripplepay'",
+        "linkedin": "'https://linkedin.com/company/ripple-labs'",
+        "twitter": "Ripple"
+    },
+    "logos": [],
+    "other": {
+        "logohandle": "ripple",
+        "sort": "ripple"
+    }
+}

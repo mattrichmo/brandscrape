@@ -1,0 +1,16 @@
+{
+    "title": "Terraform",
+    "website": "https://www.terraform.io/",
+    "links": {
+        "github": "hashicorp/terraform",
+        "wikipedia": "https://en.wikipedia.org/wiki/Terraform_(software)"
+    },
+    "logos": [
+        "- terraformio-ar21.svg"
+    ],
+    "other": {
+        "guide": "https://www.hashicorp.com/brand",
+        "logohandle": "terraformio",
+        "sort": "terraform"
+    }
+}

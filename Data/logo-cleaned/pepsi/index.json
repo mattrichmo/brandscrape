@@ -1,0 +1,17 @@
+{
+    "title": "Pepsi",
+    "website": "https://www.pepsi.com/",
+    "links": {
+        "facebook": "https://www.facebook.com/PepsiUS/",
+        "twitter": "pepsi",
+        "wikipedia": "https://en.wikipedia.org/wiki/Pepsi"
+    },
+    "logos": [
+        "- pepsi-ar21.svg"
+    ],
+    "other": {
+        "colors": "",
+        "logohandle": "pepsi",
+        "sort": "pepsi"
+    }
+}

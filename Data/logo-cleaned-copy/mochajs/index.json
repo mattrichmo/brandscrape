@@ -1,0 +1,13 @@
+{
+    "title": "'Mocha.js'",
+    "website": "'https://mochajs.org/'",
+    "links": {
+        "github": "mochajs/mocha",
+        "wikipedia": "https://en.wikipedia.org/wiki/Mocha_(JavaScript_framework)"
+    },
+    "logos": [],
+    "other": {
+        "logohandle": "mochajs",
+        "sort": "mochajs"
+    }
+}

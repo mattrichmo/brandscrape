@@ -1,0 +1,20 @@
+{
+    "title": "Julia Language",
+    "website": "'https://julialang.org/'",
+    "links": {
+        "github": "JuliaLang",
+        "wikipedia": "'https://en.wikipedia.org/wiki/Julia_(programming_language)'"
+    },
+    "logos": [],
+    "other": {
+        "blog": "'https://julialang.org/blog/'",
+        "guide": "'https://github.com/JuliaLang/www.julialang.org/tree/master/images'",
+        "logohandle": "julialang",
+        "other": "",
+        "name": "Discourse",
+        "url": "'https://discourse.julialang.org/'",
+        "slack": "'https://julialang.slack.com/'",
+        "sort": "julialang",
+        "youtube": "'https://youtube.com/JuliaLanguage'"
+    }
+}

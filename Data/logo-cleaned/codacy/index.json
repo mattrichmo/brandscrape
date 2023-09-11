@@ -1,0 +1,16 @@
+{
+    "title": "Codacy",
+    "website": "'https://www.codacy.com/'",
+    "links": {
+        "github": "codacy",
+        "linkedin": "'https://linkedin.com/company/codacy'",
+        "twitter": "codacy"
+    },
+    "logos": [],
+    "other": {
+        "blog": "'https://www.codacy.com/blog'",
+        "guide": "'https://www.codacy.com/landing-page-assets/images/codacy-logo.svg'",
+        "logohandle": "codacy",
+        "sort": "codacy"
+    }
+}

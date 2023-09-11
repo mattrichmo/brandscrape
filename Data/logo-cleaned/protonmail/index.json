@@ -1,0 +1,17 @@
+{
+    "title": "ProtonMail",
+    "website": "'https://protonmail.com/'",
+    "links": {
+        "facebook": "'https://facebook.com/ProtonMail'",
+        "twitter": "ProtonMail",
+        "wikipedia": "'https://en.wikipedia.org/wiki/ProtonMail'"
+    },
+    "logos": [],
+    "other": {
+        "blog": "'https://protonmail.com/blog'",
+        "googleplus": "'https://plus.google.com/+protonmail'",
+        "instagram": "'https://instagram.com/ProtonMail'",
+        "logohandle": "protonmail",
+        "sort": "protonmail"
+    }
+}

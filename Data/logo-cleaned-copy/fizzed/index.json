@@ -1,0 +1,13 @@
+{
+    "title": "Fizzed",
+    "website": "'http://fizzed.com/'",
+    "links": {
+        "github": "fizzed",
+        "twitter": "fizzed_inc"
+    },
+    "logos": [],
+    "other": {
+        "logohandle": "fizzed",
+        "sort": "fizzed"
+    }
+}

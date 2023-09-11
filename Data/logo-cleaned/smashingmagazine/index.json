@@ -1,0 +1,16 @@
+{
+    "title": "Smashing Magazine",
+    "website": "'https://www.smashingmagazine.com/'",
+    "links": {
+        "facebook": "'https://facebook.com/smashmag'",
+        "twitter": "smashingmag",
+        "wikipedia": "https://en.wikipedia.org/wiki/Smashing_Magazine"
+    },
+    "logos": [],
+    "other": {
+        "blog": "https://www.smashingmagazine.com/the-smashing-newsletter/",
+        "googleplus": "'https://plus.google.com/+SmashingMagazine'",
+        "logohandle": "smashingmagazine",
+        "sort": "smashingmagazine"
+    }
+}

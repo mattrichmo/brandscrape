@@ -1,0 +1,15 @@
+{
+    "title": "Axway",
+    "website": "'https://www.axway.com/'",
+    "links": {
+        "facebook": "'https://facebook.com/pages/Axway/86528901728'",
+        "linkedin": "'https://linkedin.com/company/axway'",
+        "twitter": "axway"
+    },
+    "logos": [],
+    "other": {
+        "logohandle": "axway",
+        "sort": "axway",
+        "youtube": "'https://youtube.com/user/AxwaySoftware'"
+    }
+}

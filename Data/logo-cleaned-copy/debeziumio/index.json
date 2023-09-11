@@ -1,0 +1,13 @@
+{
+    "title": "Debezium",
+    "website": "'https://debezium.io/'",
+    "links": {
+        "github": "debezium",
+        "twitter": "debezium"
+    },
+    "logos": [],
+    "other": {
+        "logohandle": "debeziumio",
+        "sort": "debezium"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "title": "Language Icon",
+    "website": "http://www.languageicon.org/",
+    "links": {},
+    "logos": [
+        "- languageicon-official.svg"
+    ],
+    "other": {
+        "font": "",
+        "name": "Cinzel",
+        "google": "https://fonts.google.com/specimen/Cinzel",
+        "logohandle": "languageicon",
+        "sort": "languageicon"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "title": "LINE",
+    "website": "https://line.me/",
+    "links": {
+        "github": "https://github.com/line",
+        "wikipedia": "https://en.wikipedia.org/wiki/Line_(software)"
+    },
+    "logos": [
+        "- line-ar21.svg"
+    ],
+    "other": {
+        "blog": "http://official-blog.line.me/en/",
+        "colors": "",
+        "guide": "http://line.me/en/logo",
+        "logohandle": "line",
+        "sort": "line"
+    }
+}

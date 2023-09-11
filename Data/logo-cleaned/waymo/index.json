@@ -1,0 +1,16 @@
+{
+    "title": "Waymo",
+    "website": "'https://www.waymo.com/'",
+    "links": {
+        "facebook": "'https://facebook.com/waymo'",
+        "linkedin": "'https://linkedin.com/company/waymo'",
+        "twitter": "waymo"
+    },
+    "logos": [],
+    "other": {
+        "blog": "'https://waymo.com/blog'",
+        "logohandle": "waymo",
+        "sort": "waymo",
+        "youtube": "'https://youtube.com/waymo'"
+    }
+}

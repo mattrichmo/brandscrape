@@ -1,0 +1,18 @@
+{
+    "title": "Firefox",
+    "website": "https://www.mozilla.org/en-US/firefox/",
+    "links": {
+        "facebook": "https://www.facebook.com/Firefox",
+        "twitter": "firefox",
+        "wikipedia": "https://en.wikipedia.org/wiki/Firefox"
+    },
+    "logos": [
+        "- firefox-icon.svg"
+    ],
+    "other": {
+        "blog": "https://blog.mozilla.org/firefox/",
+        "logohandle": "firefox",
+        "sort": "firefox",
+        "tags": ""
+    }
+}

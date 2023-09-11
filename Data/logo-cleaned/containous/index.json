@@ -1,0 +1,15 @@
+{
+    "title": "Containous",
+    "website": "'https://containo.us/'",
+    "links": {
+        "github": "containous",
+        "linkedin": "'https://linkedin.com/company/containous'",
+        "twitter": "containous"
+    },
+    "logos": [],
+    "other": {
+        "blog": "'https://blog.containo.us/'",
+        "logohandle": "containous",
+        "sort": "containo"
+    }
+}

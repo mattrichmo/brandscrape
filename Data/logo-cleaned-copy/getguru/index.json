@@ -1,0 +1,14 @@
+{
+    "title": "Guru",
+    "website": "'https://www.getguru.com/'",
+    "links": {
+        "linkedin": "'https://linkedin.com/company/getguru'",
+        "twitter": "guru_hq"
+    },
+    "logos": [],
+    "other": {
+        "blog": "'https://blog.getguru.com/'",
+        "logohandle": "getguru",
+        "sort": "getguru"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "title": "Buildkite",
+    "website": "'https://buildkite.com/'",
+    "links": {
+        "facebook": "https://www.facebook.com/buildkite/",
+        "github": "buildkite",
+        "twitter": "buildkite"
+    },
+    "logos": [],
+    "other": {
+        "blog": "https://building.buildkite.com/",
+        "guide": "https://buildkite.com/brand-assets",
+        "logohandle": "buildkite",
+        "sort": "buildkite"
+    }
+}

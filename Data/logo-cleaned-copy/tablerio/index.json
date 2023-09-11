@@ -1,0 +1,12 @@
+{
+    "title": "Tabler UI Kit",
+    "website": "'https://tabler.io/'",
+    "links": {
+        "github": "tabler/tabler"
+    },
+    "logos": [],
+    "other": {
+        "logohandle": "tablerio",
+        "sort": "tabler"
+    }
+}

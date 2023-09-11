@@ -1,0 +1,13 @@
+{
+    "title": "Bower",
+    "website": "'https://bower.io/'",
+    "links": {
+        "github": "bower/bower",
+        "twitter": "bower"
+    },
+    "logos": [],
+    "other": {
+        "logohandle": "bower",
+        "sort": "bower"
+    }
+}

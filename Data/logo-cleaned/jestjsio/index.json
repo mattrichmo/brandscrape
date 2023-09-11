@@ -1,0 +1,14 @@
+{
+    "title": "Jest",
+    "website": "'https://jestjs.io/'",
+    "links": {
+        "github": "facebook/jest",
+        "twitter": "fbjest"
+    },
+    "logos": [],
+    "other": {
+        "blog": "'https://jestjs.io/blog'",
+        "logohandle": "jestjsio",
+        "sort": "jestjs"
+    }
+}

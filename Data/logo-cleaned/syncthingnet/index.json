@@ -1,0 +1,12 @@
+{
+    "title": "Syncthing",
+    "website": "'https://syncthing.net/'",
+    "links": {
+        "github": "syncthing/syncthing"
+    },
+    "logos": [],
+    "other": {
+        "logohandle": "syncthingnet",
+        "sort": "syncthing"
+    }
+}

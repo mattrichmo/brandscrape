@@ -1,0 +1,10 @@
+{
+    "title": "Cloud Run",
+    "website": "'https://cloud.google.com/run/'",
+    "links": {},
+    "logos": [],
+    "other": {
+        "logohandle": "google_cloud_run",
+        "sort": "cloudrun"
+    }
+}

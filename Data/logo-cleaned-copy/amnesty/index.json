@@ -1,0 +1,17 @@
+{
+    "title": "Amnesty International",
+    "website": "'https://www.amnesty.org/en/'",
+    "links": {
+        "facebook": "'https://facebook.com/amnestyglobal'",
+        "twitter": "amnesty",
+        "wikipedia": "'https://en.wikipedia.org/wiki/Amnesty_International'"
+    },
+    "logos": [],
+    "other": {
+        "googleplus": "'https://plus.google.com/+amnesty'",
+        "instagram": "'https://instagram.com/amnesty'",
+        "logohandle": "amnesty",
+        "sort": "amnesty",
+        "youtube": "'https://youtube.com/user/AmnestyInternational'"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "title": "bing",
+    "website": "https://www.bing.com/",
+    "links": {
+        "twitter": "bing",
+        "wikipedia": "https://en.wikipedia.org/wiki/Bing_(search_engine)"
+    },
+    "logos": [
+        "- bing-ar21.svg"
+    ],
+    "other": {
+        "logohandle": "bing",
+        "sort": "bing",
+        "tags": ""
+    }
+}

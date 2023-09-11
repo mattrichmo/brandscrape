@@ -1,0 +1,17 @@
+{
+    "title": "Pivotal",
+    "website": "'https://pivotal.io/'",
+    "links": {
+        "facebook": "'https://facebook.com/pivotalsoftware'",
+        "linkedin": "'https://linkedin.com/company/3048967'",
+        "twitter": "pivotal",
+        "wikipedia": "https://en.wikipedia.org/wiki/Pivotal_Software"
+    },
+    "logos": [],
+    "other": {
+        "instagram": "'https://instagram.com/pivotalsoftware/'",
+        "logohandle": "pivotalio",
+        "sort": "pivotal",
+        "youtube": "'https://youtube.com/c/pivotal'"
+    }
+}

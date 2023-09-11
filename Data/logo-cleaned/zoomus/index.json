@@ -1,0 +1,21 @@
+{
+    "title": "Zoom",
+    "website": "https://zoom.us/",
+    "links": {
+        "facebook": "http://www.facebook.com/zoomwithus",
+        "linkedin": "https://www.linkedin.com/company/2532259/",
+        "twitter": "zoom_us",
+        "wikipedia": "https://en.wikipedia.org/wiki/Zoom_Video_Communications"
+    },
+    "logos": [
+        "- zoomus-ar21.svg"
+    ],
+    "other": {
+        "blog": "http://blog.zoom.us/",
+        "colors": "",
+        "guide": "https://zoom.us/brandguidelines",
+        "logohandle": "zoomus",
+        "sort": "zoom",
+        "tags": ""
+    }
+}

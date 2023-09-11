@@ -1,0 +1,12 @@
+{
+    "title": "Subversion",
+    "website": "'https://subversion.apache.org/'",
+    "links": {
+        "wikipedia": "'https://en.wikipedia.org/wiki/Apache_Subversion'"
+    },
+    "logos": [],
+    "other": {
+        "logohandle": "apache_subversion",
+        "sort": "subversion"
+    }
+}

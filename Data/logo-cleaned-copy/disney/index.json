@@ -1,0 +1,18 @@
+{
+    "title": "Disney",
+    "website": "'https://www.disney.com/'",
+    "links": {
+        "facebook": "'https://facebook.com/Disney'",
+        "twitter": "disney",
+        "wikipedia": "'https://en.wikipedia.org/wiki/The_Walt_Disney_Company'"
+    },
+    "logos": [],
+    "other": {
+        "googleplus": "'https://plus.google.com/+Disney'",
+        "instagram": "'http://instagram.com/disney'",
+        "logohandle": "disney",
+        "pinterest": "'http://pinterest.com/Disney'",
+        "sort": "disney",
+        "youtube": "'https://www.youtube.com/user/DisneyPixar'"
+    }
+}

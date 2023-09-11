@@ -1,0 +1,16 @@
+{
+    "title": "Front",
+    "website": "'https://frontapp.com/'",
+    "links": {
+        "facebook": "'https://facebook.com/frontapp'",
+        "linkedin": "'https://linkedin.com/company/front-app'",
+        "twitter": "Frontapp"
+    },
+    "logos": [],
+    "other": {
+        "blog": "'http://blog.frontapp.com/'",
+        "instagram": "'https://instagram.com/front_app'",
+        "logohandle": "frontapp",
+        "sort": "frontapp"
+    }
+}

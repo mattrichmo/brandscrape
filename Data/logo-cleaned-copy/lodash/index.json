@@ -1,0 +1,14 @@
+{
+    "title": "Lodash",
+    "website": "https://www.lodash.com/",
+    "links": {
+        "github": "lodash",
+        "twitter": "bestiejs",
+        "wikipedia": "https://en.wikipedia.org/wiki/Lodash"
+    },
+    "logos": [],
+    "other": {
+        "logohandle": "lodash",
+        "sort": "lodash"
+    }
+}

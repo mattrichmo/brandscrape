@@ -1,0 +1,16 @@
+{
+    "title": "Artsy",
+    "website": "'https://www.artsy.net/'",
+    "links": {
+        "facebook": "'http://facebook.com/artsy'",
+        "github": "artsy",
+        "twitter": "artsy"
+    },
+    "logos": [],
+    "other": {
+        "blog": "'https://medium.com/artsy-blog'",
+        "instagram": "'http://instagram.com/artsy'",
+        "logohandle": "artsynet",
+        "sort": "artsy"
+    }
+}

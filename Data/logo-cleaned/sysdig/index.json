@@ -1,0 +1,12 @@
+{
+    "title": "Sysdig",
+    "website": "https://sysdig.com/",
+    "links": {
+        "github": "draios/sysdig"
+    },
+    "logos": [],
+    "other": {
+        "logohandle": "sysdig",
+        "sort": "sysdig"
+    }
+}

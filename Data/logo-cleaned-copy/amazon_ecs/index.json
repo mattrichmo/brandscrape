@@ -1,0 +1,10 @@
+{
+    "title": "Amazon ECS",
+    "website": "'https://aws.amazon.com/ecs/'",
+    "links": {},
+    "logos": [],
+    "other": {
+        "logohandle": "amazon_ecs",
+        "sort": "amazonecs"
+    }
+}

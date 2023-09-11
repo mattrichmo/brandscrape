@@ -1,0 +1,14 @@
+{
+    "title": "Rollbar",
+    "website": "'https://rollbar.com/'",
+    "links": {
+        "github": "rollbar",
+        "linkedin": "'https://linkedin.com/company/rollbar'",
+        "twitter": "rollbar"
+    },
+    "logos": [],
+    "other": {
+        "logohandle": "rollbar",
+        "sort": "rollbar"
+    }
+}

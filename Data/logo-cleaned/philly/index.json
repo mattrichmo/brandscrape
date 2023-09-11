@@ -1,0 +1,14 @@
+{
+    "title": "'Philly.com'",
+    "website": "'http://www.philly.com/'",
+    "links": {
+        "facebook": "'http://facebook.com/phillydotcom'",
+        "twitter": "phillydotcom",
+        "wikipedia": "https://en.wikipedia.org/wiki/Philadelphia_Media_Network"
+    },
+    "logos": [],
+    "other": {
+        "logohandle": "philly",
+        "sort": "philly"
+    }
+}

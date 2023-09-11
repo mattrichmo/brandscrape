@@ -1,0 +1,21 @@
+{
+    "title": "Font Awesome",
+    "website": "http://fontawesome.io/",
+    "links": {
+        "github": "FortAwesome/Font-Awesome",
+        "twitter": "fontawesome"
+    },
+    "logos": [
+        "- font-awesome-ar21.svg"
+    ],
+    "other": {
+        "blog": "http://articles.fortawesome.com/",
+        "font": "",
+        "myfonts": "http://www.myfonts.com/fonts/exljbris/museo-slab/",
+        "name": "Museo Slab",
+        "url": "http://www.exljbris.com/museoslab.html",
+        "logohandle": "font-awesome",
+        "sort": "font awesome",
+        "tags": ""
+    }
+}

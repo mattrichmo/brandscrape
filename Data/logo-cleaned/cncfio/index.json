@@ -1,0 +1,15 @@
+{
+    "title": "Cloud Native Computing Foundation",
+    "website": "'https://www.cncf.io/'",
+    "links": {
+        "github": "cncf",
+        "twitter": "cloudnativefdn"
+    },
+    "logos": [],
+    "other": {
+        "blog": "'https://cncf.io/newsroom/blog'",
+        "logohandle": "cncfio",
+        "sort": "cncf",
+        "youtube": "'https://youtube.com/c/cloudnativefdn'"
+    }
+}

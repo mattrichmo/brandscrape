@@ -1,0 +1,15 @@
+{
+    "title": "serverless",
+    "website": "'https://serverless.com/'",
+    "links": {
+        "facebook": "'https://facebook.com/serverless'",
+        "github": "serverless/examples",
+        "twitter": "goserverless"
+    },
+    "logos": [],
+    "other": {
+        "instagram": "'https://instagram.com/serverlessinc'",
+        "logohandle": "serverless",
+        "sort": "serverless"
+    }
+}

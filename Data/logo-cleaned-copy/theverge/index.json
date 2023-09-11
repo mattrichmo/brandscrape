@@ -1,0 +1,15 @@
+{
+    "title": "The Verge",
+    "website": "'https://www.theverge.com/'",
+    "links": {
+        "facebook": "'https://facebook.com/verge'",
+        "twitter": "verge",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Verge"
+    },
+    "logos": [],
+    "other": {
+        "logohandle": "theverge",
+        "sort": "verge",
+        "youtube": "'https://youtube.com/channel/UCddiUEpeqJcYeBxX1IVBKvQ'"
+    }
+}

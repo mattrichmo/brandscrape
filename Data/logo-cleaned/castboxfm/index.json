@@ -1,0 +1,15 @@
+{
+    "title": "Castbox",
+    "website": "'https://castbox.fm/'",
+    "links": {
+        "facebook": "'https://facebook.com/castbox.fm'",
+        "twitter": "CastBox_FM"
+    },
+    "logos": [],
+    "other": {
+        "blog": "'https://castbox.fm/blog'",
+        "instagram": "'https://instagram.com/castbox_fm'",
+        "logohandle": "castboxfm",
+        "sort": "castbox"
+    }
+}

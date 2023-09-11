@@ -1,0 +1,17 @@
+{
+    "title": "Angular.JS",
+    "website": "https://angular.io/",
+    "links": {
+        "github": "angular/angular",
+        "twitter": "angular"
+    },
+    "logos": [
+        "- angular-icon.svg"
+    ],
+    "other": {
+        "colors": "",
+        "logohandle": "angular",
+        "sort": "angular.js",
+        "tags": ""
+    }
+}

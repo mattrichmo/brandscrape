@@ -1,0 +1,22 @@
+{
+    "title": "edX",
+    "website": "https://www.edx.org/",
+    "links": {
+        "facebook": "http://www.facebook.com/EdxOnline",
+        "github": "edx",
+        "twitter": "edXOnline",
+        "wikipedia": "https://en.wikipedia.org/wiki/EdX"
+    },
+    "logos": [
+        "- edx-icon.svg"
+    ],
+    "other": {
+        "blog": "https://blog.edx.org/",
+        "googleplus": "https://plus.google.com/+edXOnline",
+        "guide": "https://www.edx.org/media-kit",
+        "logohandle": "edx",
+        "reddit": "http://www.reddit.com/r/edx",
+        "sort": "edx",
+        "youtube": "https://www.youtube.com/user/edxonline"
+    }
+}

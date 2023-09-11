@@ -1,0 +1,15 @@
+{
+    "title": "Jobicy",
+    "website": "'https://jobicy.com/'",
+    "links": {
+        "linkedin": "'https://linkedin.com/company/Jobicy'",
+        "twitter": "Jobicy"
+    },
+    "logos": [],
+    "other": {
+        "blog": "'https://jobicy.com/blog'",
+        "instagram": "'https://instagram.com/jobicy'",
+        "logohandle": "jobicy",
+        "sort": "jobicy"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "title": "Bitwarden",
+    "website": "'https://bitwarden.com/'",
+    "links": {
+        "facebook": "'https://facebook.com/bitwarden'",
+        "github": "bitwarden",
+        "twitter": "bitwarden_app",
+        "wikipedia": "'https://en.wikipedia.org/wiki/Bitwarden'"
+    },
+    "logos": [],
+    "other": {
+        "blog": "'https://blog.bitwarden.com/'",
+        "googleplus": "'https://plus.google.com/+bitwarden'",
+        "logohandle": "bitwarden",
+        "sort": "bitwarden"
+    }
+}

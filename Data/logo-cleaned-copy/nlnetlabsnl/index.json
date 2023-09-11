@@ -1,0 +1,16 @@
+{
+    "title": "NLnet Labs",
+    "website": "'https://www.nlnetlabs.nl/'",
+    "links": {
+        "facebook": "'https://facebook.com/nlnetlabs'",
+        "github": "NLnetLabs",
+        "linkedin": "'https://linkedin.com/company/92855'",
+        "twitter": "nlnetlabs"
+    },
+    "logos": [],
+    "other": {
+        "blog": "'https://medium.com/nlnetlabs'",
+        "logohandle": "nlnetlabsnl",
+        "sort": "nlnetlabs"
+    }
+}

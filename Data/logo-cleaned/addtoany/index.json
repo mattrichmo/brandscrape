@@ -1,0 +1,17 @@
+{
+    "title": "AddToAny",
+    "website": "https://www.addtoany.com/",
+    "links": {
+        "twitter": "addtoany",
+        "wikipedia": "https://en.wikipedia.org/wiki/AddToAny"
+    },
+    "logos": [
+        "- addtoany-ar21.svg"
+    ],
+    "other": {
+        "blog": "https://www.addtoany.com/blog/",
+        "colors": "['#0166FF']",
+        "logohandle": "addtoany",
+        "sort": "addtoany"
+    }
+}

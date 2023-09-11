@@ -1,0 +1,12 @@
+{
+    "title": "containerd",
+    "website": "'https://containerd.io/'",
+    "links": {
+        "github": "containerd/containerd"
+    },
+    "logos": [],
+    "other": {
+        "logohandle": "containerdio",
+        "sort": "containerd"
+    }
+}

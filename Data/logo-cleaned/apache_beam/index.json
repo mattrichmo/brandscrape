@@ -1,0 +1,12 @@
+{
+    "title": "Beam",
+    "website": "'https://beam.apache.org/'",
+    "links": {
+        "github": "apache/beam"
+    },
+    "logos": [],
+    "other": {
+        "logohandle": "apache_beam",
+        "sort": "beam"
+    }
+}

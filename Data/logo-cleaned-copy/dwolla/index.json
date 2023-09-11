@@ -1,0 +1,14 @@
+{
+    "title": "Dwolla",
+    "website": "'https://www.dwolla.com/'",
+    "links": {
+        "twitter": "dwolla",
+        "wikipedia": "'https://en.wikipedia.org/wiki/Dwolla'"
+    },
+    "logos": [],
+    "other": {
+        "blog": "'https://www.dwolla.com/updates'",
+        "logohandle": "dwolla",
+        "sort": "dwolla"
+    }
+}

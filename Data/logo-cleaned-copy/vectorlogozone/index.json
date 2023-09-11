@@ -1,0 +1,21 @@
+{
+    "title": "VectorLogo.Zone",
+    "website": "https://www.vectorlogo.zone/",
+    "links": {
+        "facebook": "https://www.facebook.com/VectorLogoZone/",
+        "github": "VectorLogoZone",
+        "twitter": "VectorLogoZone"
+    },
+    "logos": [
+        "- vectorlogozone-icon.svg"
+    ],
+    "other": {
+        "colors": "['#1D8286']",
+        "font": "",
+        "google": "https://fonts.google.com/specimen/Roboto",
+        "name": "Roboto",
+        "logohandle": "vectorlogozone",
+        "sort": "vectorlogozone",
+        "tags": ""
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "title": "Ernst & Young",
+    "website": "'https://www.ey.com/en_us'",
+    "links": {
+        "facebook": "'http://facebook.com/pages/Ernst-Young/195665063800329'",
+        "linkedin": "'https://linkedin.com/company/1073'",
+        "twitter": "EYnews"
+    },
+    "logos": [],
+    "other": {
+        "logohandle": "ey",
+        "sort": "ey",
+        "youtube": "'http://youtube.com/ernstandyoungglobal'"
+    }
+}

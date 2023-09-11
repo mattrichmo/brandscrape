@@ -1,0 +1,13 @@
+{
+    "title": "BackYourStack",
+    "website": "'https://backyourstack.com/'",
+    "links": {
+        "github": "opencollective/backyourstack"
+    },
+    "logos": [],
+    "other": {
+        "guide": "https://github.com/opencollective/backyourstack/tree/master/src/static/img",
+        "logohandle": "backyourstack",
+        "sort": "backyourstack"
+    }
+}

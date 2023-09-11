@@ -1,0 +1,17 @@
+{
+    "title": "'Reuters'",
+    "website": "'https://www.reuters.com/'",
+    "links": {
+        "facebook": "'http://facebook.com/Reuters'",
+        "linkedin": "'http://linkedin.com/company/10256858'",
+        "twitter": "reuters",
+        "wikipedia": "https://en.wikipedia.org/wiki/Reuters"
+    },
+    "logos": [],
+    "other": {
+        "instagram": "'http://instagram.com/reuters'",
+        "logohandle": "reuters",
+        "sort": "reuters",
+        "youtube": "'http://youtube.com/user/ReutersVideo'"
+    }
+}

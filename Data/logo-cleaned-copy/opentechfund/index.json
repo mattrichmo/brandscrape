@@ -1,0 +1,13 @@
+{
+    "title": "Open Technology Fund",
+    "website": "'https://www.opentech.fund/'",
+    "links": {
+        "twitter": "opentechfund",
+        "wikipedia": "'https://en.wikipedia.org/wiki/Open_Technology_Fund'"
+    },
+    "logos": [],
+    "other": {
+        "logohandle": "opentechfund",
+        "sort": "opentech"
+    }
+}

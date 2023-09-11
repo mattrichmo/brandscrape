@@ -1,0 +1,17 @@
+{
+    "title": "hyper.sh",
+    "website": "https://hyper.sh/",
+    "links": {
+        "github": "hyperhq",
+        "twitter": "hyper_sh"
+    },
+    "logos": [
+        "- hyper_sh-icon.svg"
+    ],
+    "other": {
+        "blog": "https://blog.hyper.sh/",
+        "guide": "https://github.com/hyperhq/www.hyper.sh/tree/master/logo",
+        "logohandle": "hyper_sh",
+        "sort": "hyper_sh"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "title": "Heroku",
+    "website": "https://www.heroku.com/",
+    "links": {
+        "facebook": "https://facebook.com/heroku",
+        "github": "heroku",
+        "twitter": "heroku",
+        "wikipedia": "https://en.wikipedia.org/wiki/Heroku"
+    },
+    "logos": [
+        "- heroku-icon.svg"
+    ],
+    "other": {
+        "blog": "https://blog.heroku.com/feed",
+        "font": "",
+        "myfonts": "https://www.myfonts.com/fonts/typodermic/hybrea/",
+        "name": "Hybrea",
+        "guide": "https://brand.heroku.com/",
+        "logohandle": "heroku",
+        "sort": "heroku",
+        "tags": "",
+        "https": "//logo.heroku.com/)."
+    }
+}

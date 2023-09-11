@@ -1,0 +1,16 @@
+{
+    "title": "Chartbeat",
+    "website": "'https://chartbeat.com/'",
+    "links": {
+        "facebook": "'https://facebook.com/chartbeat'",
+        "linkedin": "'https://linkedin.com/company/chartbeat'",
+        "twitter": "chartbeat",
+        "wikipedia": "'https://en.wikipedia.org/wiki/Chartbeat'"
+    },
+    "logos": [],
+    "other": {
+        "blog": "'http://blog.chartbeat.com/'",
+        "logohandle": "chartbeat",
+        "sort": "chartbeat"
+    }
+}

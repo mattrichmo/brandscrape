@@ -1,0 +1,23 @@
+{
+    "title": "Dart",
+    "website": "https://www.dartlang.org/",
+    "links": {
+        "github": "dart-lang",
+        "twitter": "dart_lang",
+        "wikipedia": "https://en.wikipedia.org/wiki/Dart_(programming_language)"
+    },
+    "logos": [
+        "- dartlang-official.svg"
+    ],
+    "other": {
+        "blog": "http://news.dartlang.org/",
+        "colors": "",
+        "font": "",
+        "google": "https://fonts.google.com/specimen/Montserrat",
+        "name": "Montserrat",
+        "guide": "https://github.com/dart-lang/logos",
+        "logohandle": "dartlang",
+        "sort": "dartlang",
+        "tags": ""
+    }
+}

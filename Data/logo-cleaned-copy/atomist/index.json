@@ -1,0 +1,13 @@
+{
+    "title": "Atomist",
+    "website": "'https://atomist.com/'",
+    "links": {
+        "github": "atomist",
+        "twitter": "atomist"
+    },
+    "logos": [],
+    "other": {
+        "logohandle": "atomist",
+        "sort": "atomist"
+    }
+}

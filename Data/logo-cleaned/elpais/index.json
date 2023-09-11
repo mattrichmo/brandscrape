@@ -1,0 +1,16 @@
+{
+    "title": "EL PA\u00cdS",
+    "website": "'https://elpais.com/'",
+    "links": {
+        "facebook": "'https://facebook.com/elpais'",
+        "twitter": "el_pais",
+        "wikipedia": "'https://en.wikipedia.org/wiki/El_Pa%C3%ADs'"
+    },
+    "logos": [],
+    "other": {
+        "googleplus": "'https://plus.google.com/+elpais'",
+        "instagram": "'https://instagram.com/el_pais'",
+        "logohandle": "elpais",
+        "sort": "elpais"
+    }
+}

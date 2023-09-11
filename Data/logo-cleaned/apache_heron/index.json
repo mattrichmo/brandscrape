@@ -1,0 +1,13 @@
+{
+    "title": "Heron",
+    "website": "'https://apache.github.io/incubator-heron/'",
+    "links": {
+        "github": "twitter/heron",
+        "twitter": "heronstreaming"
+    },
+    "logos": [],
+    "other": {
+        "logohandle": "apache_heron",
+        "sort": "heron"
+    }
+}

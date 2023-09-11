@@ -1,0 +1,12 @@
+{
+    "title": "AFRINIC",
+    "website": "'https://www.afrinic.net/'",
+    "links": {
+        "wikipedia": "'https://en.wikipedia.org/wiki/AFRINIC'"
+    },
+    "logos": [],
+    "other": {
+        "logohandle": "afrinicnet",
+        "sort": "afrinic"
+    }
+}

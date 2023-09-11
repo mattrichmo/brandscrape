@@ -1,0 +1,12 @@
+{
+    "title": "Conduit",
+    "website": "'https://conduit.io/'",
+    "links": {
+        "github": "linkerd/linkerd2"
+    },
+    "logos": [],
+    "other": {
+        "logohandle": "conduitio",
+        "sort": "conduit"
+    }
+}

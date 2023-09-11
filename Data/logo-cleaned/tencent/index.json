@@ -1,0 +1,16 @@
+{
+    "title": "Tencent",
+    "website": "https://www.tencent.com/",
+    "links": {
+        "facebook": "http://www.facebook.com/tencent-861967353950866",
+        "wikipedia": "https://en.wikipedia.org/wiki/Tencent"
+    },
+    "logos": [
+        "- tencent-icon.svg"
+    ],
+    "other": {
+        "logohandle": "tencent",
+        "sort": "tencent",
+        "weibo": "http://weibo.com/tencent"
+    }
+}

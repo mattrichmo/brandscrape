@@ -1,0 +1,13 @@
+{
+    "title": "Kibana",
+    "website": "'https://www.elastic.co/products/kibana'",
+    "links": {
+        "github": "elastic/kibana",
+        "wikipedia": "'https://en.wikipedia.org/wiki/Kibana'"
+    },
+    "logos": [],
+    "other": {
+        "logohandle": "elasticco_kibana",
+        "sort": "kibana"
+    }
+}

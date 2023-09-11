@@ -1,0 +1,16 @@
+{
+    "title": "UPS",
+    "website": "'https://www.ups.com/'",
+    "links": {
+        "facebook": "'http://facebook.com/ups'",
+        "linkedin": "'https://linkedin.com/company/ups'",
+        "twitter": "UPS",
+        "wikipedia": "'https://en.wikipedia.org/wiki/United_Parcel_Service'"
+    },
+    "logos": [],
+    "other": {
+        "logohandle": "ups",
+        "sort": "ups",
+        "youtube": "'https://youtube.com/ups'"
+    }
+}

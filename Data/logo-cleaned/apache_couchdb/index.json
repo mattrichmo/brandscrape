@@ -1,0 +1,14 @@
+{
+    "title": "Apache CouchDB",
+    "website": "'http://couchdb.apache.org/'",
+    "links": {
+        "twitter": "CouchDB",
+        "wikipedia": "https://en.wikipedia.org/wiki/Apache_CouchDB"
+    },
+    "logos": [],
+    "other": {
+        "blog": "'http://blog.couchdb.org/'",
+        "logohandle": "apache_couchdb",
+        "sort": "couchdb"
+    }
+}

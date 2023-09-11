@@ -1,0 +1,13 @@
+{
+    "title": "guess.js",
+    "website": "'https://guess-js.github.io/'",
+    "links": {
+        "github": "guess-js/guess"
+    },
+    "logos": [],
+    "other": {
+        "guide": "'https://github.com/guess-js/media/tree/master/optimized'",
+        "logohandle": "guess-js",
+        "sort": "guessjs"
+    }
+}

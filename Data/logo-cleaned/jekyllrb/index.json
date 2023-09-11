@@ -1,0 +1,19 @@
+{
+    "title": "Jekyll",
+    "website": "https://jekyllrb.com/",
+    "links": {
+        "github": "jekyll",
+        "twitter": "jekyllrb",
+        "wikipedia": "https://en.wikipedia.org/wiki/Jekyll_(software)"
+    },
+    "logos": [
+        "- jekyllrb-icon.svg"
+    ],
+    "other": {
+        "blog": "https://jekyllrb.com/news/",
+        "guide": "https://github.com/jekyll/brand",
+        "logohandle": "jekyllrb",
+        "sort": "jekyll",
+        "tags": ""
+    }
+}

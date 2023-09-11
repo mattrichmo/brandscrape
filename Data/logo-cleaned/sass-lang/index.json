@@ -1,0 +1,14 @@
+{
+    "title": "Sass",
+    "website": "https://sass-lang.com/",
+    "links": {
+        "twitter": "SassCSS",
+        "wikipedia": "https://en.wikipedia.org/wiki/Sass_(stylesheet_language)"
+    },
+    "logos": [],
+    "other": {
+        "keywords": "scss",
+        "logohandle": "sass-lang",
+        "sort": "sass"
+    }
+}

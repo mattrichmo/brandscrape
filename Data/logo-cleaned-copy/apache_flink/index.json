@@ -1,0 +1,13 @@
+{
+    "title": "Flink",
+    "website": "'https://flink.apache.org/'",
+    "links": {
+        "github": "apache/flink",
+        "twitter": "apacheflink"
+    },
+    "logos": [],
+    "other": {
+        "logohandle": "apache_flink",
+        "sort": "flink"
+    }
+}

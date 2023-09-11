@@ -1,0 +1,15 @@
+{
+    "title": "Handlebars",
+    "website": "http://handlebarsjs.com/",
+    "links": {
+        "github": "wycats/handlebars.js",
+        "wikipedia": "https://en.wikipedia.org/wiki/Mustache_(template_system)#Handlebars"
+    },
+    "logos": [
+        "- handlebarsjs-icon.svg"
+    ],
+    "other": {
+        "logohandle": "handlebarsjs",
+        "sort": "handlebarsjs"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "title": "Feedly",
+    "website": "https://feedly.com/",
+    "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Feedly"
+    },
+    "logos": [
+        "- feedly-icon.svg"
+    ],
+    "other": {
+        "logohandle": "feedly",
+        "sort": "feedly"
+    }
+}

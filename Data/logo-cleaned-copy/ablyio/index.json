@@ -1,0 +1,17 @@
+{
+    "title": "Ably Realtime",
+    "website": "'https://www.ably.io/'",
+    "links": {
+        "facebook": "'https://facebook.com/ablyrealtime'",
+        "github": "ably",
+        "linkedin": "'https://linkedin.com/company/ably---real-time-messaging'",
+        "twitter": "ablyrealtime"
+    },
+    "logos": [],
+    "other": {
+        "blog": "'https://ably.io/blog/'",
+        "logohandle": "ablyio",
+        "sort": "ably",
+        "youtube": "'https://youtube.com/channel/UCC-sGGUfT-ot_E8i1ARYQVw'"
+    }
+}

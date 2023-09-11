@@ -1,0 +1,16 @@
+{
+    "title": "Parsely",
+    "website": "'https://www.parse.ly/'",
+    "links": {
+        "github": "parsely",
+        "linkedin": "'https://linkedin.com/company/parsely-inc-'",
+        "twitter": "parsely"
+    },
+    "logos": [],
+    "other": {
+        "blog": "'https://blog.parse.ly/'",
+        "guide": "https://www.parse.ly/press-kit",
+        "logohandle": "parsely",
+        "sort": "parsely"
+    }
+}

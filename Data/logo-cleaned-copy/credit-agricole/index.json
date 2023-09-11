@@ -1,0 +1,13 @@
+{
+    "title": "Cr\u00e9dit Agricole",
+    "website": "'https://www.credit-agricole.com/en/'",
+    "links": {
+        "twitter": "intent/retweet",
+        "wikipedia": "https://en.wikipedia.org/wiki/Cr%C3%A9dit_Agricole"
+    },
+    "logos": [],
+    "other": {
+        "logohandle": "credit-agricole",
+        "sort": "credit-agricole"
+    }
+}

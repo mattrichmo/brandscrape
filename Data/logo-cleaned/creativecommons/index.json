@@ -1,0 +1,25 @@
+{
+    "title": "Creative Commons",
+    "website": "https://creativecommons.org/",
+    "links": {
+        "facebook": "https://www.facebook.com/creativecommons",
+        "github": "creativecommons",
+        "twitter": "creativecommons",
+        "wikipedia": "https://en.wikipedia.org/wiki/Creative_Commons"
+    },
+    "logos": [
+        "- creativecommons-ar21.svg"
+    ],
+    "other": {
+        "blog": "https://creativecommons.org/blog/",
+        "font": "",
+        "freename": "HK Grotesk",
+        "freeurl": "https://hanken.co/product/hk-grotesk/",
+        "name": "Akzidenz Grotesk Bold",
+        "url": "https://www.bertholdtypes.com/font/akzidenz-grotesk/standard/",
+        "guide": "https://creativecommons.org/about/downloads/",
+        "keywords": "cc",
+        "logohandle": "creativecommons",
+        "sort": "creativecommons"
+    }
+}

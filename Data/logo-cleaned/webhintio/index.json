@@ -1,0 +1,13 @@
+{
+    "title": "webhint",
+    "website": "'https://webhint.io/'",
+    "links": {
+        "github": "webhintio",
+        "twitter": "narwhalnellie"
+    },
+    "logos": [],
+    "other": {
+        "logohandle": "webhintio",
+        "sort": "webhint"
+    }
+}

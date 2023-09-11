@@ -1,0 +1,12 @@
+{
+    "title": "Knot DNS",
+    "website": "'https://www.knot-dns.cz/'",
+    "links": {
+        "twitter": "KnotDNS"
+    },
+    "logos": [],
+    "other": {
+        "logohandle": "knot-dnscz",
+        "sort": "knot-dns"
+    }
+}

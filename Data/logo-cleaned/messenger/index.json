@@ -1,0 +1,15 @@
+{
+    "title": "Facebook Messenger",
+    "website": "https://www.messenger.com/",
+    "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Facebook_Messenger"
+    },
+    "logos": [
+        "- messenger-ar21.svg"
+    ],
+    "other": {
+        "logohandle": "messenger",
+        "sort": "facebookmessenger",
+        "tags": ""
+    }
+}

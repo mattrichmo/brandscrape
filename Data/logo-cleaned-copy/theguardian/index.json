@@ -1,0 +1,16 @@
+{
+    "title": "'The Guardian'",
+    "website": "'https://www.theguardian.com/us'",
+    "links": {
+        "facebook": "'https://facebook.com/theguardian'",
+        "twitter": "guardian",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Guardian"
+    },
+    "logos": [],
+    "other": {
+        "googleplus": "'https://plus.google.com/113000071431138202574'",
+        "logohandle": "theguardian",
+        "sort": "guardian",
+        "youtube": "'https://youtube.com/user/TheGuardian'"
+    }
+}

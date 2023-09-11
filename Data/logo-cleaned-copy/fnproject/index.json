@@ -1,0 +1,16 @@
+{
+    "title": "Fn project",
+    "website": "https://fnproject.io/",
+    "links": {
+        "github": "fnproject",
+        "twitter": "fnproj"
+    },
+    "logos": [
+        "- fnproject-ar21.svg"
+    ],
+    "other": {
+        "blog": "https://medium.com/fnproject",
+        "logohandle": "fnproject",
+        "sort": "fnproject"
+    }
+}

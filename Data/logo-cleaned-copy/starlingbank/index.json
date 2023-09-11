@@ -1,0 +1,18 @@
+{
+    "title": "Starling Bank",
+    "website": "'https://www.starlingbank.com/'",
+    "links": {
+        "facebook": "'https://facebook.com/starlingbank'",
+        "linkedin": "'https://linkedin.com/company/starling-bank'",
+        "twitter": "starlingbank",
+        "wikipedia": "https://en.wikipedia.org/wiki/Starling_Bank"
+    },
+    "logos": [],
+    "other": {
+        "blog": "'https://starlingbank.com/blog'",
+        "instagram": "'http://instagram.com/starlingbank'",
+        "logohandle": "starlingbank",
+        "sort": "starlingbank",
+        "youtube": "'https://youtube.com/c/StarlingBankApp'"
+    }
+}

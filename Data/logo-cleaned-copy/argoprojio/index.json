@@ -1,0 +1,13 @@
+{
+    "title": "Argo",
+    "website": "'https://argoproj.github.io/'",
+    "links": {
+        "github": "argoproj/argo"
+    },
+    "logos": [],
+    "other": {
+        "blog": "'https://blog.argoproj.io/'",
+        "logohandle": "argoprojio",
+        "sort": "argo"
+    }
+}

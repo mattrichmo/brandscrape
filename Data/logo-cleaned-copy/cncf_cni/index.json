@@ -1,0 +1,13 @@
+{
+    "title": "CNI",
+    "website": "'https://github.com/containernetworking'",
+    "links": {
+        "github": "containernetworking"
+    },
+    "logos": [],
+    "other": {
+        "blog": "'https://blog.github.com/'",
+        "logohandle": "cncf_cni",
+        "sort": "cni"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "title": "Developer Media",
+    "website": "'https://developermedia.com/'",
+    "links": {
+        "facebook": "'https://facebook.com/DeveloperMedia'",
+        "linkedin": "'https://linkedin.com/company/developer-media'",
+        "twitter": "Developer_Media"
+    },
+    "logos": [],
+    "other": {
+        "blog": "'https://developermedia.com/blog'",
+        "logohandle": "developermedia",
+        "sort": "developermedia"
+    }
+}

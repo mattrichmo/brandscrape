@@ -1,0 +1,12 @@
+{
+    "title": "Accent",
+    "website": "'https://www.accent.reviews/'",
+    "links": {
+        "github": "mirego/accent"
+    },
+    "logos": [],
+    "other": {
+        "logohandle": "accentreviews",
+        "sort": "accent"
+    }
+}

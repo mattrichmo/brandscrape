@@ -1,0 +1,17 @@
+{
+    "title": "AMD",
+    "website": "'https://www.amd.com/en'",
+    "links": {
+        "facebook": "'http://facebook.com/amd'",
+        "linkedin": "'https://linkedin.com/company/amd'",
+        "twitter": "amd",
+        "wikipedia": "https://en.wikipedia.org/wiki/Advanced_Micro_Devices"
+    },
+    "logos": [],
+    "other": {
+        "googleplus": "'https://plus.google.com/+AMD'",
+        "logohandle": "amd",
+        "pinterest": "'https://pinterest.com/amd'",
+        "sort": "amd"
+    }
+}

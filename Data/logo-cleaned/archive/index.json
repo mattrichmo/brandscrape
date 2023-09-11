@@ -1,0 +1,22 @@
+{
+    "title": "Internet Archive",
+    "website": "https://archive.org/",
+    "links": {
+        "facebook": "https://www.facebook.com/internetnetarchive/",
+        "github": "internetarchive",
+        "twitter": "internetarchive",
+        "wikipedia": "https://en.wikipedia.org/wiki/Internet_Archive"
+    },
+    "logos": [
+        "- archive-tile.svg"
+    ],
+    "other": {
+        "blog": "https://blog.archive.org/",
+        "font": "",
+        "myfonts": "https://www.myfonts.com/fonts/mti/rotis-semi-serif/bold-65/",
+        "name": "Rotis Semi Serif Bold 65",
+        "logohandle": "archive",
+        "sort": "internet_archive",
+        "tags": ""
+    }
+}

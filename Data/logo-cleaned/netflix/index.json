@@ -1,0 +1,24 @@
+{
+    "title": "Netflix",
+    "website": "https://www.netflix.com/",
+    "links": {
+        "facebook": "https://www.facebook.com/netflixus",
+        "github": "netflix",
+        "twitter": "netflix",
+        "wikipedia": "https://en.wikipedia.org/wiki/Netflix"
+    },
+    "logos": [
+        "- netflix-icon.svg"
+    ],
+    "other": {
+        "blog": "https://media.netflix.com/en/company-blog/",
+        "font": "",
+        "myfonts": "https://www.myfonts.com/fonts/flat-it/bebas-neue/",
+        "name": "Bebas Neue",
+        "note": "pre-2014 font was Graphique",
+        "guide": "https://media.netflix.com/en/company-assets",
+        "instagram": "https://www.instagram.com/netflix/",
+        "logohandle": "netflix",
+        "sort": "netflix"
+    }
+}

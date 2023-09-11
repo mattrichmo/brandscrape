@@ -1,0 +1,20 @@
+{
+    "title": "Authy",
+    "website": "https://authy.com/",
+    "links": {
+        "facebook": "https://www.facebook.com/authysec",
+        "github": "authy",
+        "linkedin": "https://linkedin.com/company/authy",
+        "twitter": "Authy"
+    },
+    "logos": [
+        "- authy-ar21.svg"
+    ],
+    "other": {
+        "blog": "https://authy.com/blog/",
+        "colors": "",
+        "logohandle": "authy",
+        "sort": "authy",
+        "tags": ""
+    }
+}

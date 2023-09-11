@@ -1,0 +1,13 @@
+{
+    "title": "Dark Reader",
+    "website": "'https://darkreader.org/'",
+    "links": {
+        "github": "darkreader/darkreader",
+        "twitter": "darkreaderapp"
+    },
+    "logos": [],
+    "other": {
+        "logohandle": "darkreader",
+        "sort": "darkreader"
+    }
+}

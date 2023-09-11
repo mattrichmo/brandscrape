@@ -1,0 +1,12 @@
+{
+    "title": "Dotdash",
+    "website": "'https://www.dotdash.com/'",
+    "links": {
+        "wikipedia": "'https://en.wikipedia.org/wiki/Dotdash'"
+    },
+    "logos": [],
+    "other": {
+        "logohandle": "dotdash",
+        "sort": "dotdash"
+    }
+}

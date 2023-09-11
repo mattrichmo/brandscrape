@@ -1,0 +1,12 @@
+{
+    "title": "WireGuard",
+    "website": "'https://www.wireguard.com/'",
+    "links": {
+        "wikipedia": "'https://en.wikipedia.org/wiki/WireGuard'"
+    },
+    "logos": [],
+    "other": {
+        "logohandle": "wireguard",
+        "sort": "wireguard"
+    }
+}

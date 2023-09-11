@@ -1,0 +1,16 @@
+{
+    "title": "Fast Company",
+    "website": "'https://www.fastcompany.com/'",
+    "links": {
+        "facebook": "'https://facebook.com/FastCompany'",
+        "linkedin": "'https://linkedin.com/company/fast-company'",
+        "twitter": "fastcompany",
+        "wikipedia": "'https://en.wikipedia.org/wiki/Fast_Company'"
+    },
+    "logos": [],
+    "other": {
+        "instagram": "'https://instagram.com/fastcompany'",
+        "logohandle": "fastcompany",
+        "sort": "fastcompany"
+    }
+}

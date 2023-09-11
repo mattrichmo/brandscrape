@@ -1,0 +1,14 @@
+{
+    "title": "Ghostscript",
+    "website": "https://ghostscript.com/",
+    "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Ghostscript"
+    },
+    "logos": [
+        "- ghostscript-ar21.svg"
+    ],
+    "other": {
+        "logohandle": "ghostscript",
+        "sort": "ghostscript"
+    }
+}

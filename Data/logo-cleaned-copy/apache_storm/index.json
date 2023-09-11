@@ -1,0 +1,12 @@
+{
+    "title": "Apache Storm",
+    "website": "'https://storm.apache.org/'",
+    "links": {
+        "twitter": "ApacheStorm"
+    },
+    "logos": [],
+    "other": {
+        "logohandle": "apache_storm",
+        "sort": "apache_storm"
+    }
+}

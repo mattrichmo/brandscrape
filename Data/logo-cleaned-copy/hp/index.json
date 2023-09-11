@@ -1,0 +1,22 @@
+{
+    "title": "Hewlett Packard",
+    "website": "https://www.hp.com/",
+    "links": {
+        "facebook": "http://www.facebook.com/HP",
+        "github": "hp-hq",
+        "twitter": "HP",
+        "wikipedia": "https://en.wikipedia.org/wiki/Hewlett-Packard"
+    },
+    "logos": [
+        "- hp-icon.svg"
+    ],
+    "other": {
+        "blog": "https://newsblog.ext.hp.com/",
+        "font": "",
+        "myfonts": "null",
+        "name": "Printed Circuit Board",
+        "url": "https://www.dafont.com/printed-circuit-board.font",
+        "logohandle": "hp",
+        "sort": "hp"
+    }
+}

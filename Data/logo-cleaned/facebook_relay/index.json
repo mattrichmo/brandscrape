@@ -1,0 +1,14 @@
+{
+    "title": "Relay",
+    "website": "https://facebook.github.io/relay/",
+    "links": {
+        "github": "facebook/relay"
+    },
+    "logos": [
+        "- facebook_relay-icon.svg"
+    ],
+    "other": {
+        "logohandle": "facebook_relay",
+        "sort": "relayjs"
+    }
+}

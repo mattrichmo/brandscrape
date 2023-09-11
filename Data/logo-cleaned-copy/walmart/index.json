@@ -1,0 +1,18 @@
+{
+    "title": "Walmart",
+    "website": "https://www.walmart.com",
+    "links": {
+        "facebook": "https://www.facebook.com/walmart/",
+        "twitter": "walmart",
+        "wikipedia": "https://en.wikipedia.org/wiki/Walmart"
+    },
+    "logos": [
+        "- walmart-ar21.svg"
+    ],
+    "other": {
+        "colors": "",
+        "guide": "https://www.walmartbrandcenter.com/downloads.aspx",
+        "logohandle": "walmart",
+        "sort": "walmart"
+    }
+}

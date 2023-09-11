@@ -1,0 +1,19 @@
+{
+    "title": "SoFi",
+    "website": "'https://www.sofi.com/'",
+    "links": {
+        "facebook": "'https://facebook.com/SoFi'",
+        "linkedin": "'https://linkedin.com/company/sofi'",
+        "twitter": "SoFi",
+        "wikipedia": "'https://en.wikipedia.org/wiki/SoFi'"
+    },
+    "logos": [],
+    "other": {
+        "googleplus": "'https://plus.google.com/+SoFi'",
+        "instagram": "'https://instagram.com/sofi'",
+        "logohandle": "sofi",
+        "pinterest": "'https://pinterest.com/sofiloans'",
+        "sort": "sofi",
+        "youtube": "'https://youtube.com/user/socialfinance220'"
+    }
+}

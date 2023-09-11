@@ -1,0 +1,21 @@
+{
+    "title": "Debian",
+    "website": "https://www.debian.org/",
+    "links": {
+        "github": "Debian",
+        "twitter": "debian",
+        "wikipedia": "https://en.wikipedia.org/wiki/Debian"
+    },
+    "logos": [
+        "- debian-ar21.svg"
+    ],
+    "other": {
+        "blog": "https://bits.debian.org/",
+        "font": "",
+        "myfonts": "https://www.myfonts.com/fonts/berthold/laudatio-pro/med-cnd/",
+        "name": "Laudatio Pro Condensed Medium",
+        "logohandle": "debian",
+        "sort": "debian",
+        "tags": ""
+    }
+}

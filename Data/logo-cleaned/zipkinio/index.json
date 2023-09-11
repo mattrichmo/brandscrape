@@ -1,0 +1,13 @@
+{
+    "title": "OpenZipkin",
+    "website": "'https://zipkin.io/'",
+    "links": {
+        "github": "openzipkin/zipkin",
+        "twitter": "zipkinproject"
+    },
+    "logos": [],
+    "other": {
+        "logohandle": "zipkinio",
+        "sort": "zipkin"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "title": "TE Connectivity",
+    "website": "'https://www.te.com/usa-en/home.html'",
+    "links": {
+        "facebook": "'https://facebook.com/teconnectivity'",
+        "linkedin": "'https://linkedin.com/company/te-connectivity'",
+        "twitter": "teconnectivity"
+    },
+    "logos": [],
+    "other": {
+        "googleplus": "'https://plus.google.com/+teconnectivity/posts'",
+        "instagram": "'https://instagram.com/teconnectivity'",
+        "logohandle": "te",
+        "sort": "teconnectivity",
+        "youtube": "'https://youtube.com/teconnectivity'"
+    }
+}

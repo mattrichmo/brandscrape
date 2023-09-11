@@ -1,0 +1,19 @@
+{
+    "title": "1Password",
+    "website": "'https://1password.com/'",
+    "links": {
+        "facebook": "'https://facebook.com/1Password'",
+        "github": "1Password",
+        "linkedin": "'https://linkedin.com/company/1Password'",
+        "twitter": "1Password",
+        "wikipedia": "https://en.wikipedia.org/wiki/1Password"
+    },
+    "logos": [],
+    "other": {
+        "blog": "'https://blog.agilebits.com/'",
+        "instagram": "'https://instagram.com/agilebits'",
+        "logohandle": "1password",
+        "sort": "1password",
+        "youtube": "'https://youtube.com/1PasswordVideos'"
+    }
+}

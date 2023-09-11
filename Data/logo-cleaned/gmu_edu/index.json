@@ -1,0 +1,17 @@
+{
+    "title": "George Mason University",
+    "website": "https://www2.gmu.edu/",
+    "links": {
+        "facebook": "http://facebook.com/georgemason",
+        "twitter": "georgemasonu",
+        "wikipedia": "https://en.wikipedia.org/wiki/George_Mason_University"
+    },
+    "logos": [
+        "- gmu_edu-icon.svg"
+    ],
+    "other": {
+        "logohandle": "gmu_edu",
+        "sort": "george_mason",
+        "tags": ""
+    }
+}

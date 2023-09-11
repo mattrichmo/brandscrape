@@ -1,0 +1,15 @@
+{
+    "title": "Infoblox",
+    "website": "'https://www.infoblox.com/'",
+    "links": {
+        "facebook": "'https://facebook.com/Infobloxinc'",
+        "linkedin": "'https://linkedin.com/company/infoblox'",
+        "twitter": "infoblox"
+    },
+    "logos": [],
+    "other": {
+        "logohandle": "infoblox",
+        "sort": "infoblox",
+        "youtube": "'https://youtube.com/InfobloxInc'"
+    }
+}

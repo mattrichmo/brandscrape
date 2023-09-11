@@ -1,0 +1,16 @@
+{
+    "title": "SugarCRM",
+    "website": "'https://www.sugarcrm.com/'",
+    "links": {
+        "facebook": "'https://facebook.com/sugarcrm'",
+        "linkedin": "'https://linkedin.com/company/sugarcrm'",
+        "twitter": "SugarCRM",
+        "wikipedia": "'https://en.wikipedia.org/wiki/SugarCRM'"
+    },
+    "logos": [],
+    "other": {
+        "logohandle": "sugarcrm",
+        "sort": "sugarcrm",
+        "youtube": "'https://youtube.com/user/DiscoverSugarCRM'"
+    }
+}

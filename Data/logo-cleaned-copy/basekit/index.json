@@ -1,0 +1,16 @@
+{
+    "title": "BaseKit",
+    "website": "'https://www.basekit.com/'",
+    "links": {
+        "facebook": "'https://facebook.com/TeamBaseKit'",
+        "linkedin": "'https://linkedin.com/company/basekit'",
+        "twitter": "basekit"
+    },
+    "logos": [],
+    "other": {
+        "blog": "'https://basekit.com/blog'",
+        "logohandle": "basekit",
+        "sort": "basekit",
+        "youtube": "'https://youtube.com/user/TeamBaseKit'"
+    }
+}

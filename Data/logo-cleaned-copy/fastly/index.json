@@ -1,0 +1,19 @@
+{
+    "title": "Fastly",
+    "website": "https://www.fastly.com/",
+    "links": {
+        "facebook": "https://www.facebook.com/FastlyCDN",
+        "github": "fastly",
+        "linkedin": "https://www.linkedin.com/company/fastly",
+        "twitter": "fastly",
+        "wikipedia": "https://en.wikipedia.org/wiki/Fastly"
+    },
+    "logos": [
+        "- fastly-icon.svg"
+    ],
+    "other": {
+        "blog": "https://www.fastly.com/blog",
+        "logohandle": "fastly",
+        "sort": "fastly"
+    }
+}

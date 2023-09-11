@@ -1,0 +1,18 @@
+{
+    "title": "codefresh",
+    "website": "https://codefresh.io/",
+    "links": {
+        "facebook": "https://www.facebook.com/codefresh.io/",
+        "linkedin": "https://www.linkedin.com/company/codefresh/",
+        "twitter": "codefresh-io"
+    },
+    "logos": [
+        "- codefreshio-ar21.svg"
+    ],
+    "other": {
+        "blog": "https://codefresh.io/blog",
+        "logohandle": "codefreshio",
+        "sort": "codefresh",
+        "youtube": "https://www.youtube.com/channel/UC9r94SY6BqN05kXPIHsDXPg"
+    }
+}

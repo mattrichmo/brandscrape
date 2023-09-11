@@ -1,0 +1,12 @@
+{
+    "title": "Diesel",
+    "website": "'https://diesel.rs/'",
+    "links": {
+        "github": "diesel-rs/diesel"
+    },
+    "logos": [],
+    "other": {
+        "logohandle": "dieselrs",
+        "sort": "diesel"
+    }
+}

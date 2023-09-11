@@ -1,0 +1,12 @@
+{
+    "title": "'Solr'",
+    "website": "'http://lucene.apache.org/solr/'",
+    "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Apache_Solr"
+    },
+    "logos": [],
+    "other": {
+        "logohandle": "apache_solr",
+        "sort": "solr"
+    }
+}

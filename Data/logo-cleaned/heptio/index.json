@@ -1,0 +1,17 @@
+{
+    "title": "Heptio",
+    "website": "'https://heptio.com/'",
+    "links": {
+        "facebook": "'https://facebook.com/heptio'",
+        "github": "heptio",
+        "linkedin": "'https://linkedin.com/company/heptio'",
+        "twitter": "heptio"
+    },
+    "logos": [],
+    "other": {
+        "blog": "'https://blog.heptio.com/'",
+        "logohandle": "heptio",
+        "sort": "heptio",
+        "youtube": "'https://youtube.com/heptio'"
+    }
+}

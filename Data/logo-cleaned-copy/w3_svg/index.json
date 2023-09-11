@@ -1,0 +1,20 @@
+{
+    "title": "SVG",
+    "website": "https://www.w3.org/Graphics/SVG/",
+    "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Scalable_Vector_Graphics"
+    },
+    "logos": [
+        "- w3_svg-icon.svg"
+    ],
+    "other": {
+        "colors": "",
+        "font": "",
+        "myfonts": "null",
+        "name": "null",
+        "url": "null",
+        "guide": "https://www.w3.org/2009/08/svg-logos.html",
+        "logohandle": "w3_svg",
+        "sort": "svg"
+    }
+}

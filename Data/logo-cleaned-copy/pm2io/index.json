@@ -1,0 +1,13 @@
+{
+    "title": "PM2",
+    "website": "'https://pm2.io/'",
+    "links": {
+        "github": "unitech/pm2"
+    },
+    "logos": [],
+    "other": {
+        "blog": "'https://blog.pm2.io/'",
+        "logohandle": "pm2io",
+        "sort": "pm2"
+    }
+}

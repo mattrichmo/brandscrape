@@ -1,0 +1,17 @@
+{
+    "title": "GQ",
+    "website": "'https://www.gq.com/'",
+    "links": {
+        "facebook": "'https://facebook.com/gq'",
+        "twitter": "gqmagazine",
+        "wikipedia": "https://en.wikipedia.org/wiki/GQ"
+    },
+    "logos": [],
+    "other": {
+        "instagram": "'https://instagram.com/gq'",
+        "logohandle": "gq",
+        "pinterest": "'https://pinterest.com/gqmagazine'",
+        "sort": "gq",
+        "youtube": "'https://youtube.com/user/gqvideos'"
+    }
+}

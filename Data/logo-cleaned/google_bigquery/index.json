@@ -1,0 +1,12 @@
+{
+    "title": "BigQuery",
+    "website": "'https://cloud.google.com/bigquery/'",
+    "links": {
+        "wikipedia": "'https://en.wikipedia.org/wiki/BigQuery'"
+    },
+    "logos": [],
+    "other": {
+        "logohandle": "google_bigquery",
+        "sort": "bigquery"
+    }
+}

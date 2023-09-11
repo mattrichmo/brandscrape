@@ -1,0 +1,18 @@
+{
+    "title": "'Algolia'",
+    "website": "'https://www.algolia.com/'",
+    "links": {
+        "facebook": "https://www.facebook.com/algolia",
+        "github": "Algolia",
+        "twitter": "Algolia",
+        "wikipedia": "https://en.wikipedia.org/wiki/Algolia"
+    },
+    "logos": [],
+    "other": {
+        "blog": "'https://blog.algolia.com/'",
+        "dribbble": "https://dribbble.com/algolia",
+        "guide": "https://www.algolia.com/press",
+        "logohandle": "algolia",
+        "sort": "algolia"
+    }
+}

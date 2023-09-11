@@ -1,0 +1,13 @@
+{
+    "title": "EditorConfig",
+    "website": "'https://editorconfig.org/'",
+    "links": {
+        "github": "editorconfig",
+        "twitter": "EditorConfig"
+    },
+    "logos": [],
+    "other": {
+        "logohandle": "editorconfig",
+        "sort": "editorconfig"
+    }
+}

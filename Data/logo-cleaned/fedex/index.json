@@ -1,0 +1,19 @@
+{
+    "title": "FedEx",
+    "website": "'https://www.fedex.com/global/choose-location.html'",
+    "links": {
+        "facebook": "'https://facebook.com/FedEx'",
+        "linkedin": "'https://linkedin.com/company/fedex'",
+        "twitter": "FedEx",
+        "wikipedia": "'https://en.wikipedia.org/wiki/FedEx'"
+    },
+    "logos": [],
+    "other": {
+        "blog": "'http://about.van.fedex.com/blog/'",
+        "instagram": "'http://www.instagram.com/fedex'",
+        "logohandle": "fedex",
+        "pinterest": "'https://www.pinterest.com/fedex'",
+        "sort": "fedex",
+        "youtube": "'https://youtube.com/fedex'"
+    }
+}

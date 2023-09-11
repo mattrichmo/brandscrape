@@ -1,0 +1,20 @@
+{
+    "title": "NGINX",
+    "website": "https://www.nginx.com/",
+    "links": {
+        "facebook": "https://www.facebook.com/nginxinc",
+        "github": "nginx",
+        "linkedin": "http://www.linkedin.com/company/nginx",
+        "twitter": "nginx",
+        "wikipedia": "https://en.wikipedia.org/wiki/Nginx"
+    },
+    "logos": [
+        "- nginx-ar21.svg"
+    ],
+    "other": {
+        "blog": "https://www.nginx.com/blog/",
+        "logohandle": "nginx",
+        "sort": "nginx",
+        "youtube": "https://www.youtube.com/user/NginxInc"
+    }
+}

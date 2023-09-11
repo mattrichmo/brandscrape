@@ -1,0 +1,17 @@
+{
+    "title": "Ceph",
+    "website": "'https://ceph.com/'",
+    "links": {
+        "facebook": "'https://facebook.com/cephstorage'",
+        "github": "ceph",
+        "twitter": "ceph"
+    },
+    "logos": [],
+    "other": {
+        "blog": "'https://ceph.com/community/blog'",
+        "googleplus": "'https://plus.google.com/+Cephstorage'",
+        "logohandle": "ceph",
+        "sort": "ceph",
+        "youtube": "'https://youtube.com/channel/UCno-Fry25FJ7B4RycCxOtfw'"
+    }
+}

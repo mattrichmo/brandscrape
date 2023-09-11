@@ -1,0 +1,18 @@
+{
+    "title": "Scala",
+    "website": "http://www.scala-lang.org/",
+    "links": {
+        "github": "scala",
+        "twitter": "scala_lang",
+        "wikipedia": "https://en.wikipedia.org/wiki/Scala_(programming_language)"
+    },
+    "logos": [
+        "- scala-lang-ar21.svg"
+    ],
+    "other": {
+        "blog": "http://www.scala-lang.org/blog/",
+        "logohandle": "scala-lang",
+        "sort": "scala",
+        "https": "//github.com/kaeawc/scala-logo/blob/master/img/logo.svg"
+    }
+}

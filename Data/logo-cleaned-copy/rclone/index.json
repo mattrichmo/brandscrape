@@ -1,0 +1,12 @@
+{
+    "title": "rclone",
+    "website": "'https://rclone.org/'",
+    "links": {
+        "github": "rclone/rclone"
+    },
+    "logos": [],
+    "other": {
+        "logohandle": "rclone",
+        "sort": "rclone"
+    }
+}

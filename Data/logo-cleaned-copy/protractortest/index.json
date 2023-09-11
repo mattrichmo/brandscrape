@@ -1,0 +1,13 @@
+{
+    "title": "Protractor",
+    "website": "'https://www.protractortest.org/'",
+    "links": {
+        "github": "angular/protractor",
+        "twitter": "ProtractorTest"
+    },
+    "logos": [],
+    "other": {
+        "logohandle": "protractortest",
+        "sort": "protractor"
+    }
+}

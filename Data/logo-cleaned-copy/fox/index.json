@@ -1,0 +1,13 @@
+{
+    "title": "FOX",
+    "website": "'https://www.fox.com/'",
+    "links": {
+        "facebook": "'https://facebook.com/FOXTV'",
+        "twitter": "FOXTV"
+    },
+    "logos": [],
+    "other": {
+        "logohandle": "fox",
+        "sort": "fox"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "title": "Stylus",
+    "website": "'http://stylus-lang.com/'",
+    "links": {
+        "github": "stylus/stylus"
+    },
+    "logos": [],
+    "other": {
+        "logohandle": "stylus-lang",
+        "sort": "stylus"
+    }
+}

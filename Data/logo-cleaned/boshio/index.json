@@ -1,0 +1,12 @@
+{
+    "title": "Bosh",
+    "website": "'https://bosh.io/'",
+    "links": {
+        "github": "cloudfoundry/bosh"
+    },
+    "logos": [],
+    "other": {
+        "logohandle": "boshio",
+        "sort": "bosh"
+    }
+}

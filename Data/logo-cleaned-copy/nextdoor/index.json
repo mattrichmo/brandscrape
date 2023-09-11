@@ -1,0 +1,13 @@
+{
+    "title": "Nextdoor",
+    "website": "'https://nextdoor.com/'",
+    "links": {
+        "wikipedia": "'https://en.wikipedia.org/wiki/Nextdoor'"
+    },
+    "logos": [],
+    "other": {
+        "blog": "'https://blog.nextdoor.com/'",
+        "logohandle": "nextdoor",
+        "sort": "nextdoor"
+    }
+}

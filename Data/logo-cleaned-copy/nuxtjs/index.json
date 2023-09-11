@@ -1,0 +1,14 @@
+{
+    "title": "Nuxt.js",
+    "website": "'https://nuxtjs.org/'",
+    "links": {
+        "github": "nuxt",
+        "twitter": "nuxt_js",
+        "wikipedia": "'https://en.wikipedia.org/wiki/Nuxt.js'"
+    },
+    "logos": [],
+    "other": {
+        "logohandle": "nuxtjs",
+        "sort": "nuxtjs"
+    }
+}

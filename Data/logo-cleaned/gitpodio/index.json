@@ -1,0 +1,15 @@
+{
+    "title": "Gitpod",
+    "website": "'https://www.gitpod.io/'",
+    "links": {
+        "github": "gitpod-io/gitpod",
+        "twitter": "gitpodio"
+    },
+    "logos": [],
+    "other": {
+        "blog": "'https://medium.com/gitpod'",
+        "logohandle": "gitpodio",
+        "sort": "gitpod",
+        "youtube": "'https://youtube.com/channel/UCK9Zf-orAitifVR6-e6lNSg'"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "title": "Bamboo",
+    "website": "'https://www.atlassian.com/software/bamboo'",
+    "links": {},
+    "logos": [],
+    "other": {
+        "logohandle": "atlassian_bamboo",
+        "sort": "bamboo"
+    }
+}

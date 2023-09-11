@@ -1,0 +1,15 @@
+{
+    "title": "Postman",
+    "website": "'https://www.getpostman.com/'",
+    "links": {
+        "linkedin": "'https://linkedin.com/company/postman-api-tools-'",
+        "twitter": "postmanclient"
+    },
+    "logos": [],
+    "other": {
+        "blog": "'http://blog.getpostman.com/'",
+        "logohandle": "getpostman",
+        "sort": "getpostman",
+        "youtube": "'https://youtube.com/iframe_api'"
+    }
+}

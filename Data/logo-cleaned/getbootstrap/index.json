@@ -1,0 +1,17 @@
+{
+    "title": "Bootstrap",
+    "website": "http://getbootstrap.com/",
+    "links": {
+        "github": "twbs/bootstrap",
+        "twitter": "getbootstrap"
+    },
+    "logos": [
+        "- getbootstrap-icon.svg"
+    ],
+    "other": {
+        "blog": "https://blog.getbootstrap.com/",
+        "logohandle": "getbootstrap",
+        "sort": "bootstrap",
+        "tags": ""
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "title": "Amazon.com",
+    "website": "https://www.amazon.com/",
+    "links": {
+        "facebook": "https://www.facebook.com/amazon",
+        "github": "amzn",
+        "twitter": "amazon",
+        "wikipedia": "https://en.wikipedia.org/wiki/Amazon.com"
+    },
+    "logos": [
+        "- amazon-icon.svg"
+    ],
+    "other": {
+        "colors": "",
+        "logohandle": "amazon",
+        "pinterest": "https://www.pinterest.com/amazon",
+        "sort": "amazon",
+        "tags": ""
+    }
+}

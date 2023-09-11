@@ -1,0 +1,14 @@
+{
+    "title": "Istio",
+    "website": "'https://istio.io/'",
+    "links": {
+        "github": "istio/istio",
+        "twitter": "IstioMesh"
+    },
+    "logos": [],
+    "other": {
+        "logohandle": "istioio",
+        "sort": "istio",
+        "stackoverflow": "https://stackoverflow.com/questions/tagged/istio"
+    }
+}

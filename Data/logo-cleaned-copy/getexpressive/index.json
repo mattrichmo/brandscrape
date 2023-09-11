@@ -1,0 +1,13 @@
+{
+    "title": "Expressive",
+    "website": "'https://getexpressive.org/'",
+    "links": {
+        "github": "zendframework/zend-expressive",
+        "twitter": "zfdevteam"
+    },
+    "logos": [],
+    "other": {
+        "logohandle": "getexpressive",
+        "sort": "getexpressive"
+    }
+}

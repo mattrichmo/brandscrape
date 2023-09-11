@@ -1,0 +1,17 @@
+{
+    "title": "Joyent",
+    "website": "'https://www.joyent.com/'",
+    "links": {
+        "facebook": "'https://facebook.com/joyentcloud'",
+        "github": "joyent",
+        "linkedin": "'http://linkedin.com/company/joyent'",
+        "twitter": "joyent"
+    },
+    "logos": [],
+    "other": {
+        "googleplus": "'https://plus.google.com/116067599577083513668'",
+        "instagram": "'https://instagram.com/joyenttriton'",
+        "logohandle": "joyent",
+        "sort": "joyent"
+    }
+}

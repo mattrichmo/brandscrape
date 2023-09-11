@@ -1,0 +1,13 @@
+{
+    "title": "Jasmine",
+    "website": "'https://jasmine.github.io/'",
+    "links": {
+        "github": "jasmine/jasmine"
+    },
+    "logos": [],
+    "other": {
+        "guide": "'https://github.com/jasmine/jasmine.github.io/tree/master/images'",
+        "logohandle": "jasmine",
+        "sort": "jasmine"
+    }
+}

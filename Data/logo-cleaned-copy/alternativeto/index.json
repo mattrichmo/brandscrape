@@ -1,0 +1,18 @@
+{
+    "title": "AlternativeTo",
+    "website": "https://alternativeto.net/",
+    "links": {
+        "facebook": "https://www.facebook.com/AlternativeTo",
+        "twitter": "alternativeto",
+        "wikipedia": "https://en.wikipedia.org/wiki/AlternativeTo"
+    },
+    "logos": [
+        "- alternativeto-icon.svg"
+    ],
+    "other": {
+        "blog": "https://blog.alternativeto.net/",
+        "googleplus": "https://plus.google.com/+alternativeto",
+        "logohandle": "alternativeto",
+        "sort": "alternativeto"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "title": "DomainConnect",
+    "website": "'https://www.domainconnect.org/'",
+    "links": {
+        "github": "Domain-Connect"
+    },
+    "logos": [],
+    "other": {
+        "guide": "https://github.com/Domain-Connect/assets",
+        "logohandle": "domainconnect",
+        "sort": "domainconnect"
+    }
+}

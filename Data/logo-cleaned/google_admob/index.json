@@ -1,0 +1,14 @@
+{
+    "title": "Google AdMob",
+    "website": "'https://www.google.com/admob/'",
+    "links": {
+        "twitter": "admob",
+        "wikipedia": "'https://en.wikipedia.org/wiki/AdMob'"
+    },
+    "logos": [],
+    "other": {
+        "logohandle": "google_admob",
+        "sort": "admob",
+        "youtube": "'https://www.youtube.com/channel/UCLHibHBWfeKWJwqQpJfCEuA'"
+    }
+}

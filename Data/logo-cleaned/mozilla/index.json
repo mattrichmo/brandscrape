@@ -1,0 +1,20 @@
+{
+    "title": "Mozilla",
+    "website": "https://www.mozilla.org/",
+    "links": {
+        "facebook": "https://www.facebook.com/mozilla",
+        "github": "mozilla",
+        "twitter": "mozilla",
+        "wikipedia": "https://en.wikipedia.org/wiki/Mozilla"
+    },
+    "logos": [
+        "- mozilla-icon.svg"
+    ],
+    "other": {
+        "blog": "https://blog.mozilla.org/",
+        "guide": "https://mozilla.ninja/mlogo",
+        "logohandle": "mozilla",
+        "sort": "mozilla",
+        "tags": ""
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "title": "Sensu",
+    "website": "'https://sensu.io/'",
+    "links": {
+        "github": "sensu",
+        "twitter": "sensu"
+    },
+    "logos": [],
+    "other": {
+        "blog": "'https://blog.sensu.io/'",
+        "logohandle": "sensuio",
+        "sort": "sensu"
+    }
+}

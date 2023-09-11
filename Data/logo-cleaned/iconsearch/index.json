@@ -1,0 +1,18 @@
+{
+    "title": "IconSear.ch",
+    "website": "https://iconsear.ch//",
+    "links": {
+        "github": "VectorLogoZone/LogoSearch"
+    },
+    "logos": [
+        "- iconsearch-ar21.svg"
+    ],
+    "other": {
+        "font": "",
+        "google": "https://fonts.google.com/specimen/Noticia+Text",
+        "name": "Noticia Text",
+        "logohandle": "iconsearch",
+        "sort": "iconsearch",
+        "tags": ""
+    }
+}

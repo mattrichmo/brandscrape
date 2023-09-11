@@ -1,0 +1,16 @@
+{
+    "title": "Treasure Data",
+    "website": "'https://www.treasuredata.com/'",
+    "links": {
+        "facebook": "'https://facebook.com/TreasureData'",
+        "github": "treasure-data",
+        "linkedin": "'https://linkedin.com/company/treasure-data-inc-'",
+        "twitter": "TreasureData"
+    },
+    "logos": [],
+    "other": {
+        "blog": "'https://blog.treasuredata.com/'",
+        "logohandle": "treasuredata",
+        "sort": "treasuredata"
+    }
+}

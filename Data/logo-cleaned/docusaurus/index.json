@@ -1,0 +1,16 @@
+{
+    "title": "docusaurus",
+    "website": "https://docusaurus.io/",
+    "links": {
+        "github": "facebook/docusaurus"
+    },
+    "logos": [
+        "- docusaurus-icon.svg"
+    ],
+    "other": {
+        "blog": "http://docusaurus.io/blog",
+        "guide": "https://github.com/facebook/Docusaurus/tree/master/website/static/img",
+        "logohandle": "docusaurus",
+        "sort": "docusaurus"
+    }
+}

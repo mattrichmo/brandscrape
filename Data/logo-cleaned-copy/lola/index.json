@@ -1,0 +1,16 @@
+{
+    "title": "Lola.com",
+    "website": "'https://www.lola.com/'",
+    "links": {
+        "facebook": "'https://facebook.com/LolaTravelCo'",
+        "linkedin": "'https://linkedin.com/company/lolatravel'",
+        "twitter": "LolaTravel"
+    },
+    "logos": [],
+    "other": {
+        "blog": "'https://lola.com/blog'",
+        "instagram": "'https://instagram.com/lolatravel'",
+        "logohandle": "lola",
+        "sort": "lola"
+    }
+}

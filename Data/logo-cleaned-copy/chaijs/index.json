@@ -1,0 +1,13 @@
+{
+    "title": "Chai",
+    "website": "'https://www.chaijs.com/'",
+    "links": {
+        "github": "chaijs/chai"
+    },
+    "logos": [],
+    "other": {
+        "guide": "'https://github.com/chaijs/chaijs.github.io/tree/master/img'",
+        "logohandle": "chaijs",
+        "sort": "chai"
+    }
+}

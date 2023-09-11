@@ -1,0 +1,19 @@
+{
+    "title": "Inc.",
+    "website": "'https://www.inc.com/'",
+    "links": {
+        "facebook": "'https://facebook.com/Inc'",
+        "linkedin": "'https://linkedin.com/company/inc--magazine'",
+        "twitter": "inc",
+        "wikipedia": "https://en.wikipedia.org/wiki/Inc._(magazine)"
+    },
+    "logos": [],
+    "other": {
+        "googleplus": "'https://plus.google.com/101053931292824178985'",
+        "instagram": "'https://instagram.com/incmagazine'",
+        "logohandle": "inc",
+        "pinterest": "'https://pinterest.com/incmagazine'",
+        "sort": "inc",
+        "youtube": "'http://youtube.com/user/incmagazine?sub_confirmation=1'"
+    }
+}

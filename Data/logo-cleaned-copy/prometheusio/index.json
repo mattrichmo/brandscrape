@@ -1,0 +1,14 @@
+{
+    "title": "Prometheus",
+    "website": "'https://prometheus.io/'",
+    "links": {
+        "github": "prometheus",
+        "twitter": "PrometheusIO"
+    },
+    "logos": [],
+    "other": {
+        "blog": "'https://prometheus.io/blog/'",
+        "logohandle": "prometheusio",
+        "sort": "prometheus"
+    }
+}

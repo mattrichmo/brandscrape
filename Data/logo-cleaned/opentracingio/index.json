@@ -1,0 +1,14 @@
+{
+    "title": "The OpenTracing project",
+    "website": "'https://opentracing.io/'",
+    "links": {
+        "github": "opentracing",
+        "twitter": "opentracing"
+    },
+    "logos": [],
+    "other": {
+        "blog": "'https://medium.com/opentracing'",
+        "logohandle": "opentracingio",
+        "sort": "opentracing"
+    }
+}

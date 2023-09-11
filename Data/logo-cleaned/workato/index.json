@@ -1,0 +1,18 @@
+{
+    "title": "Workato",
+    "website": "https://www.workato.com/",
+    "links": {
+        "facebook": "http://facebook.com/workato",
+        "linkedin": "http://linkedin.com/company/workato",
+        "twitter": "workato",
+        "wikipedia": "https://en.wikipedia.org/wiki/Workato"
+    },
+    "logos": [
+        "- workato-tile.svg"
+    ],
+    "other": {
+        "blog": "http://blog.workato.com/",
+        "logohandle": "workato",
+        "sort": "workato"
+    }
+}

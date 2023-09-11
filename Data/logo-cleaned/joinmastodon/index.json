@@ -1,0 +1,14 @@
+{
+    "title": "Mastodon Project",
+    "website": "https://joinmastodon.org/",
+    "links": {
+        "github": "tootsuite/mastodon"
+    },
+    "logos": [
+        "- joinmastodon-tile.svg"
+    ],
+    "other": {
+        "logohandle": "joinmastodon",
+        "sort": "mastodon"
+    }
+}

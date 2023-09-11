@@ -1,0 +1,15 @@
+{
+    "title": "'IDC'",
+    "website": "'https://www.idc.com/'",
+    "links": {
+        "linkedin": "'https://linkedin.com/company-beta/3386'",
+        "twitter": "IDC",
+        "wikipedia": "https://en.wikipedia.org/wiki/International_Data_Corporation"
+    },
+    "logos": [],
+    "other": {
+        "logohandle": "idc",
+        "sort": "idc",
+        "youtube": "https://www.youtube.com/channel/UCpC5zQ9_aahVgIB4q9LaC0g"
+    }
+}

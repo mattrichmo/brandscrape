@@ -1,0 +1,14 @@
+{
+    "title": "Crossbar.io",
+    "website": "'https://crossbar.io/'",
+    "links": {
+        "github": "crossbario/crossbar",
+        "twitter": "crossbario"
+    },
+    "logos": [],
+    "other": {
+        "blog": "'http://crossbario.com/blog'",
+        "logohandle": "crossbario",
+        "sort": "crossbar"
+    }
+}

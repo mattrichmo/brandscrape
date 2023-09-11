@@ -1,0 +1,16 @@
+{
+    "title": "Ghostery",
+    "website": "'https://www.ghostery.com/'",
+    "links": {
+        "facebook": "'https://facebook.com/ghostery'",
+        "twitter": "Ghostery",
+        "wikipedia": "'https://en.wikipedia.org/wiki/Ghostery'"
+    },
+    "logos": [],
+    "other": {
+        "blog": "'https://ghostery.com/blog'",
+        "instagram": "'https://instagram.com/ghosterygram'",
+        "logohandle": "ghostery",
+        "sort": "ghostery"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "title": "ESLint",
+    "website": "'https://eslint.org/'",
+    "links": {
+        "github": "eslint/eslint",
+        "twitter": "geteslint"
+    },
+    "logos": [],
+    "other": {
+        "blog": "'https://eslint.org/blog'",
+        "logohandle": "eslint",
+        "sort": "eslint"
+    }
+}

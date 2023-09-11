@@ -1,0 +1,18 @@
+{
+    "title": "Wire",
+    "website": "https://wire.com/en/",
+    "links": {
+        "facebook": "https://facebook.com/wire",
+        "github": "wireapp/wire",
+        "linkedin": "https://linkedin.com/company/4836762",
+        "twitter": "wire",
+        "wikipedia": "https://en.wikipedia.org/wiki/Wire_(software)"
+    },
+    "logos": [
+        "- wire-tile.svg"
+    ],
+    "other": {
+        "logohandle": "wire",
+        "sort": "wire"
+    }
+}

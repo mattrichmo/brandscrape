@@ -1,0 +1,17 @@
+{
+    "title": "Verisign",
+    "website": "'https://www.verisign.com/'",
+    "links": {
+        "facebook": "'https://facebook.com/Verisign'",
+        "linkedin": "'http://linkedin.com/company/verisign'",
+        "twitter": "VERISIGN",
+        "wikipedia": "'https://en.wikipedia.org/wiki/Verisign'"
+    },
+    "logos": [],
+    "other": {
+        "blog": "'https://blog.verisign.com/'",
+        "logohandle": "verisign",
+        "pinterest": "'https://pinterest.com/verisign'",
+        "sort": "verisign"
+    }
+}

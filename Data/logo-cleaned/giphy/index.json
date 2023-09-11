@@ -1,0 +1,18 @@
+{
+    "title": "GIPHY",
+    "website": "https://giphy.com/",
+    "links": {
+        "facebook": "http://www.facebook.com/GIPHY",
+        "twitter": "giphy",
+        "wikipedia": "https://en.wikipedia.org/wiki/Giphy"
+    },
+    "logos": [
+        "- giphy-icon.svg"
+    ],
+    "other": {
+        "blog": "https://engineering.giphy.com/blog/",
+        "instagram": "httpw://www.instagram.com/giphy/",
+        "logohandle": "giphy",
+        "sort": "giphy"
+    }
+}

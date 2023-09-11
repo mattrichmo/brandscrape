@@ -1,0 +1,18 @@
+{
+    "title": "comcast",
+    "website": "https://corporate.comcast.com/",
+    "links": {
+        "facebook": "https://www.facebook.com/comcast",
+        "github": "comcast",
+        "twitter": "comcast",
+        "wikipedia": "https://en.wikipedia.org/wiki/Comcast"
+    },
+    "logos": [
+        "- comcast-icon.svg"
+    ],
+    "other": {
+        "blog": "https://corporate.comcast.com/press",
+        "logohandle": "comcast",
+        "sort": "comcast"
+    }
+}

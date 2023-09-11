@@ -1,0 +1,19 @@
+{
+    "title": "Yeoman",
+    "website": "http://yeoman.io/",
+    "links": {
+        "github": "yeoman",
+        "twitter": "yeoman",
+        "wikipedia": "https://en.wikipedia.org/wiki/Yeoman_(software)"
+    },
+    "logos": [
+        "- yeoman-official.svg"
+    ],
+    "other": {
+        "blog": "http://yeoman.io/blog/",
+        "guide": "https://github.com/yeoman/media",
+        "logohandle": "yeoman",
+        "sort": "yeoman",
+        "tags": ""
+    }
+}

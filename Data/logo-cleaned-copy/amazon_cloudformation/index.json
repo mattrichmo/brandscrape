@@ -1,0 +1,10 @@
+{
+    "title": "CloudFormation",
+    "website": "'https://aws.amazon.com/cloudformation/'",
+    "links": {},
+    "logos": [],
+    "other": {
+        "logohandle": "amazon_cloudformation",
+        "sort": "cloudformation"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "title": "Socket.IO",
+    "website": "'https://socket.io/'",
+    "links": {
+        "github": "socketio/socket.io",
+        "twitter": "SocketIO"
+    },
+    "logos": [],
+    "other": {
+        "blog": "'https://codeinwp.com/blog'",
+        "logohandle": "socketio",
+        "slack": "'https://slackin-socketio.now.sh/'",
+        "sort": "socketio"
+    }
+}

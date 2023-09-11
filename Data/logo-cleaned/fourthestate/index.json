@@ -1,0 +1,17 @@
+{
+    "title": "Fourth Estate",
+    "website": "'https://www.fourthestate.org/'",
+    "links": {
+        "linkedin": "'https://linkedin.com/company/fourth-estate-public-benefit-corporation'",
+        "twitter": "FourthEstateOrg"
+    },
+    "logos": [],
+    "other": {
+        "blog": "'https://connect.fourthestate.org/'",
+        "logohandle": "fourthestate",
+        "other": "",
+        "name": "mastodon",
+        "url": "'https://fourthestate.social/'",
+        "sort": "fourthestate"
+    }
+}

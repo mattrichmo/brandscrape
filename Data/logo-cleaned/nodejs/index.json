@@ -1,0 +1,19 @@
+{
+    "title": "Node.js",
+    "website": "https://nodejs.org/",
+    "links": {
+        "github": "nodejs",
+        "twitter": "nodejs",
+        "wikipedia": "https://en.wikipedia.org/wiki/Node.js"
+    },
+    "logos": [
+        "- nodejs-icon.svg"
+    ],
+    "other": {
+        "blog": "https://nodejs.org/en/blog/",
+        "guide": "'https://github.com/nodejs/nodejs.org/tree/master/static/images'",
+        "logohandle": "nodejs",
+        "sort": "node.js",
+        "tags": ""
+    }
+}

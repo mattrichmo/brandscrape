@@ -1,0 +1,15 @@
+{
+    "title": "Automattic",
+    "website": "'https://automattic.com/'",
+    "links": {
+        "facebook": "'https://facebook.com/AutomatticInc'",
+        "twitter": "automattic",
+        "wikipedia": "'https://en.wikipedia.org/wiki/Automattic'"
+    },
+    "logos": [],
+    "other": {
+        "logohandle": "automattic",
+        "sort": "automattic",
+        "youtube": "'https://youtube.com/c/automattic'"
+    }
+}

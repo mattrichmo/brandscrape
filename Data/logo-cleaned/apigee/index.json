@@ -1,0 +1,14 @@
+{
+    "title": "Apigee",
+    "website": "'https://apigee.com/'",
+    "links": {
+        "facebook": "'https://www.facebook.com/apigee'",
+        "linkedin": "'https://linkedin.com/company/apigee'",
+        "twitter": "apigee"
+    },
+    "logos": [],
+    "other": {
+        "logohandle": "apigee",
+        "sort": "apigee"
+    }
+}

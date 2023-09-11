@@ -1,0 +1,16 @@
+{
+    "title": "UnitedHealth Group",
+    "website": "'https://www.unitedhealthgroup.com/'",
+    "links": {
+        "facebook": "'https://facebook.com/unitedhealthgroup'",
+        "linkedin": "'https://linkedin.com/company/unitedhealth-group'",
+        "twitter": "UnitedHealthGrp",
+        "wikipedia": "'https://en.wikipedia.org/wiki/UnitedHealth_Group'"
+    },
+    "logos": [],
+    "other": {
+        "logohandle": "unitedhealthgroup",
+        "sort": "unitedhealthgroup",
+        "youtube": "'https://youtube.com/user/UnitedHealthGroup'"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "title": "Zcash",
+    "website": "'https://z.cash/'",
+    "links": {
+        "github": "zcash/zcash",
+        "twitter": "zcashco",
+        "wikipedia": "'https://en.wikipedia.org/wiki/Zcash'"
+    },
+    "logos": [],
+    "other": {
+        "blog": "'https://blog.z.cash/'",
+        "logohandle": "zcash",
+        "sort": "zcash"
+    }
+}

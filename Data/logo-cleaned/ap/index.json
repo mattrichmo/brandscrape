@@ -1,0 +1,17 @@
+{
+    "title": "Associated Press",
+    "website": "'https://www.ap.org/en-us/'",
+    "links": {
+        "facebook": "'https://facebook.com/APNews'",
+        "linkedin": "'https://linkedin.com/company/associated-press'",
+        "twitter": "AP",
+        "wikipedia": "https://en.wikipedia.org/wiki/Associated_Press"
+    },
+    "logos": [],
+    "other": {
+        "blog": "'https://blog.ap.org/'",
+        "logohandle": "ap",
+        "sort": "ap",
+        "youtube": "'https://youtube.com/ap'"
+    }
+}

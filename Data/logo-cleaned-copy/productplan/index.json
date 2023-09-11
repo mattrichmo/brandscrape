@@ -1,0 +1,18 @@
+{
+    "title": "ProductPlan",
+    "website": "'https://www.productplan.com/'",
+    "links": {
+        "facebook": "'https://facebook.com/productplan'",
+        "linkedin": "'https://linkedin.com/company/productplan'",
+        "twitter": "productplan"
+    },
+    "logos": [],
+    "other": {
+        "blog": "'https://productplan.com/blog'",
+        "googleplus": "'https://plus.google.com/+Productplan'",
+        "instagram": "'http://instagram.com/'",
+        "logohandle": "productplan",
+        "sort": "productplan",
+        "youtube": "'https://youtube.com/channel/UCKsDEo4_LJQ7WuzX184CEzw'"
+    }
+}

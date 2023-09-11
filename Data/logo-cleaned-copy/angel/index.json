@@ -1,0 +1,20 @@
+{
+    "title": "AngelList",
+    "website": "https://angel.co/",
+    "links": {
+        "facebook": "https://www.facebook.com/angellist/",
+        "github": "AngelList",
+        "linkedin": "https://www.linkedin.com/company/angellist",
+        "twitter": "angellist",
+        "wikipedia": "https://en.wikipedia.org/wiki/AngelList"
+    },
+    "logos": [
+        "- angel-ar21.svg"
+    ],
+    "other": {
+        "blog": "https://blog.angel.co/",
+        "colors": "",
+        "logohandle": "angel",
+        "sort": "angellist"
+    }
+}

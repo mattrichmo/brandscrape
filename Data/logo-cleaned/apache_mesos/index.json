@@ -1,0 +1,13 @@
+{
+    "title": "Apache Mesos",
+    "website": "'http://mesos.apache.org/'",
+    "links": {
+        "twitter": "ApacheMesos",
+        "wikipedia": "'https://en.wikipedia.org/wiki/Apache_Mesos'"
+    },
+    "logos": [],
+    "other": {
+        "logohandle": "apache_mesos",
+        "sort": "mesos"
+    }
+}

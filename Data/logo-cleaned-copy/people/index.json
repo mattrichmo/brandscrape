@@ -1,0 +1,17 @@
+{
+    "title": "'PEOPLE'",
+    "website": "'https://people.com/'",
+    "links": {
+        "facebook": "'https://facebook.com/peoplemag'",
+        "twitter": "people",
+        "wikipedia": "https://en.wikipedia.org/wiki/People_(magazine)"
+    },
+    "logos": [],
+    "other": {
+        "instagram": "'https://instagram.com/people'",
+        "logohandle": "people",
+        "pinterest": "'https://pinterest.com/people'",
+        "sort": "people",
+        "youtube": "'https://youtube.com/user/people'"
+    }
+}

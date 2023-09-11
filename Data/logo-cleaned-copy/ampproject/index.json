@@ -1,0 +1,20 @@
+{
+    "title": "AMP",
+    "website": "https://www.ampproject.org/",
+    "links": {
+        "github": "ampproject",
+        "twitter": "AMPhtml",
+        "wikipedia": "https://en.wikipedia.org/wiki/Accelerated_Mobile_Pages"
+    },
+    "logos": [
+        "- ampproject-ar21.svg"
+    ],
+    "other": {
+        "blog": "https://amphtml.wordpress.com/",
+        "colors": "['#0379C4']",
+        "guide": "https://github.com/ampproject/docs/blob/master/assets/img/icons/",
+        "logohandle": "ampproject",
+        "sort": "amp",
+        "youtube": "https://youtube.com/TheAMPProject"
+    }
+}

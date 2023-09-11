@@ -1,0 +1,13 @@
+{
+    "title": "Mullvad",
+    "website": "'https://mullvad.net/en/'",
+    "links": {
+        "facebook": "'https://facebook.com/Mullvad-VPN-195453231230215'",
+        "twitter": "mullvadnet"
+    },
+    "logos": [],
+    "other": {
+        "logohandle": "mullvadnet",
+        "sort": "mullvad"
+    }
+}

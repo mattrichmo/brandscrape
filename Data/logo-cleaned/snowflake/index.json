@@ -1,0 +1,16 @@
+{
+    "title": "Snowflake",
+    "website": "'https://www.snowflake.com/'",
+    "links": {
+        "facebook": "'https://facebook.com/Snowflake-Computing-709171695819345'",
+        "linkedin": "'https://linkedin.com/company/3653845'",
+        "twitter": "SnowflakeDB"
+    },
+    "logos": [],
+    "other": {
+        "blog": "'https://snowflake.com/blog'",
+        "logohandle": "snowflake",
+        "sort": "snowflake",
+        "youtube": "'https://youtube.com/user/snowflakecomputing'"
+    }
+}

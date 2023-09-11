@@ -1,0 +1,18 @@
+{
+    "title": "Rolling Stone",
+    "website": "'https://www.rollingstone.com/'",
+    "links": {
+        "facebook": "'https://facebook.com/RollingStone'",
+        "twitter": "RollingStone",
+        "wikipedia": "https://en.wikipedia.org/wiki/Rolling_Stone"
+    },
+    "logos": [],
+    "other": {
+        "googleplus": "'https://plus.google.com/+RollingStone/posts'",
+        "instagram": "'https://instagram.com/rollingstone'",
+        "logohandle": "rollingstone",
+        "pinterest": "'https://pinterest.com/rollingstone'",
+        "sort": "rollingstone",
+        "youtube": "'https://youtube.com/user/RollingStone'"
+    }
+}

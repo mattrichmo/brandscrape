@@ -1,0 +1,13 @@
+{
+    "title": "Tailwind CSS",
+    "website": "'https://tailwindcss.com/'",
+    "links": {
+        "github": "tailwindcss/tailwindcss",
+        "twitter": "tailwindcss"
+    },
+    "logos": [],
+    "other": {
+        "logohandle": "tailwindcss",
+        "sort": "tailwindcss"
+    }
+}

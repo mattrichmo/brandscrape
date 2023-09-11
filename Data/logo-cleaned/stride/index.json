@@ -1,0 +1,16 @@
+{
+    "title": "Stride",
+    "website": "'https://www.stride.com/'",
+    "links": {
+        "facebook": "'https://facebook.com/Atlassian'",
+        "twitter": "atlassianstride",
+        "wikipedia": "https://en.wikipedia.org/wiki/Stride_(software)"
+    },
+    "logos": [],
+    "other": {
+        "blog": "'https://stride.com/blog'",
+        "logohandle": "stride",
+        "sort": "stride",
+        "youtube": "'https://youtube.com/user/GoAtlassian'"
+    }
+}

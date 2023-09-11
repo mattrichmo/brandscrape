@@ -1,0 +1,17 @@
+{
+    "title": "ImageMagick",
+    "website": "https://www.imagemagick.org/",
+    "links": {
+        "github": "ImageMagick",
+        "twitter": "ImageMagick",
+        "wikipedia": "https://en.wikipedia.org/wiki/ImageMagick"
+    },
+    "logos": [
+        "- imagemagick-ar21.svg"
+    ],
+    "other": {
+        "logohandle": "imagemagick",
+        "sort": "imagemagick",
+        "tags": ""
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "title": "GDAL",
+    "website": "'https://www.gdal.org/'",
+    "links": {
+        "wikipedia": "'https://en.wikipedia.org/wiki/GDAL'"
+    },
+    "logos": [],
+    "other": {
+        "logohandle": "gdal",
+        "sort": "gdal"
+    }
+}

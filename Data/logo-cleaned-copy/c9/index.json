@@ -1,0 +1,19 @@
+{
+    "title": "Cloud9",
+    "website": "https://c9.io/",
+    "links": {
+        "facebook": "https://www.facebook.com/Cloud9IDE",
+        "github": "c9",
+        "twitter": "cloud9ide",
+        "wikipedia": "https://en.wikipedia.org/wiki/Cloud9_IDE"
+    },
+    "logos": [
+        "- c9-ar21.svg"
+    ],
+    "other": {
+        "blog": "https://c9.io/blog",
+        "colors": "['#00A8E9']",
+        "logohandle": "c9",
+        "sort": "cloud9"
+    }
+}

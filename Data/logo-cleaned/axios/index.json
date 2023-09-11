@@ -1,0 +1,13 @@
+{
+    "title": "Axios",
+    "website": "'https://www.axios.com/'",
+    "links": {
+        "twitter": "share",
+        "wikipedia": "https://en.wikipedia.org/wiki/Axios_(website)"
+    },
+    "logos": [],
+    "other": {
+        "logohandle": "axios",
+        "sort": "axios"
+    }
+}

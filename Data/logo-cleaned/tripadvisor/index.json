@@ -1,0 +1,26 @@
+{
+    "title": "TripAdvisor",
+    "website": "https://www.tripadvisor.com/",
+    "links": {
+        "facebook": "https://www.facebook.com/TripAdvisor",
+        "github": "tripadvisor",
+        "linkedin": "https://www.linkedin.com/company/15027/",
+        "twitter": "TripAdvisor",
+        "wikipedia": "https://en.wikipedia.org/wiki/TripAdvisor"
+    },
+    "logos": [
+        "- tripadvisor-icon.svg"
+    ],
+    "other": {
+        "blog": "https://www.tripadvisor.com/blog/",
+        "font": "",
+        "myfonts": "https://www.myfonts.com/fonts/adobe/frutiger/roman-2/",
+        "name": "Frutiger Roman",
+        "guide": "https://www.tripadvisor.com/TripAdvisorInsights/n2716/brand-guidelines-partners",
+        "instagram": "https://www.instagram.com/tripadvisor/",
+        "logohandle": "tripadvisor",
+        "pinterest": "https://www.pinterest.com/tripadvisorus",
+        "sort": "tripadvisor",
+        "youtube": "https://www.youtube.com/user/TripAdvisor"
+    }
+}

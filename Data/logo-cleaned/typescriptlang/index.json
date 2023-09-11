@@ -1,0 +1,22 @@
+{
+    "title": "TypeScript",
+    "website": "https://www.typescriptlang.org/",
+    "links": {
+        "github": "Microsoft/TypeScript",
+        "twitter": "TypeScript",
+        "wikipedia": "https://en.wikipedia.org/wiki/TypeScript"
+    },
+    "logos": [],
+    "other": {
+        "blog": "https://devblogs.microsoft.com/typescript/",
+        "colors": "",
+        "guide": "https://www.typescriptlang.org/branding",
+        "logohandle": "typescriptlang",
+        "other": "",
+        "name": "StackOverflow",
+        "url": "https://stackoverflow.com/questions/tagged/typescript",
+        "sort": "typescript",
+        "tags": "",
+        "https": "//github.com/Microsoft/TypeScript/blob/master/doc/logo.svg"
+    }
+}

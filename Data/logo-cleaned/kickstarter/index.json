@@ -1,0 +1,18 @@
+{
+    "title": "Kickstarter",
+    "website": "'https://www.kickstarter.com/'",
+    "links": {
+        "facebook": "'https://www.facebook.com/Kickstarter/'",
+        "twitter": "kickstarter",
+        "wikipedia": "'https://en.wikipedia.org/wiki/Kickstarter'"
+    },
+    "logos": [],
+    "other": {
+        "blog": "'https://medium.com/kickstarter/'",
+        "googleplus": "'https://plus.google.com/118239121095465976293'",
+        "instagram": "'https://www.instagram.com/kickstarter/'",
+        "logohandle": "kickstarter",
+        "sort": "kickstarter",
+        "youtube": "'https://www.youtube.com/user/kickstarter'"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "title": "SAS",
+    "website": "https://www.sas.com/",
+    "links": {
+        "facebook": "https://www.facebook.com/SASsoftware",
+        "linkedin": "http://www.linkedin.com/company/sas",
+        "twitter": "SASsoftware",
+        "wikipedia": "https://en.wikipedia.org/wiki/SAS_(software)"
+    },
+    "logos": [
+        "- sas-icon.svg"
+    ],
+    "other": {
+        "blog": "https://blogs.sas.com/content/",
+        "googleplus": "https://plus.google.com/+sassoftware",
+        "logohandle": "sas",
+        "sort": "sas",
+        "youtube": "http://www.youtube.com/SASsoftware"
+    }
+}

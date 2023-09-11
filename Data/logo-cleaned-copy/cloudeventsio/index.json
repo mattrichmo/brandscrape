@@ -1,0 +1,12 @@
+{
+    "title": "CloudEvents",
+    "website": "'https://cloudevents.io/'",
+    "links": {
+        "github": "cloudevents/spec"
+    },
+    "logos": [],
+    "other": {
+        "logohandle": "cloudeventsio",
+        "sort": "cloudevents"
+    }
+}

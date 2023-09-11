@@ -1,0 +1,13 @@
+{
+    "title": "Open Access Button",
+    "website": "'https://openaccessbutton.org/'",
+    "links": {
+        "github": "oabutton",
+        "twitter": "OA_Button"
+    },
+    "logos": [],
+    "other": {
+        "logohandle": "openaccessbutton",
+        "sort": "openaccessbutton"
+    }
+}

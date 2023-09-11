@@ -1,0 +1,17 @@
+{
+    "title": "CocaCola",
+    "website": "https://www.coca-colacompany.com",
+    "links": {
+        "facebook": "https://www.facebook.com/CocaColaUnitedStates/?brand_redir=40796308305",
+        "twitter": "CocaCola",
+        "wikipedia": "https://en.wikipedia.org/wiki/Coca-Cola"
+    },
+    "logos": [
+        "- cocacola-ar21.svg"
+    ],
+    "other": {
+        "colors": "",
+        "logohandle": "cocacola",
+        "sort": "cocacola"
+    }
+}

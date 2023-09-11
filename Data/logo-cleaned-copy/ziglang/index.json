@@ -1,0 +1,14 @@
+{
+    "title": "Zig Language",
+    "website": "'https://ziglang.org/'",
+    "links": {
+        "github": "ziglang/zig"
+    },
+    "logos": [],
+    "other": {
+        "blog": "'https://blog.jfo.click/how-zig-do'",
+        "guide": "https://github.com/ziglang/logo",
+        "logohandle": "ziglang",
+        "sort": "ziglang"
+    }
+}

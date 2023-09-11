@@ -1,0 +1,17 @@
+{
+    "title": "Hibu",
+    "website": "'https://hibu.com/'",
+    "links": {
+        "facebook": "'https://facebook.com/hibuUS'",
+        "linkedin": "'https://linkedin.com/company/hibu'",
+        "twitter": "hibuus",
+        "wikipedia": "'https://en.wikipedia.org/wiki/Hibu'"
+    },
+    "logos": [],
+    "other": {
+        "blog": "'https://blog.hibu.com/'",
+        "instagram": "'https://instagram.com/hibuusa'",
+        "logohandle": "hibu",
+        "sort": "hibu"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "title": "SlideShare",
+    "website": "https://www.slideshare.net/",
+    "links": {
+        "twitter": "slideshare",
+        "wikipedia": "https://en.wikipedia.org/wiki/SlideShare"
+    },
+    "logos": [
+        "- slideshare-ar21.svg"
+    ],
+    "other": {
+        "font": "",
+        "name": "Wolf Sans",
+        "url": "https://fonts2u.com/wolf-sans-regular.font",
+        "logohandle": "slideshare",
+        "sort": "slideshare",
+        "tags": ""
+    }
+}

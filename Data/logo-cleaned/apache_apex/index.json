@@ -1,0 +1,13 @@
+{
+    "title": "Apex",
+    "website": "https://apex.apache.org/",
+    "links": {
+        "github": "apache/apex-core",
+        "twitter": "ApacheApex"
+    },
+    "logos": [],
+    "other": {
+        "logohandle": "apache_apex",
+        "sort": "apex"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "title": "Microsoft Azure",
+    "website": "https://azure.microsoft.com/en-us/",
+    "links": {
+        "facebook": "https://www.facebook.com/microsoftazure",
+        "github": "Azure",
+        "twitter": "azure",
+        "wikipedia": "https://en.wikipedia.org/wiki/Microsoft_Azure"
+    },
+    "logos": [
+        "- microsoft_azure-icon.svg"
+    ],
+    "other": {
+        "blog": "https://azure.microsoft.com/en-us/blog/",
+        "colors": "",
+        "logohandle": "microsoft_azure",
+        "sort": "azure",
+        "tags": ""
+    }
+}

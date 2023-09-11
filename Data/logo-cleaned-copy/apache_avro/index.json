@@ -1,0 +1,10 @@
+{
+    "title": "Avro",
+    "website": "'https://avro.apache.org/'",
+    "links": {},
+    "logos": [],
+    "other": {
+        "logohandle": "apache_avro",
+        "sort": "avro"
+    }
+}

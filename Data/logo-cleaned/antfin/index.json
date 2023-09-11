@@ -1,0 +1,14 @@
+{
+    "title": "Ant Financial",
+    "website": "'https://www.antfin.com/'",
+    "links": {
+        "linkedin": "'https://linkedin.com/company/167072'",
+        "twitter": "antfinancial",
+        "wikipedia": "'https://en.wikipedia.org/wiki/Ant_Financial'"
+    },
+    "logos": [],
+    "other": {
+        "logohandle": "antfin",
+        "sort": "antfin"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "title": "ACT",
+    "website": "'http://www.act.org/'",
+    "links": {
+        "facebook": "'https://facebook.com/theacttest'",
+        "linkedin": "'https://linkedin.com/company/act'",
+        "twitter": "ACTStudent"
+    },
+    "logos": [],
+    "other": {
+        "instagram": "'https://instagram.com/actstudent'",
+        "logohandle": "act",
+        "sort": "act",
+        "youtube": "'https://youtube.com/user/TheACTTest'"
+    }
+}

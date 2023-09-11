@@ -1,0 +1,15 @@
+{
+    "title": "CoffeeScript",
+    "website": "'https://coffeescript.org/'",
+    "links": {
+        "github": "jashkenas/coffeescript",
+        "wikipedia": "https://en.wikipedia.org/wiki/CoffeeScript"
+    },
+    "logos": [],
+    "other": {
+        "blog": "'http://blog.tlrobinson.net/'",
+        "guide": "https://github.com/jashkenas/coffeescript/tree/master/documentation/site",
+        "logohandle": "coffeescript",
+        "sort": "coffeescript"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "title": "Linux",
+    "website": "https://www.linux.com/",
+    "links": {
+        "github": "torvalds/linux",
+        "twitter": "linus__torvalds",
+        "wikipedia": "https://en.wikipedia.org/wiki/Linux"
+    },
+    "logos": [
+        "- linux-icon.svg"
+    ],
+    "other": {
+        "blog": "https://www.linux.com/news",
+        "logohandle": "linux",
+        "sort": "linux"
+    }
+}

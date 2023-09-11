@@ -1,0 +1,17 @@
+{
+    "title": "SoundCloud",
+    "website": "https://soundcloud.com/",
+    "links": {
+        "twitter": "SoundCloud",
+        "wikipedia": "https://en.wikipedia.org/wiki/SoundCloud"
+    },
+    "logos": [
+        "- soundcloud-tile.svg"
+    ],
+    "other": {
+        "blog": "https://blog.soundcloud.com/",
+        "logohandle": "soundcloud",
+        "sort": "soundcloud",
+        "tumblr": "http://soundcloud.tumblr.com/"
+    }
+}

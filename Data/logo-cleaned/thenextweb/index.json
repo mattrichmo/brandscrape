@@ -1,0 +1,18 @@
+{
+    "title": "TNW",
+    "website": "'https://thenextweb.com/'",
+    "links": {
+        "facebook": "'https://facebook.com/thenextweb'",
+        "linkedin": "'https://linkedin.com/company/the-next-web'",
+        "twitter": "thenextweb"
+    },
+    "logos": [],
+    "other": {
+        "googleplus": "'https://plus.google.com/+TheNextWeb'",
+        "instagram": "'https://instagram.com/thenextweb'",
+        "logohandle": "thenextweb",
+        "pinterest": "'https://pinterest.com/thenextweb'",
+        "sort": "thenextweb",
+        "youtube": "'https://youtube.com/user/thenextweb'"
+    }
+}

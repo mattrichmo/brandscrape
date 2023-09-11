@@ -1,0 +1,14 @@
+{
+    "title": "Netlify",
+    "website": "'https://www.netlify.com/'",
+    "links": {
+        "github": "netlify",
+        "twitter": "Netlify"
+    },
+    "logos": [],
+    "other": {
+        "logohandle": "netlify",
+        "sort": "netlify",
+        "youtube": "'https://youtube.com/channel/UCMzabFudT_ntxlueP9R-3Vg'"
+    }
+}

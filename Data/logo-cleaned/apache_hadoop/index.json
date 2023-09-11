@@ -1,0 +1,10 @@
+{
+    "title": "Hadoop",
+    "website": "'https://hadoop.apache.org/'",
+    "links": {},
+    "logos": [],
+    "other": {
+        "logohandle": "apache_hadoop",
+        "sort": "hadoop"
+    }
+}

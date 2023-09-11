@@ -1,0 +1,12 @@
+{
+    "title": "CodeMirror",
+    "website": "'https://codemirror.net/'",
+    "links": {
+        "github": "codemirror/codemirror"
+    },
+    "logos": [],
+    "other": {
+        "logohandle": "codemirror",
+        "sort": "codemirror"
+    }
+}

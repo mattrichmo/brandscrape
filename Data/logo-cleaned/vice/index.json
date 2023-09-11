@@ -1,0 +1,17 @@
+{
+    "title": "VICE",
+    "website": "'https://www.vice.com/en_us'",
+    "links": {
+        "facebook": "'https://facebook.com/VICE'",
+        "twitter": "vice",
+        "wikipedia": "https://en.wikipedia.org/wiki/Vice_Media"
+    },
+    "logos": [],
+    "other": {
+        "instagram": "'http://instagram.com/'",
+        "logohandle": "vice",
+        "pinterest": "'http://pinterest.com/'",
+        "sort": "vice",
+        "youtube": "'https://youtube.com/user/vice'"
+    }
+}

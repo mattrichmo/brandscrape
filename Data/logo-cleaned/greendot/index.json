@@ -1,0 +1,17 @@
+{
+    "title": "Green Dot",
+    "website": "'https://www.greendot.com/'",
+    "links": {
+        "facebook": "'https://facebook.com/GreenDot'",
+        "twitter": "greendotcards",
+        "wikipedia": "'https://en.wikipedia.org/wiki/Green_Dot_Corporation'"
+    },
+    "logos": [],
+    "other": {
+        "blog": "'https://greendot.com/blog'",
+        "instagram": "'https://instagram.com/greendotcards'",
+        "logohandle": "greendot",
+        "sort": "greendot",
+        "youtube": "'https://youtube.com/GreenDotPrepaid'"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "title": "Splunk",
+    "website": "'https://www.splunk.com/'",
+    "links": {
+        "facebook": "'https://facebook.com/splunk'",
+        "linkedin": "'https://linkedin.com/company/splunk'",
+        "twitter": "splunk",
+        "wikipedia": "https://en.wikipedia.org/wiki/Splunk"
+    },
+    "logos": [],
+    "other": {
+        "googleplus": "'https://plus.google.com/+Splunkofficial'",
+        "instagram": "'https://instagram.com/splunk'",
+        "logohandle": "splunk",
+        "sort": "splunk",
+        "youtube": "'https://youtube.com/user/splunkvideos'"
+    }
+}

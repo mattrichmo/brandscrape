@@ -1,0 +1,17 @@
+{
+    "title": "Scaleway",
+    "website": "'https://www.scaleway.com/'",
+    "links": {
+        "facebook": "'https://facebook.com/scaleway'",
+        "github": "scaleway",
+        "linkedin": "'https://linkedin.com/company/scaleway'",
+        "twitter": "scaleway"
+    },
+    "logos": [],
+    "other": {
+        "blog": "'https://blog.scaleway.com/'",
+        "instagram": "'https://instagram.com/scaleway'",
+        "logohandle": "scaleway",
+        "sort": "scaleway"
+    }
+}

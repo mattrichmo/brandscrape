@@ -1,0 +1,26 @@
+{
+    "title": "Red Hat",
+    "website": "https://www.redhat.com/",
+    "links": {
+        "facebook": "http://www.facebook.com/RedHatInc",
+        "github": "redhat-developer",
+        "linkedin": "http://www.linkedin.com/company/red-hat",
+        "twitter": "redhatnews",
+        "wikipedia": "https://en.wikipedia.org/wiki/Red_Hat"
+    },
+    "logos": [
+        "- redhat-ar21.svg"
+    ],
+    "other": {
+        "blog": "https://www.redhat.com/en/blog",
+        "colors": "",
+        "font": "",
+        "name": "Interstate",
+        "url": "https://store.typenetwork.com/foundry/fontbureau/series/interstate",
+        "googleplus": "https://plus.google.com/+RedHat",
+        "guide": "https://brand.redhat.com/",
+        "logohandle": "redhat",
+        "sort": "redhat",
+        "youtube": "http://www.youtube.com/user/RedHatVideos"
+    }
+}

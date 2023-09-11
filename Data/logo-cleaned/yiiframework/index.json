@@ -1,0 +1,14 @@
+{
+    "title": "Yii",
+    "website": "'https://www.yiiframework.com/'",
+    "links": {
+        "facebook": "'https://facebook.com/groups/yiitalk'",
+        "github": "yiisoft",
+        "twitter": "yiiframework"
+    },
+    "logos": [],
+    "other": {
+        "logohandle": "yiiframework",
+        "sort": "yiiframework"
+    }
+}

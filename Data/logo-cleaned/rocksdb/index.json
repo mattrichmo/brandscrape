@@ -1,0 +1,13 @@
+{
+    "title": "RocksDB",
+    "website": "'https://rocksdb.org/'",
+    "links": {
+        "facebook": "'https://facebook.com/groups/rocksdb.dev'",
+        "github": "facebook/rocksdb"
+    },
+    "logos": [],
+    "other": {
+        "logohandle": "rocksdb",
+        "sort": "rocksdb"
+    }
+}

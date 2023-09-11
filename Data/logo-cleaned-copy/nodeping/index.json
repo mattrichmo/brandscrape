@@ -1,0 +1,18 @@
+{
+    "title": "NodePing",
+    "website": "https://nodeping.com/",
+    "links": {
+        "facebook": "https://www.facebook.com/nodeping",
+        "github": "nodeping",
+        "twitter": "nodeping"
+    },
+    "logos": [
+        "- nodeping-ar21.svg"
+    ],
+    "other": {
+        "blog": "http://blog.nodeping.com/",
+        "logohandle": "nodeping",
+        "sort": "nodeping",
+        "tags": ""
+    }
+}

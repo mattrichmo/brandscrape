@@ -1,0 +1,17 @@
+{
+    "title": "Wikidata",
+    "website": "https://www.wikidata.org/wiki/Wikidata:Main_Page",
+    "links": {
+        "github": "Wikidata",
+        "twitter": "wikidata",
+        "wikipedia": "https://en.wikipedia.org/wiki/Wikidata"
+    },
+    "logos": [
+        "- wikidata-icon.svg"
+    ],
+    "other": {
+        "blog": "https://www.wikidata.org/wiki/Wikidata:Status_updates",
+        "logohandle": "wikidata",
+        "sort": "wikidata"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "title": "OpenStack",
+    "website": "https://www.openstack.org/",
+    "links": {
+        "facebook": "https://www.facebook.com/openstack",
+        "github": "openstack",
+        "linkedin": "https://www.linkedin.com/groups/3239106",
+        "twitter": "openstack",
+        "wikipedia": "https://en.wikipedia.org/wiki/OpenStack"
+    },
+    "logos": [
+        "- openstack-icon.svg"
+    ],
+    "other": {
+        "blog": "https://www.openstack.org/blog/",
+        "logohandle": "openstack",
+        "sort": "openstack",
+        "youtube": "https://www.youtube.com/user/OpenStackFoundation"
+    }
+}

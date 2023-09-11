@@ -1,0 +1,18 @@
+{
+    "title": "MailChimp",
+    "website": "'https://mailchimp.com/'",
+    "links": {
+        "facebook": "'https://facebook.com/mailchimp/'",
+        "linkedin": "'https://linkedin.com/company/mailchimp'",
+        "twitter": "MailChimp",
+        "wikipedia": "https://en.wikipedia.org/wiki/MailChimp"
+    },
+    "logos": [],
+    "other": {
+        "blog": "'http://blog.mailchimp.com/'",
+        "instagram": "'https://instagram.com/mailchimp/'",
+        "logohandle": "mailchimp",
+        "sort": "mailchimp",
+        "youtube": "'https://youtube.com/user/MailChimp'"
+    }
+}

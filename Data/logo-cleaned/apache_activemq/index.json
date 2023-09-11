@@ -1,0 +1,17 @@
+{
+    "title": "ActiveMQ",
+    "website": "http://activemq.apache.org/",
+    "links": {
+        "github": "apache/activemq",
+        "wikipedia": "https://en.wikipedia.org/wiki/Apache_ActiveMQ"
+    },
+    "logos": [
+        "- apache_activemq-icon.svg"
+    ],
+    "other": {
+        "blog": "http://activemq.apache.org/news.html",
+        "guide": "https://github.com/apache/activemq/tree/master/docs/img",
+        "logohandle": "apache_activemq",
+        "sort": "activemq"
+    }
+}

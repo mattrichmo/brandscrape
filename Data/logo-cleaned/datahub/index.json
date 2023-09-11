@@ -1,0 +1,16 @@
+{
+    "title": "DataHub",
+    "website": "http://datahub.io/",
+    "links": {
+        "github": "datasets"
+    },
+    "logos": [
+        "- datahub-ar21.svg"
+    ],
+    "other": {
+        "blog": "http://datahub.io/blog",
+        "logohandle": "datahub",
+        "sort": "datahub",
+        "tags": ""
+    }
+}

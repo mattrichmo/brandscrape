@@ -1,0 +1,12 @@
+{
+    "title": "'.architect'",
+    "website": "'https://arc.codes/'",
+    "links": {
+        "github": "arc-repos"
+    },
+    "logos": [],
+    "other": {
+        "logohandle": "arccodes",
+        "sort": "architect"
+    }
+}

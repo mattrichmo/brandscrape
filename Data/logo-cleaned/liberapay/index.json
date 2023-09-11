@@ -1,0 +1,17 @@
+{
+    "title": "Liberapay",
+    "website": "https://en.liberapay.com/",
+    "links": {
+        "facebook": "https://www.facebook.com/Liberapay-472128142945598/",
+        "github": "liberapay",
+        "twitter": "liberapay",
+        "wikipedia": "https://en.wikipedia.org/wiki/Liberapay"
+    },
+    "logos": [],
+    "other": {
+        "blog": "https://framasphere.org/u/liberapay",
+        "colors": "[\"#F5C310\"]",
+        "logohandle": "liberapay",
+        "sort": "liberapay"
+    }
+}

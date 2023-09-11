@@ -1,0 +1,16 @@
+{
+    "title": "Brave Browser",
+    "website": "'https://brave.com/'",
+    "links": {
+        "facebook": "'https://facebook.com/BraveSoftware'",
+        "github": "brave",
+        "twitter": "brave",
+        "wikipedia": "'https://en.wikipedia.org/wiki/Brave_(web_browser)'"
+    },
+    "logos": [],
+    "other": {
+        "logohandle": "brave",
+        "sort": "brave",
+        "youtube": "'https://youtube.com/bravesoftware'"
+    }
+}

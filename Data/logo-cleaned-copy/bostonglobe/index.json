@@ -1,0 +1,14 @@
+{
+    "title": "The Boston Globe",
+    "website": "'https://www.bostonglobe.com/'",
+    "links": {
+        "facebook": "'https://facebook.com/globe'",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Boston_Globe"
+    },
+    "logos": [],
+    "other": {
+        "googleplus": "'https://plus.google.com/108227564341535363126/about'",
+        "logohandle": "bostonglobe",
+        "sort": "bostonglobe"
+    }
+}

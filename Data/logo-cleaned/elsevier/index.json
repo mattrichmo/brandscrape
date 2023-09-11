@@ -1,0 +1,18 @@
+{
+    "title": "Elsevier",
+    "website": "'https://www.elsevier.com/'",
+    "links": {
+        "facebook": "'https://facebook.com/ElsevierConnect'",
+        "linkedin": "'https://linkedin.com/company/elsevier'",
+        "twitter": "ElsevierConnect",
+        "wikipedia": "'https://en.wikipedia.org/wiki/Elsevier'"
+    },
+    "logos": [],
+    "other": {
+        "googleplus": "'https://plus.google.com/+elsevier'",
+        "guide": "https://cdn.elsevier.io/matrix/includes/svg/logo-elsevier-wordmark.svg",
+        "logohandle": "elsevier",
+        "sort": "elsevier",
+        "youtube": "'https://youtube.com/c/elsevier'"
+    }
+}

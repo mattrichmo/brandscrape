@@ -1,0 +1,17 @@
+{
+    "title": "ICANN",
+    "website": "'https://www.icann.org/'",
+    "links": {
+        "facebook": "'http://facebook.com/icannorg'",
+        "linkedin": "'https://linkedin.com/company/icann'",
+        "twitter": "icann",
+        "wikipedia": "'https://en.wikipedia.org/wiki/ICANN'"
+    },
+    "logos": [],
+    "other": {
+        "blog": "'https://www.icann.org/news/blog'",
+        "logohandle": "icann",
+        "sort": "icann",
+        "youtube": "'http://youtube.com/icannnews'"
+    }
+}

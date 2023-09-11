@@ -1,0 +1,13 @@
+{
+    "title": "arc",
+    "website": "'https://arc.dev/'",
+    "links": {
+        "facebook": "'https://facebook.com/arcdotdev'",
+        "twitter": "arcdotdev"
+    },
+    "logos": [],
+    "other": {
+        "logohandle": "arcdev",
+        "sort": "arc"
+    }
+}

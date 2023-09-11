@@ -1,0 +1,16 @@
+{
+    "title": "Backbone.js",
+    "website": "http://backbonejs.org/",
+    "links": {
+        "github": "jashkenas/backbone/",
+        "wikipedia": "https://en.wikipedia.org/wiki/Backbone.js"
+    },
+    "logos": [
+        "- backbonejs-icon.svg"
+    ],
+    "other": {
+        "logohandle": "backbonejs",
+        "sort": "backbonejs",
+        "tags": ""
+    }
+}

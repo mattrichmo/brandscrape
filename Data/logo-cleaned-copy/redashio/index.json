@@ -1,0 +1,14 @@
+{
+    "title": "Redash",
+    "website": "'https://redash.io/'",
+    "links": {
+        "github": "getredash",
+        "twitter": "getredash"
+    },
+    "logos": [],
+    "other": {
+        "blog": "'https://blog.redash.io/'",
+        "logohandle": "redashio",
+        "sort": "redash"
+    }
+}

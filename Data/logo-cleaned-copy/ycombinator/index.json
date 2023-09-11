@@ -1,0 +1,20 @@
+{
+    "title": "Y Combinator",
+    "website": "http://www.ycombinator.com/",
+    "links": {
+        "github": "HackerNews",
+        "linkedin": "https://www.linkedin.com/company/167872/",
+        "twitter": "ycombinator",
+        "wikipedia": "https://en.wikipedia.org/wiki/Y_Combinator_(company)"
+    },
+    "logos": [
+        "- ycombinator-ar21.svg"
+    ],
+    "other": {
+        "blog": "http://www.ycombinator.com/resources/",
+        "colors": "",
+        "logohandle": "ycombinator",
+        "sort": "ycombinator",
+        "tags": ""
+    }
+}

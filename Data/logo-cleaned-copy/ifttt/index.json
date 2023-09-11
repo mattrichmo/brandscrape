@@ -1,0 +1,16 @@
+{
+    "title": "IFTTT",
+    "website": "https://ifttt.com/",
+    "links": {
+        "twitter": "ifttt",
+        "wikipedia": "https://en.wikipedia.org/wiki/IFTTT"
+    },
+    "logos": [
+        "- ifttt-ar21.svg"
+    ],
+    "other": {
+        "blog": "https://ifttt.com/blog",
+        "logohandle": "ifttt",
+        "sort": "ifttt"
+    }
+}

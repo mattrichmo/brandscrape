@@ -1,0 +1,16 @@
+{
+    "title": "Huawei",
+    "website": "'https://www.huawei.com/'",
+    "links": {
+        "facebook": "'http://facebook.com/Huawei'",
+        "linkedin": "'http://linkedin.com/company/huawei'",
+        "twitter": "Huawei",
+        "wikipedia": "'https://en.wikipedia.org/wiki/Huawei'"
+    },
+    "logos": [],
+    "other": {
+        "logohandle": "huawei",
+        "sort": "huawei",
+        "youtube": "'http://youtube.com/Huawei'"
+    }
+}

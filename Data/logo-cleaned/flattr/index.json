@@ -1,0 +1,15 @@
+{
+    "title": "Flattr ",
+    "website": "'https://flattr.com/'",
+    "links": {
+        "facebook": "'https://facebook.com/flattrcom'",
+        "twitter": "flattr",
+        "wikipedia": "https://en.wikipedia.org/wiki/Flattr"
+    },
+    "logos": [],
+    "other": {
+        "blog": "'http://blog.flattr.com/'",
+        "logohandle": "flattr",
+        "sort": "flattr"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "title": "Costco",
+    "website": "https://www.costco.com/",
+    "links": {
+        "facebook": "https://www.facebook.com/costco",
+        "twitter": "Costco",
+        "wikipedia": "https://en.wikipedia.org/wiki/Costco"
+    },
+    "logos": [
+        "- costco-icon.svg"
+    ],
+    "other": {
+        "guide": "https://www.costco.com/logo-media-requests.html",
+        "logohandle": "costco",
+        "sort": "costco",
+        "tags": ""
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "title": "ASUS",
+    "website": "'https://www.asus.com/us/'",
+    "links": {
+        "facebook": "'https://facebook.com/asus.n.america'",
+        "twitter": "ASUSUSA",
+        "wikipedia": "https://en.wikipedia.org/wiki/Asus"
+    },
+    "logos": [],
+    "other": {
+        "instagram": "'http://instagram.com/asususa/'",
+        "logohandle": "asus",
+        "sort": "asus",
+        "youtube": "'http://youtube.com/c/asususa'"
+    }
+}

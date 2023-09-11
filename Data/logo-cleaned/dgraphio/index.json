@@ -1,0 +1,15 @@
+{
+    "title": "Dgraph",
+    "website": "'https://dgraph.io/'",
+    "links": {
+        "github": "dgraph-io/dgraph",
+        "twitter": "dgraphlabs"
+    },
+    "logos": [],
+    "other": {
+        "blog": "'https://blog.dgraph.io/'",
+        "logohandle": "dgraphio",
+        "sort": "dgraph",
+        "youtube": "'https://youtube.com/channel/UCghE41LR8nkKFlR3IFTRO4w/featured'"
+    }
+}

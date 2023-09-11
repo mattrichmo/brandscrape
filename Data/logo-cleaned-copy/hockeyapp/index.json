@@ -1,0 +1,17 @@
+{
+    "title": "HockeyApp",
+    "website": "https://hockeyapp.net/",
+    "links": {
+        "facebook": "https://facebook.com/hockeyapp",
+        "twitter": "mobilecenter"
+    },
+    "logos": [
+        "- hockeyapp-ar21.svg"
+    ],
+    "other": {
+        "guide": "https://www.hockeyapp.net/brand-guidelines/",
+        "logohandle": "hockeyapp",
+        "sort": "hockeyapp",
+        "tags": ""
+    }
+}

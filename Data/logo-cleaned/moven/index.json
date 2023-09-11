@@ -1,0 +1,18 @@
+{
+    "title": "Moven",
+    "website": "'https://moven.com/'",
+    "links": {
+        "facebook": "'https://facebook.com/getMoven'",
+        "github": "moven",
+        "twitter": "getmoven",
+        "wikipedia": "https://en.wikipedia.org/wiki/Movenbank"
+    },
+    "logos": [],
+    "other": {
+        "colors": "[ '#0088BB', '#2FBBCB', '#015B7D' ]",
+        "instagram": "'https://instagram.com/getmoven'",
+        "logohandle": "moven",
+        "sort": "moven",
+        "youtube": "'https://youtube.com/user/MovenTV'"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "title": "Talend",
+    "website": "'https://www.talend.com/'",
+    "links": {
+        "facebook": "'http://facebook.com/talend'",
+        "linkedin": "'https://linkedin.com/company-beta/65485'",
+        "twitter": "talend",
+        "wikipedia": "'https://en.wikipedia.org/wiki/Talend'"
+    },
+    "logos": [],
+    "other": {
+        "instagram": "'https://instagram.com/teamtalend'",
+        "logohandle": "talend",
+        "sort": "talend"
+    }
+}

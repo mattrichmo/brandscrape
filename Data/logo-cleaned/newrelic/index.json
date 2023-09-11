@@ -1,0 +1,19 @@
+{
+    "title": "New Relic",
+    "website": "'https://newrelic.com/'",
+    "links": {
+        "facebook": "'http://facebook.com/NewRelic'",
+        "linkedin": "'https://linkedin.com/company/new-relic-inc-'",
+        "twitter": "NewRelic",
+        "wikipedia": "https://en.wikipedia.org/wiki/New_Relic"
+    },
+    "logos": [],
+    "other": {
+        "blog": "'https://blog.newrelic.com/'",
+        "googleplus": "'https://plus.google.com/b/108825274074563270301/108825274074563270301'",
+        "instagram": "'https://instagram.com/newrelic'",
+        "logohandle": "newrelic",
+        "sort": "newrelic",
+        "youtube": "'https://youtube.com/user/NewRelicInc'"
+    }
+}

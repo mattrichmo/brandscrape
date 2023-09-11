@@ -1,0 +1,17 @@
+{
+    "title": "Minecraft",
+    "website": "https://minecraft.net",
+    "links": {
+        "facebook": "https://www.facebook.com/minecraft/",
+        "twitter": "minecraft",
+        "wikipedia": "https://en.wikipedia.org/wiki/Minecraft"
+    },
+    "logos": [
+        "- minecraft-ar21.svg"
+    ],
+    "other": {
+        "logohandle": "minecraft",
+        "sort": "minecraft",
+        "tags": ""
+    }
+}

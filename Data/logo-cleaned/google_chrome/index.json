@@ -1,0 +1,18 @@
+{
+    "title": "Chrome",
+    "website": "https://www.google.com/chrome/browser/",
+    "links": {
+        "facebook": "https://www.facebook.com/googlechrome/",
+        "twitter": "googlechrome",
+        "wikipedia": "https://en.wikipedia.org/wiki/Google_Chrome"
+    },
+    "logos": [
+        "- google_chrome-icon.svg"
+    ],
+    "other": {
+        "blog": "https://blog.google/products/chrome/",
+        "logohandle": "google_chrome",
+        "sort": "chrome",
+        "tags": ""
+    }
+}

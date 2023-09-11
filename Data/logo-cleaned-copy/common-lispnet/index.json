@@ -1,0 +1,12 @@
+{
+    "title": "Common Lisp",
+    "website": "'https://common-lisp.net/'",
+    "links": {
+        "wikipedia": "'https://en.wikipedia.org/wiki/Common_Lisp'"
+    },
+    "logos": [],
+    "other": {
+        "logohandle": "common-lispnet",
+        "sort": "common-lisp"
+    }
+}

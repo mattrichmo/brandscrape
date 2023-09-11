@@ -1,0 +1,17 @@
+{
+    "title": "LG",
+    "website": "'https://www.lg.com/us'",
+    "links": {
+        "facebook": "'https://facebook.com/LGUSA'",
+        "twitter": "lgus",
+        "wikipedia": "'https://en.wikipedia.org/wiki/LG_Electronics'"
+    },
+    "logos": [],
+    "other": {
+        "instagram": "'https://instagram.com/lgusa'",
+        "logohandle": "lg",
+        "pinterest": "'https://pinterest.com/lgusa'",
+        "sort": "lg",
+        "youtube": "'https://youtube.com/user/ExperienceLG'"
+    }
+}

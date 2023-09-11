@@ -1,0 +1,15 @@
+{
+    "title": "Pino",
+    "website": "'http://getpino.io/'",
+    "links": {
+        "github": "pinojs/pino"
+    },
+    "logos": [],
+    "other": {
+        "font": "",
+        "name": "'Milliard (not exact)'",
+        "gitter": "'https://gitter.im/pinojs/pino'",
+        "logohandle": "getpinoio",
+        "sort": "getpino"
+    }
+}

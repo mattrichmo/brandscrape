@@ -1,0 +1,16 @@
+{
+    "title": "Google Ads",
+    "website": "https://ads.google.com/",
+    "links": {
+        "facebook": "https://www.facebook.com/GoogleAds/",
+        "twitter": "googleads",
+        "wikipedia": "https://en.wikipedia.org/wiki/Google_Ads"
+    },
+    "logos": [],
+    "other": {
+        "blog": "https://blog.google/products/ads/",
+        "logohandle": "google_ads",
+        "sort": "googleads",
+        "youtube": "https://www.youtube.com/googleads"
+    }
+}

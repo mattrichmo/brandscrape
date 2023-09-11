@@ -1,0 +1,13 @@
+{
+    "title": "Grafana",
+    "website": "'https://grafana.com/'",
+    "links": {
+        "github": "grafana/grafana",
+        "twitter": "grafana"
+    },
+    "logos": [],
+    "other": {
+        "logohandle": "grafana",
+        "sort": "grafana"
+    }
+}

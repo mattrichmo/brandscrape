@@ -1,0 +1,19 @@
+{
+    "title": "InfluxData",
+    "website": "'https://www.influxdata.com/'",
+    "links": {
+        "facebook": "'https://facebook.com/influxdb'",
+        "github": "influxdata/influxdb",
+        "linkedin": "'https://linkedin.com/company/5159145'",
+        "twitter": "influxdb",
+        "wikipedia": "'https://en.wikipedia.org/wiki/InfluxDB'"
+    },
+    "logos": [],
+    "other": {
+        "blog": "'https://influxdata.com/blog'",
+        "googleplus": "'https://plus.google.com/communities/114507511002042654305'",
+        "guide": "https://influxdata.github.io/branding/logo/downloads/",
+        "logohandle": "influxdata",
+        "sort": "influxdata"
+    }
+}

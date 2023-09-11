@@ -1,0 +1,16 @@
+{
+    "title": "OJK",
+    "website": "'http://www.ojk.go.id/'",
+    "links": {
+        "facebook": "'https://facebook.com/official.ojk'",
+        "twitter": "OJKINDONESIA",
+        "wikipedia": "'https://en.wikipedia.org/wiki/Financial_Services_Authority_(Indonesia)'"
+    },
+    "logos": [],
+    "other": {
+        "instagram": "'https://instagram.com/ojkindonesia'",
+        "logohandle": "ojkgoid",
+        "sort": "ojk",
+        "youtube": "'http://youtube.com/otoritasjasakeuangan'"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "title": "Adobe Illustrator",
+    "website": "https://www.adobe.com/products/illustrator.html",
+    "links": {
+        "facebook": "https://www.facebook.com/AdobeIllustrator/",
+        "twitter": "Illustrator",
+        "wikipedia": "https://en.wikipedia.org/wiki/Adobe_Illustrator"
+    },
+    "logos": [
+        "- adobe_illustrator-ar21.svg"
+    ],
+    "other": {
+        "blog": "https://blogs.adobe.com/adobeillustrator/",
+        "logohandle": "adobe_illustrator",
+        "sort": "illustrator",
+        "tags": ""
+    }
+}

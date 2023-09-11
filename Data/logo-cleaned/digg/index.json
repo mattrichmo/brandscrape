@@ -1,0 +1,21 @@
+{
+    "title": "Digg",
+    "website": "http://digg.com/",
+    "links": {
+        "facebook": "https://www.facebook.com/digg",
+        "github": "digg",
+        "twitter": "digg"
+    },
+    "logos": [
+        "- digg-icon.svg"
+    ],
+    "other": {
+        "blog": "http://blog.digg.com/",
+        "font": "",
+        "name": "FFF Forward",
+        "url": "https://www.ffonts.net/FFF-Forward.font",
+        "logohandle": "digg",
+        "sort": "digg",
+        "tags": ""
+    }
+}

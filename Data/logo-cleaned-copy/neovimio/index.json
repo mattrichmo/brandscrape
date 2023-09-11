@@ -1,0 +1,15 @@
+{
+    "title": "Neovim",
+    "website": "'https://neovim.io/'",
+    "links": {
+        "github": "neovim/neovim",
+        "twitter": "Neovim",
+        "wikipedia": "'https://en.wikipedia.org/wiki/Vim_(text_editor)#Neovim'"
+    },
+    "logos": [],
+    "other": {
+        "guide": "'https://neovim.io/logos/neovim-logos.zip'",
+        "logohandle": "neovimio",
+        "sort": "neovim"
+    }
+}

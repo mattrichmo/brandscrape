@@ -1,0 +1,19 @@
+{
+    "title": "WhatsApp",
+    "website": "https://www.whatsapp.com/",
+    "links": {
+        "facebook": "https://www.facebook.com/WhatsApp",
+        "github": "WhatsApp",
+        "twitter": "whatsapp",
+        "wikipedia": "https://en.wikipedia.org/wiki/WhatsApp"
+    },
+    "logos": [
+        "- whatsapp-icon.svg"
+    ],
+    "other": {
+        "guide": "https://www.whatsappbrand.com/",
+        "logohandle": "whatsapp",
+        "sort": "whatsapp",
+        "tags": ""
+    }
+}

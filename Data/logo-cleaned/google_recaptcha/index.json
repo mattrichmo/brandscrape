@@ -1,0 +1,16 @@
+{
+    "title": "reCAPTCHA",
+    "website": "https://www.google.com/recaptcha/intro/",
+    "links": {
+        "github": "google/recaptcha",
+        "wikipedia": "https://en.wikipedia.org/wiki/ReCAPTCHA"
+    },
+    "logos": [
+        "- google_recaptcha-official.svg"
+    ],
+    "other": {
+        "colors": "",
+        "logohandle": "google_recaptcha",
+        "sort": "recaptcha"
+    }
+}
